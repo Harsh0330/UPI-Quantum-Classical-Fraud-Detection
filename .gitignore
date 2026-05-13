@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# Backup and temp files
+*backup*
+*broken*
+tempCodeRunnerFile.python
+*.log
+*.bat
+
+# VS Code
+.vscode/
+
+# Misc
+.DS_Store
+.env
+.env.*

@@ -1,0 +1,401 @@
+merchant_id,merchant_name,merchant_category,merchant_size,city,city_tier,avg_daily_transactions,is_registered,rating
+MRC0001,Merchant_1,Insurance,Medium,Bhopal,Tier 2,60,1,4.2
+MRC0002,Merchant_2,Travel,Small,Coimbatore,Tier 2,7,1,4.7
+MRC0003,Merchant_3,Utilities,Small,Mumbai,Tier 1,4,1,4.1
+MRC0004,Merchant_4,Grocery,Small,Rajkot,Tier 2,16,1,4.2
+MRC0005,Merchant_5,Travel,Small,Mumbai,Tier 1,10,1,2.8
+MRC0006,Merchant_6,Food & Dining,Medium,Pune,Tier 1,67,1,3.5
+MRC0007,Merchant_7,Food & Dining,Medium,Ranchi,Tier 3,63,1,4.7
+MRC0008,Merchant_8,Grocery,Small,Delhi,Tier 1,6,1,3.7
+MRC0009,Merchant_9,Grocery,Small,Aurangabad,Tier 3,9,1,3.7
+MRC0010,Merchant_10,Recharge,Small,Lucknow,Tier 2,17,1,2.8
+MRC0011,Merchant_11,Food & Dining,Small,Varanasi,Tier 3,9,1,3.6
+MRC0012,Merchant_12,Entertainment,Medium,Patna,Tier 2,47,1,3.3
+MRC0013,Merchant_13,Travel,Small,Ahmedabad,Tier 1,3,1,4.4
+MRC0014,Merchant_14,Utilities,Small,Delhi,Tier 1,14,1,2.6
+MRC0015,Merchant_15,Grocery,Medium,Guwahati,Tier 3,77,0,2.9
+MRC0016,Merchant_16,Recharge,Small,Hyderabad,Tier 1,12,1,2.6
+MRC0017,Merchant_17,Food & Dining,Small,Solapur,Tier 3,15,1,2.7
+MRC0018,Merchant_18,Insurance,Enterprise,Madurai,Tier 3,233,1,3.6
+MRC0019,Merchant_19,Grocery,Small,Ahmedabad,Tier 1,15,1,3.0
+MRC0020,Merchant_20,Travel,Small,Jodhpur,Tier 3,10,0,4.2
+MRC0021,Merchant_21,Grocery,Small,Hubli,Tier 3,5,1,2.9
+MRC0022,Merchant_22,Grocery,Small,Kanpur,Tier 2,9,1,3.5
+MRC0023,Merchant_23,Utilities,Small,Hubli,Tier 3,13,1,3.6
+MRC0024,Merchant_24,Food & Dining,Medium,Pune,Tier 1,52,1,4.2
+MRC0025,Merchant_25,Grocery,Small,Chennai,Tier 1,14,1,2.6
+MRC0026,Merchant_26,Grocery,Medium,Varanasi,Tier 3,79,1,3.4
+MRC0027,Merchant_27,Shopping,Medium,Madurai,Tier 3,64,1,3.0
+MRC0028,Merchant_28,Food & Dining,Medium,Patna,Tier 2,78,1,3.8
+MRC0029,Merchant_29,Food & Dining,Medium,Bengaluru,Tier 1,35,0,3.6
+MRC0030,Merchant_30,Recharge,Small,Varanasi,Tier 3,15,1,3.5
+MRC0031,Merchant_31,Food & Dining,Medium,Jaipur,Tier 2,85,1,4.7
+MRC0032,Merchant_32,Entertainment,Medium,Nagpur,Tier 2,24,1,4.2
+MRC0033,Merchant_33,Food & Dining,Enterprise,Agra,Tier 2,282,1,4.2
+MRC0034,Merchant_34,Healthcare,Small,Chandigarh,Tier 2,14,1,4.4
+MRC0035,Merchant_35,Travel,Small,Tiruchirappalli,Tier 3,7,1,2.5
+MRC0036,Merchant_36,Grocery,Medium,Indore,Tier 2,58,1,2.9
+MRC0037,Merchant_37,Education,Enterprise,Chandigarh,Tier 2,196,1,4.5
+MRC0038,Merchant_38,Education,Small,Pune,Tier 1,13,1,4.3
+MRC0039,Merchant_39,Shopping,Small,Ahmedabad,Tier 1,16,0,4.6
+MRC0040,Merchant_40,Entertainment,Small,Surat,Tier 2,13,1,4.9
+MRC0041,Merchant_41,Travel,Medium,Delhi,Tier 1,49,1,4.4
+MRC0042,Merchant_42,Shopping,Medium,Mysuru,Tier 3,59,1,3.9
+MRC0043,Merchant_43,Grocery,Medium,Kanpur,Tier 2,56,1,3.0
+MRC0044,Merchant_44,Utilities,Medium,Hyderabad,Tier 1,34,0,4.9
+MRC0045,Merchant_45,Shopping,Small,Mumbai,Tier 1,10,1,3.4
+MRC0046,Merchant_46,Travel,Small,Visakhapatnam,Tier 2,15,1,3.8
+MRC0047,Merchant_47,Travel,Small,Delhi,Tier 1,11,1,4.1
+MRC0048,Merchant_48,Entertainment,Medium,Nashik,Tier 3,70,1,3.4
+MRC0049,Merchant_49,Entertainment,Small,Chandigarh,Tier 2,11,1,3.8
+MRC0050,Merchant_50,Travel,Small,Kochi,Tier 2,11,1,4.8
+MRC0051,Merchant_51,Grocery,Small,Vadodara,Tier 2,14,1,2.9
+MRC0052,Merchant_52,Food & Dining,Medium,Agra,Tier 2,66,1,3.6
+MRC0053,Merchant_53,Grocery,Small,Hubli,Tier 3,8,1,4.2
+MRC0054,Merchant_54,Entertainment,Small,Pune,Tier 1,14,1,4.3
+MRC0055,Merchant_55,Food & Dining,Medium,Delhi,Tier 1,31,0,4.5
+MRC0056,Merchant_56,Shopping,Small,Ranchi,Tier 3,8,1,2.5
+MRC0057,Merchant_57,Education,Small,Indore,Tier 2,14,1,3.7
+MRC0058,Merchant_58,Food & Dining,Small,Delhi,Tier 1,9,1,3.8
+MRC0059,Merchant_59,Entertainment,Medium,Kochi,Tier 2,76,1,3.2
+MRC0060,Merchant_60,Utilities,Small,Amritsar,Tier 3,8,1,4.4
+MRC0061,Merchant_61,Food & Dining,Small,Coimbatore,Tier 2,8,1,3.0
+MRC0062,Merchant_62,Recharge,Enterprise,Vadodara,Tier 2,292,0,3.4
+MRC0063,Merchant_63,Education,Small,Kochi,Tier 2,14,1,3.5
+MRC0064,Merchant_64,Shopping,Medium,Meerut,Tier 3,37,1,4.5
+MRC0065,Merchant_65,Healthcare,Small,Patna,Tier 2,12,1,3.4
+MRC0066,Merchant_66,Food & Dining,Small,Nagpur,Tier 2,8,1,3.2
+MRC0067,Merchant_67,Utilities,Small,Surat,Tier 2,14,1,4.6
+MRC0068,Merchant_68,Recharge,Enterprise,Pune,Tier 1,127,1,2.5
+MRC0069,Merchant_69,Education,Small,Pune,Tier 1,8,1,2.6
+MRC0070,Merchant_70,Food & Dining,Small,Madurai,Tier 3,12,1,4.5
+MRC0071,Merchant_71,Entertainment,Medium,Meerut,Tier 3,80,1,3.3
+MRC0072,Merchant_72,Healthcare,Small,Guwahati,Tier 3,14,0,5.0
+MRC0073,Merchant_73,Recharge,Small,Nagpur,Tier 2,12,1,3.5
+MRC0074,Merchant_74,Grocery,Enterprise,Agra,Tier 2,227,1,4.6
+MRC0075,Merchant_75,Travel,Small,Kochi,Tier 2,14,1,3.6
+MRC0076,Merchant_76,Grocery,Medium,Warangal,Tier 3,74,1,4.3
+MRC0077,Merchant_77,Recharge,Medium,Pune,Tier 1,63,1,3.8
+MRC0078,Merchant_78,Healthcare,Small,Patna,Tier 2,7,1,4.3
+MRC0079,Merchant_79,Grocery,Small,Kanpur,Tier 2,8,1,4.1
+MRC0080,Merchant_80,Education,Medium,Madurai,Tier 3,81,1,4.4
+MRC0081,Merchant_81,Utilities,Small,Varanasi,Tier 3,10,1,3.9
+MRC0082,Merchant_82,Shopping,Enterprise,Jalandhar,Tier 3,194,1,2.7
+MRC0083,Merchant_83,Grocery,Small,Patna,Tier 2,10,1,4.4
+MRC0084,Merchant_84,Fuel,Small,Kanpur,Tier 2,5,1,4.3
+MRC0085,Merchant_85,Recharge,Medium,Indore,Tier 2,64,0,3.9
+MRC0086,Merchant_86,Recharge,Small,Jaipur,Tier 2,10,1,2.8
+MRC0087,Merchant_87,Entertainment,Medium,Ahmedabad,Tier 1,56,1,4.4
+MRC0088,Merchant_88,Shopping,Small,Guwahati,Tier 3,10,1,4.7
+MRC0089,Merchant_89,Utilities,Medium,Visakhapatnam,Tier 2,56,1,4.6
+MRC0090,Merchant_90,Shopping,Medium,Rajkot,Tier 2,58,1,4.5
+MRC0091,Merchant_91,Grocery,Small,Kochi,Tier 2,11,1,2.6
+MRC0092,Merchant_92,Grocery,Small,Delhi,Tier 1,16,1,4.1
+MRC0093,Merchant_93,Entertainment,Medium,Delhi,Tier 1,60,1,4.8
+MRC0094,Merchant_94,Food & Dining,Medium,Delhi,Tier 1,73,1,3.2
+MRC0095,Merchant_95,Recharge,Small,Bengaluru,Tier 1,9,1,3.7
+MRC0096,Merchant_96,Travel,Medium,Bhopal,Tier 2,53,1,3.0
+MRC0097,Merchant_97,Grocery,Small,Ranchi,Tier 3,8,1,2.6
+MRC0098,Merchant_98,Shopping,Medium,Lucknow,Tier 2,96,1,4.1
+MRC0099,Merchant_99,Food & Dining,Small,Mysuru,Tier 3,9,1,3.4
+MRC0100,Merchant_100,Utilities,Small,Kolkata,Tier 1,12,1,3.6
+MRC0101,Merchant_101,Shopping,Small,Bengaluru,Tier 1,16,1,2.5
+MRC0102,Merchant_102,Food & Dining,Small,Kanpur,Tier 2,14,1,4.1
+MRC0103,Merchant_103,Shopping,Medium,Mumbai,Tier 1,51,1,3.4
+MRC0104,Merchant_104,Healthcare,Medium,Jalandhar,Tier 3,43,1,4.0
+MRC0105,Merchant_105,Healthcare,Small,Mumbai,Tier 1,15,1,4.4
+MRC0106,Merchant_106,Shopping,Medium,Indore,Tier 2,77,1,4.0
+MRC0107,Merchant_107,Education,Small,Mumbai,Tier 1,13,1,4.4
+MRC0108,Merchant_108,Utilities,Enterprise,Nagpur,Tier 2,132,1,2.8
+MRC0109,Merchant_109,Healthcare,Medium,Nagpur,Tier 2,55,1,2.8
+MRC0110,Merchant_110,Education,Medium,Delhi,Tier 1,85,1,4.8
+MRC0111,Merchant_111,Utilities,Small,Hubli,Tier 3,13,1,3.0
+MRC0112,Merchant_112,Grocery,Small,Lucknow,Tier 2,11,1,3.9
+MRC0113,Merchant_113,Education,Small,Visakhapatnam,Tier 2,11,1,4.5
+MRC0114,Merchant_114,Food & Dining,Enterprise,Patna,Tier 2,351,1,3.5
+MRC0115,Merchant_115,Healthcare,Enterprise,Hyderabad,Tier 1,219,1,3.0
+MRC0116,Merchant_116,Food & Dining,Small,Chennai,Tier 1,13,0,2.8
+MRC0117,Merchant_117,Shopping,Small,Madurai,Tier 3,10,1,3.3
+MRC0118,Merchant_118,Food & Dining,Small,Madurai,Tier 3,7,1,4.3
+MRC0119,Merchant_119,Recharge,Small,Pune,Tier 1,16,1,3.6
+MRC0120,Merchant_120,Grocery,Small,Tiruchirappalli,Tier 3,9,1,3.3
+MRC0121,Merchant_121,Travel,Small,Lucknow,Tier 2,8,1,3.6
+MRC0122,Merchant_122,Healthcare,Enterprise,Solapur,Tier 3,288,1,4.7
+MRC0123,Merchant_123,Entertainment,Medium,Delhi,Tier 1,74,1,4.7
+MRC0124,Merchant_124,Shopping,Small,Chennai,Tier 1,10,1,3.2
+MRC0125,Merchant_125,Entertainment,Medium,Meerut,Tier 3,55,1,4.9
+MRC0126,Merchant_126,Shopping,Small,Aurangabad,Tier 3,10,1,2.6
+MRC0127,Merchant_127,Food & Dining,Small,Kanpur,Tier 2,15,1,3.6
+MRC0128,Merchant_128,Recharge,Medium,Kanpur,Tier 2,61,1,2.7
+MRC0129,Merchant_129,Utilities,Small,Kolkata,Tier 1,6,1,4.4
+MRC0130,Merchant_130,Recharge,Medium,Delhi,Tier 1,36,1,4.2
+MRC0131,Merchant_131,Grocery,Enterprise,Kolkata,Tier 1,206,1,3.9
+MRC0132,Merchant_132,Grocery,Small,Bhopal,Tier 2,15,1,3.9
+MRC0133,Merchant_133,Entertainment,Small,Amritsar,Tier 3,11,1,3.0
+MRC0134,Merchant_134,Food & Dining,Small,Nagpur,Tier 2,10,1,3.2
+MRC0135,Merchant_135,Entertainment,Medium,Solapur,Tier 3,61,0,4.5
+MRC0136,Merchant_136,Shopping,Small,Surat,Tier 2,4,1,4.7
+MRC0137,Merchant_137,Utilities,Small,Pune,Tier 1,13,1,3.6
+MRC0138,Merchant_138,Healthcare,Small,Chandigarh,Tier 2,12,1,3.0
+MRC0139,Merchant_139,Grocery,Small,Kochi,Tier 2,11,1,2.6
+MRC0140,Merchant_140,Utilities,Small,Hubli,Tier 3,10,1,2.8
+MRC0141,Merchant_141,Shopping,Medium,Guwahati,Tier 3,51,1,4.0
+MRC0142,Merchant_142,Food & Dining,Small,Hyderabad,Tier 1,10,1,3.2
+MRC0143,Merchant_143,Grocery,Small,Surat,Tier 2,13,1,3.9
+MRC0144,Merchant_144,Food & Dining,Medium,Jaipur,Tier 2,43,1,3.2
+MRC0145,Merchant_145,Food & Dining,Small,Chandigarh,Tier 2,13,0,2.6
+MRC0146,Merchant_146,Fuel,Small,Coimbatore,Tier 2,12,1,2.6
+MRC0147,Merchant_147,Food & Dining,Medium,Mumbai,Tier 1,84,1,2.7
+MRC0148,Merchant_148,Food & Dining,Small,Kochi,Tier 2,8,1,3.3
+MRC0149,Merchant_149,Healthcare,Enterprise,Kolkata,Tier 1,162,1,3.5
+MRC0150,Merchant_150,Food & Dining,Small,Aurangabad,Tier 3,11,1,3.7
+MRC0151,Merchant_151,Grocery,Enterprise,Jaipur,Tier 2,248,1,4.2
+MRC0152,Merchant_152,Utilities,Medium,Ahmedabad,Tier 1,44,1,4.1
+MRC0153,Merchant_153,Grocery,Small,Indore,Tier 2,10,1,3.4
+MRC0154,Merchant_154,Shopping,Medium,Delhi,Tier 1,55,1,2.6
+MRC0155,Merchant_155,Shopping,Medium,Jaipur,Tier 2,64,1,5.0
+MRC0156,Merchant_156,Food & Dining,Small,Chandigarh,Tier 2,13,1,3.6
+MRC0157,Merchant_157,Food & Dining,Medium,Bengaluru,Tier 1,62,1,4.3
+MRC0158,Merchant_158,Grocery,Small,Kolkata,Tier 1,11,1,3.8
+MRC0159,Merchant_159,Entertainment,Medium,Jodhpur,Tier 3,70,1,4.7
+MRC0160,Merchant_160,Entertainment,Medium,Hubli,Tier 3,59,1,2.6
+MRC0161,Merchant_161,Grocery,Small,Mumbai,Tier 1,16,0,2.7
+MRC0162,Merchant_162,Utilities,Small,Jalandhar,Tier 3,13,1,4.5
+MRC0163,Merchant_163,Grocery,Medium,Pune,Tier 1,57,1,2.9
+MRC0164,Merchant_164,Utilities,Medium,Bengaluru,Tier 1,64,1,2.8
+MRC0165,Merchant_165,Grocery,Small,Kolkata,Tier 1,12,1,4.4
+MRC0166,Merchant_166,Grocery,Medium,Pune,Tier 1,63,1,4.2
+MRC0167,Merchant_167,Education,Enterprise,Aurangabad,Tier 3,169,1,3.9
+MRC0168,Merchant_168,Recharge,Medium,Ahmedabad,Tier 1,42,0,3.3
+MRC0169,Merchant_169,Grocery,Enterprise,Rajkot,Tier 2,125,1,2.7
+MRC0170,Merchant_170,Food & Dining,Medium,Chennai,Tier 1,60,1,3.4
+MRC0171,Merchant_171,Recharge,Small,Chandigarh,Tier 2,15,1,4.1
+MRC0172,Merchant_172,Utilities,Small,Rajkot,Tier 2,12,1,4.2
+MRC0173,Merchant_173,Grocery,Enterprise,Lucknow,Tier 2,236,0,2.7
+MRC0174,Merchant_174,Food & Dining,Small,Mumbai,Tier 1,10,1,3.7
+MRC0175,Merchant_175,Entertainment,Small,Pune,Tier 1,10,1,2.8
+MRC0176,Merchant_176,Shopping,Enterprise,Hyderabad,Tier 1,223,1,4.4
+MRC0177,Merchant_177,Education,Small,Aurangabad,Tier 3,7,1,4.4
+MRC0178,Merchant_178,Healthcare,Medium,Visakhapatnam,Tier 2,51,1,4.1
+MRC0179,Merchant_179,Food & Dining,Enterprise,Meerut,Tier 3,233,1,4.8
+MRC0180,Merchant_180,Education,Small,Mysuru,Tier 3,11,1,3.5
+MRC0181,Merchant_181,Grocery,Small,Ahmedabad,Tier 1,14,1,3.8
+MRC0182,Merchant_182,Grocery,Small,Pune,Tier 1,11,1,3.2
+MRC0183,Merchant_183,Food & Dining,Small,Kanpur,Tier 2,11,1,4.9
+MRC0184,Merchant_184,Grocery,Medium,Delhi,Tier 1,75,1,4.7
+MRC0185,Merchant_185,Food & Dining,Small,Delhi,Tier 1,11,1,4.7
+MRC0186,Merchant_186,Grocery,Enterprise,Guwahati,Tier 3,376,1,3.7
+MRC0187,Merchant_187,Grocery,Small,Ahmedabad,Tier 1,13,1,2.8
+MRC0188,Merchant_188,Grocery,Small,Coimbatore,Tier 2,14,1,3.6
+MRC0189,Merchant_189,Travel,Medium,Kanpur,Tier 2,72,1,3.6
+MRC0190,Merchant_190,Recharge,Small,Bhopal,Tier 2,8,1,3.2
+MRC0191,Merchant_191,Entertainment,Medium,Lucknow,Tier 2,88,1,3.5
+MRC0192,Merchant_192,Education,Small,Varanasi,Tier 3,12,1,3.2
+MRC0193,Merchant_193,Shopping,Small,Pune,Tier 1,13,1,3.2
+MRC0194,Merchant_194,Food & Dining,Enterprise,Ahmedabad,Tier 1,386,1,2.8
+MRC0195,Merchant_195,Travel,Small,Jaipur,Tier 2,13,1,4.9
+MRC0196,Merchant_196,Grocery,Enterprise,Nagpur,Tier 2,243,1,4.7
+MRC0197,Merchant_197,Shopping,Medium,Agra,Tier 2,57,1,2.7
+MRC0198,Merchant_198,Food & Dining,Small,Delhi,Tier 1,7,1,4.7
+MRC0199,Merchant_199,Utilities,Small,Pune,Tier 1,12,1,2.8
+MRC0200,Merchant_200,Insurance,Enterprise,Tiruchirappalli,Tier 3,251,1,4.2
+MRC0201,Merchant_201,Grocery,Medium,Vadodara,Tier 2,80,1,4.5
+MRC0202,Merchant_202,Shopping,Medium,Bhopal,Tier 2,56,1,4.3
+MRC0203,Merchant_203,Utilities,Medium,Chennai,Tier 1,66,1,2.7
+MRC0204,Merchant_204,Recharge,Medium,Coimbatore,Tier 2,55,1,4.1
+MRC0205,Merchant_205,Travel,Medium,Rajkot,Tier 2,46,1,4.8
+MRC0206,Merchant_206,Education,Small,Mysuru,Tier 3,11,1,4.2
+MRC0207,Merchant_207,Entertainment,Medium,Kanpur,Tier 2,63,1,4.7
+MRC0208,Merchant_208,Recharge,Medium,Guwahati,Tier 3,42,0,4.2
+MRC0209,Merchant_209,Education,Medium,Patna,Tier 2,49,1,2.9
+MRC0210,Merchant_210,Grocery,Small,Hubli,Tier 3,15,1,2.9
+MRC0211,Merchant_211,Grocery,Small,Kochi,Tier 2,11,1,4.0
+MRC0212,Merchant_212,Food & Dining,Small,Vadodara,Tier 2,11,1,3.7
+MRC0213,Merchant_213,Food & Dining,Small,Hyderabad,Tier 1,13,1,2.6
+MRC0214,Merchant_214,Grocery,Medium,Jodhpur,Tier 3,61,1,5.0
+MRC0215,Merchant_215,Healthcare,Small,Hyderabad,Tier 1,12,1,2.9
+MRC0216,Merchant_216,Fuel,Small,Bengaluru,Tier 1,9,1,2.7
+MRC0217,Merchant_217,Travel,Medium,Madurai,Tier 3,65,1,3.6
+MRC0218,Merchant_218,Travel,Small,Tiruchirappalli,Tier 3,14,1,3.9
+MRC0219,Merchant_219,Education,Small,Surat,Tier 2,11,1,3.4
+MRC0220,Merchant_220,Education,Small,Jaipur,Tier 2,13,1,3.3
+MRC0221,Merchant_221,Recharge,Small,Bhopal,Tier 2,11,1,4.4
+MRC0222,Merchant_222,Grocery,Small,Meerut,Tier 3,5,1,4.6
+MRC0223,Merchant_223,Food & Dining,Small,Vadodara,Tier 2,8,1,4.2
+MRC0224,Merchant_224,Shopping,Medium,Mumbai,Tier 1,44,1,3.5
+MRC0225,Merchant_225,Recharge,Small,Hyderabad,Tier 1,14,1,2.9
+MRC0226,Merchant_226,Utilities,Enterprise,Vadodara,Tier 2,254,1,3.9
+MRC0227,Merchant_227,Entertainment,Enterprise,Rajkot,Tier 2,85,0,3.4
+MRC0228,Merchant_228,Grocery,Enterprise,Rajkot,Tier 2,194,1,4.8
+MRC0229,Merchant_229,Entertainment,Small,Patna,Tier 2,11,1,4.9
+MRC0230,Merchant_230,Shopping,Medium,Ahmedabad,Tier 1,68,0,4.7
+MRC0231,Merchant_231,Insurance,Enterprise,Kanpur,Tier 2,373,1,4.2
+MRC0232,Merchant_232,Utilities,Medium,Kolkata,Tier 1,86,1,3.5
+MRC0233,Merchant_233,Food & Dining,Small,Chennai,Tier 1,12,1,2.6
+MRC0234,Merchant_234,Utilities,Medium,Coimbatore,Tier 2,39,1,4.6
+MRC0235,Merchant_235,Utilities,Medium,Lucknow,Tier 2,59,1,3.6
+MRC0236,Merchant_236,Shopping,Small,Kochi,Tier 2,12,1,3.2
+MRC0237,Merchant_237,Fuel,Enterprise,Jodhpur,Tier 3,285,1,4.2
+MRC0238,Merchant_238,Grocery,Medium,Vadodara,Tier 2,35,1,3.8
+MRC0239,Merchant_239,Utilities,Enterprise,Hubli,Tier 3,205,1,4.2
+MRC0240,Merchant_240,Entertainment,Small,Visakhapatnam,Tier 2,10,1,2.7
+MRC0241,Merchant_241,Recharge,Medium,Visakhapatnam,Tier 2,87,1,2.6
+MRC0242,Merchant_242,Shopping,Medium,Chennai,Tier 1,64,1,2.8
+MRC0243,Merchant_243,Food & Dining,Medium,Nashik,Tier 3,75,1,3.6
+MRC0244,Merchant_244,Grocery,Enterprise,Mumbai,Tier 1,179,1,2.8
+MRC0245,Merchant_245,Food & Dining,Small,Indore,Tier 2,9,1,4.6
+MRC0246,Merchant_246,Healthcare,Enterprise,Surat,Tier 2,272,0,3.9
+MRC0247,Merchant_247,Food & Dining,Small,Ranchi,Tier 3,10,1,2.9
+MRC0248,Merchant_248,Entertainment,Small,Tiruchirappalli,Tier 3,12,1,4.0
+MRC0249,Merchant_249,Grocery,Medium,Delhi,Tier 1,74,1,2.6
+MRC0250,Merchant_250,Entertainment,Small,Indore,Tier 2,9,1,4.5
+MRC0251,Merchant_251,Recharge,Medium,Surat,Tier 2,36,1,3.5
+MRC0252,Merchant_252,Utilities,Small,Delhi,Tier 1,14,1,4.8
+MRC0253,Merchant_253,Shopping,Medium,Agra,Tier 2,58,1,3.9
+MRC0254,Merchant_254,Food & Dining,Small,Surat,Tier 2,10,1,4.5
+MRC0255,Merchant_255,Shopping,Enterprise,Bengaluru,Tier 1,220,1,3.0
+MRC0256,Merchant_256,Travel,Enterprise,Guwahati,Tier 3,356,1,3.0
+MRC0257,Merchant_257,Insurance,Medium,Chennai,Tier 1,86,1,3.9
+MRC0258,Merchant_258,Shopping,Small,Ahmedabad,Tier 1,14,1,3.4
+MRC0259,Merchant_259,Healthcare,Medium,Varanasi,Tier 3,52,1,2.7
+MRC0260,Merchant_260,Travel,Small,Coimbatore,Tier 2,10,1,3.3
+MRC0261,Merchant_261,Healthcare,Medium,Kolkata,Tier 1,40,1,3.6
+MRC0262,Merchant_262,Travel,Enterprise,Patna,Tier 2,240,0,3.7
+MRC0263,Merchant_263,Food & Dining,Small,Mumbai,Tier 1,13,0,3.6
+MRC0264,Merchant_264,Food & Dining,Small,Madurai,Tier 3,10,1,4.8
+MRC0265,Merchant_265,Recharge,Enterprise,Hyderabad,Tier 1,189,1,3.4
+MRC0266,Merchant_266,Food & Dining,Small,Agra,Tier 2,17,1,3.9
+MRC0267,Merchant_267,Food & Dining,Medium,Visakhapatnam,Tier 2,54,1,4.6
+MRC0268,Merchant_268,Entertainment,Medium,Kanpur,Tier 2,44,1,2.5
+MRC0269,Merchant_269,Grocery,Small,Ahmedabad,Tier 1,3,1,2.7
+MRC0270,Merchant_270,Travel,Small,Visakhapatnam,Tier 2,12,1,4.1
+MRC0271,Merchant_271,Insurance,Enterprise,Jalandhar,Tier 3,265,1,4.6
+MRC0272,Merchant_272,Grocery,Small,Ahmedabad,Tier 1,12,1,4.7
+MRC0273,Merchant_273,Grocery,Enterprise,Lucknow,Tier 2,332,1,4.2
+MRC0274,Merchant_274,Insurance,Medium,Tiruchirappalli,Tier 3,71,1,4.3
+MRC0275,Merchant_275,Recharge,Small,Bengaluru,Tier 1,14,1,4.9
+MRC0276,Merchant_276,Recharge,Small,Kanpur,Tier 2,14,1,4.2
+MRC0277,Merchant_277,Recharge,Small,Chandigarh,Tier 2,12,1,4.1
+MRC0278,Merchant_278,Travel,Small,Tiruchirappalli,Tier 3,13,0,2.5
+MRC0279,Merchant_279,Food & Dining,Medium,Ahmedabad,Tier 1,69,1,3.0
+MRC0280,Merchant_280,Utilities,Small,Lucknow,Tier 2,10,1,4.0
+MRC0281,Merchant_281,Utilities,Small,Lucknow,Tier 2,12,1,3.1
+MRC0282,Merchant_282,Utilities,Small,Ranchi,Tier 3,10,1,4.6
+MRC0283,Merchant_283,Grocery,Small,Ahmedabad,Tier 1,20,1,4.8
+MRC0284,Merchant_284,Travel,Small,Hubli,Tier 3,6,1,5.0
+MRC0285,Merchant_285,Education,Small,Chandigarh,Tier 2,8,1,4.6
+MRC0286,Merchant_286,Food & Dining,Small,Chennai,Tier 1,15,1,4.2
+MRC0287,Merchant_287,Utilities,Small,Chandigarh,Tier 2,3,1,2.8
+MRC0288,Merchant_288,Insurance,Small,Guwahati,Tier 3,8,1,3.0
+MRC0289,Merchant_289,Utilities,Medium,Chandigarh,Tier 2,75,1,3.1
+MRC0290,Merchant_290,Grocery,Small,Aurangabad,Tier 3,11,1,3.9
+MRC0291,Merchant_291,Food & Dining,Enterprise,Vadodara,Tier 2,332,1,3.2
+MRC0292,Merchant_292,Utilities,Medium,Ranchi,Tier 3,74,0,3.7
+MRC0293,Merchant_293,Shopping,Medium,Warangal,Tier 3,79,1,3.5
+MRC0294,Merchant_294,Shopping,Small,Delhi,Tier 1,8,1,4.5
+MRC0295,Merchant_295,Food & Dining,Medium,Kanpur,Tier 2,41,1,3.6
+MRC0296,Merchant_296,Shopping,Small,Agra,Tier 2,18,1,4.0
+MRC0297,Merchant_297,Food & Dining,Small,Jodhpur,Tier 3,15,1,4.7
+MRC0298,Merchant_298,Utilities,Medium,Agra,Tier 2,75,1,4.8
+MRC0299,Merchant_299,Grocery,Small,Bhopal,Tier 2,10,0,3.7
+MRC0300,Merchant_300,Education,Medium,Tiruchirappalli,Tier 3,64,1,2.5
+MRC0301,Merchant_301,Education,Small,Guwahati,Tier 3,9,1,4.6
+MRC0302,Merchant_302,Education,Small,Coimbatore,Tier 2,14,1,4.8
+MRC0303,Merchant_303,Food & Dining,Medium,Pune,Tier 1,59,1,2.9
+MRC0304,Merchant_304,Food & Dining,Medium,Bengaluru,Tier 1,48,1,4.3
+MRC0305,Merchant_305,Food & Dining,Medium,Kolkata,Tier 1,77,1,4.6
+MRC0306,Merchant_306,Food & Dining,Small,Bengaluru,Tier 1,10,1,4.4
+MRC0307,Merchant_307,Food & Dining,Small,Visakhapatnam,Tier 2,6,1,2.7
+MRC0308,Merchant_308,Recharge,Enterprise,Chandigarh,Tier 2,178,1,3.4
+MRC0309,Merchant_309,Grocery,Small,Nashik,Tier 3,10,1,3.0
+MRC0310,Merchant_310,Utilities,Small,Chennai,Tier 1,8,1,3.3
+MRC0311,Merchant_311,Food & Dining,Small,Kolkata,Tier 1,10,1,4.6
+MRC0312,Merchant_312,Utilities,Medium,Lucknow,Tier 2,70,1,4.6
+MRC0313,Merchant_313,Travel,Small,Bengaluru,Tier 1,8,1,4.2
+MRC0314,Merchant_314,Utilities,Medium,Ahmedabad,Tier 1,50,1,3.7
+MRC0315,Merchant_315,Education,Small,Kochi,Tier 2,8,1,4.4
+MRC0316,Merchant_316,Grocery,Medium,Varanasi,Tier 3,101,1,3.1
+MRC0317,Merchant_317,Education,Medium,Bengaluru,Tier 1,92,1,3.5
+MRC0318,Merchant_318,Shopping,Small,Patna,Tier 2,17,1,2.7
+MRC0319,Merchant_319,Shopping,Enterprise,Chennai,Tier 1,159,1,4.6
+MRC0320,Merchant_320,Shopping,Small,Delhi,Tier 1,15,1,3.4
+MRC0321,Merchant_321,Travel,Small,Surat,Tier 2,16,1,4.8
+MRC0322,Merchant_322,Recharge,Medium,Bhopal,Tier 2,55,1,3.6
+MRC0323,Merchant_323,Recharge,Small,Guwahati,Tier 3,8,0,3.9
+MRC0324,Merchant_324,Food & Dining,Enterprise,Mysuru,Tier 3,227,1,3.7
+MRC0325,Merchant_325,Healthcare,Small,Surat,Tier 2,14,1,3.0
+MRC0326,Merchant_326,Entertainment,Enterprise,Kanpur,Tier 2,302,1,3.8
+MRC0327,Merchant_327,Fuel,Medium,Kochi,Tier 2,44,1,4.0
+MRC0328,Merchant_328,Shopping,Enterprise,Delhi,Tier 1,175,1,4.5
+MRC0329,Merchant_329,Shopping,Enterprise,Mumbai,Tier 1,370,1,3.5
+MRC0330,Merchant_330,Healthcare,Medium,Coimbatore,Tier 2,60,1,3.4
+MRC0331,Merchant_331,Grocery,Medium,Surat,Tier 2,39,1,4.8
+MRC0332,Merchant_332,Utilities,Medium,Warangal,Tier 3,37,1,3.0
+MRC0333,Merchant_333,Grocery,Small,Nagpur,Tier 2,16,1,3.7
+MRC0334,Merchant_334,Shopping,Small,Jalandhar,Tier 3,15,1,4.7
+MRC0335,Merchant_335,Food & Dining,Enterprise,Chandigarh,Tier 2,385,1,2.7
+MRC0336,Merchant_336,Recharge,Small,Amritsar,Tier 3,15,1,4.7
+MRC0337,Merchant_337,Food & Dining,Small,Delhi,Tier 1,12,1,3.8
+MRC0338,Merchant_338,Food & Dining,Small,Delhi,Tier 1,10,1,3.1
+MRC0339,Merchant_339,Travel,Enterprise,Kolkata,Tier 1,230,1,4.6
+MRC0340,Merchant_340,Travel,Small,Hubli,Tier 3,15,1,3.1
+MRC0341,Merchant_341,Recharge,Medium,Rajkot,Tier 2,49,1,4.7
+MRC0342,Merchant_342,Grocery,Small,Kanpur,Tier 2,10,0,2.7
+MRC0343,Merchant_343,Healthcare,Small,Agra,Tier 2,11,1,3.8
+MRC0344,Merchant_344,Food & Dining,Medium,Solapur,Tier 3,50,1,3.5
+MRC0345,Merchant_345,Recharge,Small,Jodhpur,Tier 3,9,1,4.7
+MRC0346,Merchant_346,Grocery,Small,Ahmedabad,Tier 1,10,1,5.0
+MRC0347,Merchant_347,Education,Enterprise,Surat,Tier 2,425,1,3.3
+MRC0348,Merchant_348,Grocery,Small,Chennai,Tier 1,13,1,4.7
+MRC0349,Merchant_349,Education,Small,Jodhpur,Tier 3,8,1,3.9
+MRC0350,Merchant_350,Entertainment,Medium,Kolkata,Tier 1,69,1,4.2
+MRC0351,Merchant_351,Travel,Small,Indore,Tier 2,13,1,3.7
+MRC0352,Merchant_352,Food & Dining,Medium,Kochi,Tier 2,81,0,4.8
+MRC0353,Merchant_353,Entertainment,Small,Mumbai,Tier 1,9,1,2.7
+MRC0354,Merchant_354,Food & Dining,Small,Amritsar,Tier 3,12,1,4.0
+MRC0355,Merchant_355,Recharge,Medium,Delhi,Tier 1,87,1,3.7
+MRC0356,Merchant_356,Grocery,Medium,Bengaluru,Tier 1,58,1,2.6
+MRC0357,Merchant_357,Shopping,Medium,Jodhpur,Tier 3,91,1,3.1
+MRC0358,Merchant_358,Grocery,Medium,Kolkata,Tier 1,56,1,3.3
+MRC0359,Merchant_359,Shopping,Medium,Hyderabad,Tier 1,61,1,2.6
+MRC0360,Merchant_360,Food & Dining,Medium,Kochi,Tier 2,65,1,3.0
+MRC0361,Merchant_361,Insurance,Enterprise,Agra,Tier 2,240,1,4.2
+MRC0362,Merchant_362,Utilities,Small,Mumbai,Tier 1,12,1,2.6
+MRC0363,Merchant_363,Travel,Small,Pune,Tier 1,14,1,3.6
+MRC0364,Merchant_364,Grocery,Small,Amritsar,Tier 3,14,1,2.8
+MRC0365,Merchant_365,Travel,Small,Ranchi,Tier 3,14,1,5.0
+MRC0366,Merchant_366,Recharge,Small,Jalandhar,Tier 3,13,1,3.4
+MRC0367,Merchant_367,Recharge,Small,Varanasi,Tier 3,12,1,3.1
+MRC0368,Merchant_368,Recharge,Small,Solapur,Tier 3,12,1,3.5
+MRC0369,Merchant_369,Healthcare,Small,Madurai,Tier 3,13,1,4.5
+MRC0370,Merchant_370,Utilities,Small,Agra,Tier 2,10,1,4.5
+MRC0371,Merchant_371,Utilities,Medium,Chandigarh,Tier 2,60,1,4.5
+MRC0372,Merchant_372,Entertainment,Small,Lucknow,Tier 2,14,1,3.6
+MRC0373,Merchant_373,Healthcare,Small,Chennai,Tier 1,12,1,3.4
+MRC0374,Merchant_374,Recharge,Medium,Hyderabad,Tier 1,37,0,2.8
+MRC0375,Merchant_375,Travel,Enterprise,Amritsar,Tier 3,273,1,2.8
+MRC0376,Merchant_376,Entertainment,Medium,Lucknow,Tier 2,85,1,4.8
+MRC0377,Merchant_377,Utilities,Small,Nagpur,Tier 2,9,1,4.3
+MRC0378,Merchant_378,Travel,Small,Bhopal,Tier 2,11,1,4.6
+MRC0379,Merchant_379,Education,Medium,Vadodara,Tier 2,61,1,4.9
+MRC0380,Merchant_380,Shopping,Enterprise,Chennai,Tier 1,284,1,3.1
+MRC0381,Merchant_381,Grocery,Small,Chennai,Tier 1,12,1,3.9
+MRC0382,Merchant_382,Healthcare,Medium,Lucknow,Tier 2,73,1,4.8
+MRC0383,Merchant_383,Utilities,Enterprise,Tiruchirappalli,Tier 3,262,0,3.7
+MRC0384,Merchant_384,Food & Dining,Enterprise,Lucknow,Tier 2,219,1,2.8
+MRC0385,Merchant_385,Food & Dining,Small,Coimbatore,Tier 2,12,1,4.4
+MRC0386,Merchant_386,Recharge,Small,Mysuru,Tier 3,9,1,4.3
+MRC0387,Merchant_387,Recharge,Small,Bengaluru,Tier 1,12,1,3.1
+MRC0388,Merchant_388,Recharge,Small,Ahmedabad,Tier 1,9,1,3.6
+MRC0389,Merchant_389,Travel,Small,Lucknow,Tier 2,13,1,4.6
+MRC0390,Merchant_390,Shopping,Medium,Chennai,Tier 1,71,1,3.5
+MRC0391,Merchant_391,Entertainment,Medium,Delhi,Tier 1,64,1,4.6
+MRC0392,Merchant_392,Shopping,Medium,Patna,Tier 2,64,1,4.7
+MRC0393,Merchant_393,Food & Dining,Medium,Amritsar,Tier 3,72,1,3.1
+MRC0394,Merchant_394,Insurance,Medium,Pune,Tier 1,56,1,3.6
+MRC0395,Merchant_395,Shopping,Enterprise,Jaipur,Tier 2,222,1,2.6
+MRC0396,Merchant_396,Utilities,Small,Kolkata,Tier 1,6,1,4.8
+MRC0397,Merchant_397,Healthcare,Medium,Kochi,Tier 2,45,1,4.8
+MRC0398,Merchant_398,Entertainment,Medium,Indore,Tier 2,49,1,4.4
+MRC0399,Merchant_399,Recharge,Medium,Hyderabad,Tier 1,48,1,3.4
+MRC0400,Merchant_400,Food & Dining,Small,Chandigarh,Tier 2,12,1,4.7

@@ -1,0 +1,2001 @@
+user_id,age_group,city,city_tier,kyc_status,account_age_days,linked_bank_count,avg_monthly_transactions,avg_transaction_value,preferred_app,preferred_device,user_loyalty_score,is_high_risk_user
+USR00001,55+,Surat,Tier 2,Verified,486,1,19,629.65,GPay,Android,0.348,0
+USR00002,35-44,Tiruchirappalli,Tier 3,Verified,449,2,15,429.28,GPay,Android,0.903,0
+USR00003,25-34,Pune,Tier 1,Verified,160,1,56,340.67,GPay,Android,0.297,0
+USR00004,25-34,Jaipur,Tier 2,Verified,2328,1,30,221.18,PhonePe,Android,0.685,0
+USR00005,18-24,Nagpur,Tier 2,Verified,1869,2,24,918.09,GPay,iOS,0.828,1
+USR00006,18-24,Kochi,Tier 2,Verified,683,2,37,249.97,GPay,Android,0.406,0
+USR00007,18-24,Kochi,Tier 2,Not Verified,1408,1,31,882.61,Amazon Pay,Android,0.442,0
+USR00008,18-24,Kolkata,Tier 1,Verified,1113,3,25,551.88,BHIM,Android,0.757,0
+USR00009,25-34,Pune,Tier 1,Verified,352,2,52,1447.92,Paytm,iOS,0.846,0
+USR00010,25-34,Kolkata,Tier 1,Verified,2394,1,49,1526.24,PhonePe,Android,0.163,0
+USR00011,25-34,Chennai,Tier 1,Verified,356,3,56,1015.54,PhonePe,Android,0.88,0
+USR00012,35-44,Vadodara,Tier 2,Verified,1524,1,29,1329.58,PhonePe,Android,0.42,0
+USR00013,18-24,Delhi,Tier 1,Verified,730,2,25,1588.8,PhonePe,iOS,0.32,0
+USR00014,25-34,Chennai,Tier 1,Verified,2311,1,34,629.03,Amazon Pay,iOS,0.392,0
+USR00015,45-54,Jaipur,Tier 2,Verified,968,3,42,577.76,Amazon Pay,Android,0.825,0
+USR00016,25-34,Delhi,Tier 1,Verified,894,3,48,994.13,GPay,Android,0.61,0
+USR00017,25-34,Nagpur,Tier 2,Verified,2074,1,34,470.69,PhonePe,Android,0.923,0
+USR00018,25-34,Visakhapatnam,Tier 2,Not Verified,601,1,12,511.79,GPay,Android,0.605,0
+USR00019,25-34,Agra,Tier 2,Verified,1784,3,34,445.15,GPay,Android,0.459,0
+USR00020,55+,Kanpur,Tier 2,Verified,2117,1,40,816.47,GPay,iOS,0.78,0
+USR00021,35-44,Kanpur,Tier 2,Verified,685,2,22,544.55,BHIM,Android,0.48,0
+USR00022,18-24,Pune,Tier 1,Verified,2470,4,24,885.7,Paytm,Android,0.576,0
+USR00023,25-34,Chandigarh,Tier 2,Not Verified,77,2,26,305.67,GPay,Web,0.203,0
+USR00024,25-34,Madurai,Tier 3,Verified,1122,2,19,679.16,PhonePe,Android,0.406,0
+USR00025,45-54,Bengaluru,Tier 1,Not Verified,1888,1,25,1736.58,PhonePe,iOS,0.75,0
+USR00026,45-54,Aurangabad,Tier 3,Verified,761,2,14,356.35,GPay,iOS,0.196,0
+USR00027,18-24,Chandigarh,Tier 2,Verified,2109,2,31,250.56,Paytm,iOS,0.238,0
+USR00028,35-44,Mumbai,Tier 1,Verified,2483,1,60,519.48,Paytm,iOS,0.118,0
+USR00029,25-34,Indore,Tier 2,Verified,1289,1,17,327.26,GPay,Web,0.317,0
+USR00030,45-54,Lucknow,Tier 2,Verified,380,2,30,1243.83,PhonePe,Android,0.834,0
+USR00031,35-44,Bengaluru,Tier 1,Verified,555,2,45,782.8,GPay,Web,0.952,0
+USR00032,45-54,Aurangabad,Tier 3,Verified,1763,4,20,296.75,WhatsApp Pay,iOS,0.936,0
+USR00033,25-34,Hyderabad,Tier 1,Verified,1306,1,32,624.82,PhonePe,Web,0.705,0
+USR00034,35-44,Indore,Tier 2,Verified,2149,1,30,261.92,BHIM,iOS,0.323,0
+USR00035,35-44,Jaipur,Tier 2,Verified,2439,2,38,361.94,BHIM,iOS,0.63,1
+USR00036,25-34,Tiruchirappalli,Tier 3,Verified,271,1,21,612.72,Paytm,iOS,0.915,0
+USR00037,25-34,Ranchi,Tier 3,Verified,2135,1,18,185.49,GPay,Android,0.702,0
+USR00038,25-34,Kanpur,Tier 2,Verified,2368,2,25,999.44,GPay,Android,0.319,0
+USR00039,18-24,Amritsar,Tier 3,Verified,809,1,30,936.94,Paytm,iOS,0.693,0
+USR00040,25-34,Amritsar,Tier 3,Verified,1942,3,14,516.99,PhonePe,Android,0.149,0
+USR00041,55+,Delhi,Tier 1,Verified,278,1,34,2303.11,GPay,Android,0.405,0
+USR00042,25-34,Hyderabad,Tier 1,Verified,814,1,27,1474.32,Amazon Pay,iOS,0.504,0
+USR00043,35-44,Visakhapatnam,Tier 2,Verified,1924,1,23,241.26,Paytm,Android,0.931,0
+USR00044,18-24,Delhi,Tier 1,Verified,237,2,50,1352.91,PhonePe,Android,0.587,1
+USR00045,25-34,Lucknow,Tier 2,Verified,998,1,12,238.34,PhonePe,Android,0.537,0
+USR00046,25-34,Pune,Tier 1,Verified,270,1,60,855.23,Paytm,Android,0.102,0
+USR00047,35-44,Ahmedabad,Tier 1,Verified,1198,1,53,916.8,PhonePe,Android,0.962,0
+USR00048,25-34,Coimbatore,Tier 2,Verified,2023,1,28,740.13,WhatsApp Pay,iOS,0.367,0
+USR00049,18-24,Mumbai,Tier 1,Verified,1314,1,38,962.75,GPay,iOS,0.626,0
+USR00050,45-54,Bengaluru,Tier 1,Verified,262,4,49,560.87,Paytm,iOS,0.172,0
+USR00051,35-44,Agra,Tier 2,Verified,308,2,34,339.59,BHIM,Web,0.312,0
+USR00052,25-34,Indore,Tier 2,Verified,2363,1,34,460.59,BHIM,Android,0.635,0
+USR00053,35-44,Amritsar,Tier 3,Verified,2420,2,18,541.93,BHIM,Android,0.385,0
+USR00054,25-34,Warangal,Tier 3,Verified,1316,1,19,286.71,Amazon Pay,Android,0.456,0
+USR00055,25-34,Visakhapatnam,Tier 2,Verified,1902,1,40,253.62,Paytm,iOS,0.777,0
+USR00056,18-24,Nashik,Tier 3,Verified,2336,4,18,206.49,PhonePe,iOS,0.166,0
+USR00057,18-24,Visakhapatnam,Tier 2,Verified,572,3,35,1174.45,GPay,Android,0.893,0
+USR00058,18-24,Bhopal,Tier 2,Verified,1197,1,25,597.68,GPay,Web,0.85,0
+USR00059,25-34,Agra,Tier 2,Verified,2196,1,24,1176.03,GPay,iOS,0.835,0
+USR00060,25-34,Surat,Tier 2,Not Verified,454,3,29,284.95,GPay,Android,0.221,0
+USR00061,18-24,Delhi,Tier 1,Verified,2296,1,62,1349.86,PhonePe,Web,0.354,0
+USR00062,25-34,Bhopal,Tier 2,Verified,863,2,32,523.94,GPay,Android,0.868,0
+USR00063,25-34,Hubli,Tier 3,Verified,238,1,15,946.29,Paytm,Android,0.481,0
+USR00064,18-24,Jodhpur,Tier 3,Verified,1396,2,29,190.87,GPay,Android,0.673,0
+USR00065,25-34,Rajkot,Tier 2,Verified,1839,2,12,646.33,BHIM,iOS,0.485,1
+USR00066,45-54,Delhi,Tier 1,Verified,640,2,27,2550.67,Amazon Pay,iOS,0.851,0
+USR00067,18-24,Bengaluru,Tier 1,Verified,1790,1,48,440.02,PhonePe,Web,0.377,0
+USR00068,45-54,Madurai,Tier 3,Verified,193,3,9,216.36,GPay,iOS,0.289,0
+USR00069,55+,Ranchi,Tier 3,Not Verified,1478,2,26,373.92,Amazon Pay,iOS,0.896,0
+USR00070,25-34,Bengaluru,Tier 1,Verified,999,3,46,1157.36,GPay,iOS,0.979,0
+USR00071,25-34,Indore,Tier 2,Verified,1718,1,32,1776.27,Paytm,Android,0.763,0
+USR00072,25-34,Varanasi,Tier 3,Verified,1716,3,16,555.3,GPay,Android,0.878,0
+USR00073,35-44,Hubli,Tier 3,Verified,682,2,15,252.44,GPay,Android,0.197,0
+USR00074,25-34,Chandigarh,Tier 2,Verified,1957,1,27,799.79,PhonePe,iOS,0.835,0
+USR00075,35-44,Visakhapatnam,Tier 2,Verified,962,1,29,838.55,GPay,Android,0.694,0
+USR00076,25-34,Hubli,Tier 3,Verified,314,4,10,463.3,GPay,Android,0.351,0
+USR00077,18-24,Pune,Tier 1,Verified,2226,1,30,1138.93,PhonePe,iOS,0.125,0
+USR00078,35-44,Visakhapatnam,Tier 2,Verified,761,2,25,323.15,GPay,Android,0.985,1
+USR00079,25-34,Pune,Tier 1,Verified,1445,2,45,216.06,Paytm,Android,0.382,0
+USR00080,35-44,Aurangabad,Tier 3,Verified,503,1,17,271.51,BHIM,iOS,0.619,0
+USR00081,18-24,Pune,Tier 1,Verified,36,2,77,705.43,PhonePe,Android,0.826,0
+USR00082,18-24,Rajkot,Tier 2,Verified,837,1,35,626.77,PhonePe,Android,0.163,0
+USR00083,25-34,Kolkata,Tier 1,Verified,1315,2,34,493.99,PhonePe,Android,0.212,0
+USR00084,18-24,Chennai,Tier 1,Verified,1702,1,67,1442.63,Paytm,Android,0.727,0
+USR00085,25-34,Hyderabad,Tier 1,Verified,1752,2,39,2196.15,GPay,Android,0.441,0
+USR00086,35-44,Kanpur,Tier 2,Verified,2361,1,17,728.95,GPay,Android,0.593,1
+USR00087,18-24,Chennai,Tier 1,Verified,890,1,33,612.86,Amazon Pay,Android,0.622,0
+USR00088,25-34,Vadodara,Tier 2,Not Verified,1839,1,27,301.66,WhatsApp Pay,iOS,0.292,0
+USR00089,25-34,Varanasi,Tier 3,Verified,725,2,20,351.1,PhonePe,Android,0.355,0
+USR00090,35-44,Kolkata,Tier 1,Verified,412,3,34,287.81,PhonePe,Android,0.776,0
+USR00091,35-44,Hyderabad,Tier 1,Verified,845,1,29,998.13,PhonePe,Android,0.142,0
+USR00092,25-34,Delhi,Tier 1,Verified,1895,1,58,601.3,GPay,iOS,0.667,0
+USR00093,35-44,Tiruchirappalli,Tier 3,Verified,1602,1,8,166.83,Amazon Pay,iOS,0.32,0
+USR00094,18-24,Jodhpur,Tier 3,Verified,466,2,18,282.36,PhonePe,iOS,0.297,0
+USR00095,35-44,Ahmedabad,Tier 1,Verified,235,2,40,701.91,BHIM,iOS,0.926,0
+USR00096,25-34,Kanpur,Tier 2,Not Verified,1933,2,40,407.07,PhonePe,Android,0.989,0
+USR00097,25-34,Kochi,Tier 2,Verified,1842,2,15,525.03,Amazon Pay,Android,0.747,0
+USR00098,45-54,Chandigarh,Tier 2,Verified,2274,1,16,1032.85,GPay,iOS,0.243,0
+USR00099,25-34,Vadodara,Tier 2,Not Verified,1091,2,25,662.57,GPay,Android,0.856,0
+USR00100,18-24,Kochi,Tier 2,Verified,2165,1,34,635.25,PhonePe,iOS,0.315,0
+USR00101,45-54,Chennai,Tier 1,Verified,990,1,62,650.96,GPay,Android,0.388,0
+USR00102,35-44,Kanpur,Tier 2,Verified,647,1,33,1603.44,GPay,Android,0.725,0
+USR00103,45-54,Delhi,Tier 1,Verified,1729,1,32,210.69,Amazon Pay,Android,0.588,0
+USR00104,25-34,Nagpur,Tier 2,Verified,1750,1,30,803.75,Paytm,Web,0.793,0
+USR00105,18-24,Jaipur,Tier 2,Verified,2388,1,17,1613.12,Paytm,Web,0.105,0
+USR00106,25-34,Madurai,Tier 3,Verified,1627,3,18,597.7,PhonePe,Android,0.958,0
+USR00107,25-34,Hyderabad,Tier 1,Verified,2029,1,56,211.2,Amazon Pay,Android,0.492,1
+USR00108,35-44,Kolkata,Tier 1,Verified,1686,2,41,344.93,GPay,Android,0.856,0
+USR00109,25-34,Agra,Tier 2,Not Verified,2217,1,39,171.9,Paytm,Android,0.455,0
+USR00110,18-24,Jaipur,Tier 2,Not Verified,373,2,27,267.71,GPay,Web,0.222,0
+USR00111,35-44,Jaipur,Tier 2,Verified,1095,1,22,779.3,Amazon Pay,Android,0.29,0
+USR00112,18-24,Pune,Tier 1,Verified,1169,2,35,906.05,Paytm,Android,0.849,0
+USR00113,25-34,Lucknow,Tier 2,Verified,1956,1,19,587.6,GPay,iOS,0.585,0
+USR00114,25-34,Jalandhar,Tier 3,Verified,948,2,12,887.08,GPay,Android,0.803,0
+USR00115,35-44,Kochi,Tier 2,Verified,157,3,23,335.91,Paytm,Android,0.279,1
+USR00116,35-44,Bengaluru,Tier 1,Verified,1007,1,28,1303.8,GPay,Android,0.703,0
+USR00117,45-54,Nagpur,Tier 2,Verified,1934,2,44,284.17,GPay,Android,0.79,0
+USR00118,18-24,Solapur,Tier 3,Verified,499,2,19,146.34,PhonePe,iOS,0.247,0
+USR00119,25-34,Solapur,Tier 3,Verified,135,3,25,108.28,GPay,Android,0.618,0
+USR00120,25-34,Patna,Tier 2,Verified,1654,3,31,490.68,Paytm,Android,0.278,0
+USR00121,25-34,Meerut,Tier 3,Not Verified,1024,1,16,695.2,GPay,Android,0.795,0
+USR00122,35-44,Agra,Tier 2,Verified,525,2,31,465.65,WhatsApp Pay,Android,0.609,1
+USR00123,25-34,Pune,Tier 1,Verified,1547,1,23,1183.65,PhonePe,iOS,0.683,1
+USR00124,18-24,Amritsar,Tier 3,Verified,2037,1,19,559.02,PhonePe,iOS,0.965,0
+USR00125,45-54,Ahmedabad,Tier 1,Verified,656,1,50,205.08,GPay,Android,0.76,0
+USR00126,18-24,Visakhapatnam,Tier 2,Verified,2234,2,24,223.59,GPay,Android,0.518,0
+USR00127,25-34,Agra,Tier 2,Verified,1129,1,48,433.16,Amazon Pay,iOS,0.321,0
+USR00128,18-24,Chennai,Tier 1,Verified,1876,1,37,914.56,PhonePe,Android,0.518,0
+USR00129,35-44,Pune,Tier 1,Verified,1407,1,47,695.29,PhonePe,iOS,0.866,0
+USR00130,25-34,Nagpur,Tier 2,Verified,1483,2,35,932.03,GPay,Android,0.406,0
+USR00131,18-24,Rajkot,Tier 2,Not Verified,1161,2,18,453.99,PhonePe,iOS,0.565,0
+USR00132,35-44,Nagpur,Tier 2,Verified,1694,1,37,684.94,GPay,Android,0.782,0
+USR00133,55+,Ahmedabad,Tier 1,Not Verified,1865,2,56,921.08,GPay,iOS,0.184,0
+USR00134,45-54,Hyderabad,Tier 1,Not Verified,1284,2,44,1279.39,BHIM,iOS,0.432,0
+USR00135,45-54,Kolkata,Tier 1,Verified,1772,4,26,1148.09,GPay,Android,0.595,0
+USR00136,25-34,Vadodara,Tier 2,Verified,1139,1,28,399.41,PhonePe,iOS,0.307,0
+USR00137,35-44,Kolkata,Tier 1,Not Verified,519,2,26,1207.78,GPay,iOS,0.956,0
+USR00138,45-54,Hyderabad,Tier 1,Verified,916,2,38,1979.99,PhonePe,Android,0.349,0
+USR00139,55+,Madurai,Tier 3,Verified,2178,2,8,107.92,Paytm,Android,0.982,0
+USR00140,25-34,Chennai,Tier 1,Verified,961,1,31,536.23,GPay,Android,0.372,0
+USR00141,25-34,Guwahati,Tier 3,Verified,1153,1,12,466.91,Amazon Pay,iOS,0.149,0
+USR00142,25-34,Bengaluru,Tier 1,Not Verified,2040,1,44,1274.27,PhonePe,Android,0.111,0
+USR00143,25-34,Nashik,Tier 3,Not Verified,1834,1,24,819.95,PhonePe,Android,0.969,0
+USR00144,25-34,Ahmedabad,Tier 1,Verified,497,3,36,1734.8,GPay,Web,0.461,0
+USR00145,45-54,Warangal,Tier 3,Not Verified,249,1,15,153.31,Paytm,iOS,0.83,0
+USR00146,45-54,Delhi,Tier 1,Verified,1046,1,47,342.34,PhonePe,Android,0.788,0
+USR00147,45-54,Hyderabad,Tier 1,Verified,2170,1,52,1628.48,PhonePe,Android,0.918,0
+USR00148,25-34,Agra,Tier 2,Verified,1786,1,29,1526.24,GPay,Android,0.659,0
+USR00149,18-24,Rajkot,Tier 2,Verified,436,3,1,308.49,PhonePe,iOS,0.287,0
+USR00150,35-44,Delhi,Tier 1,Verified,673,1,52,685.17,Paytm,iOS,0.597,0
+USR00151,45-54,Amritsar,Tier 3,Verified,1875,2,20,518.55,Paytm,Android,0.523,1
+USR00152,18-24,Hubli,Tier 3,Not Verified,1188,2,17,338.53,PhonePe,iOS,0.509,0
+USR00153,45-54,Chennai,Tier 1,Verified,2445,2,41,851.74,GPay,Android,0.94,0
+USR00154,35-44,Aurangabad,Tier 3,Verified,950,2,21,1135.16,Paytm,Android,0.918,0
+USR00155,25-34,Ranchi,Tier 3,Not Verified,274,1,24,130.54,Amazon Pay,Android,0.377,0
+USR00156,35-44,Solapur,Tier 3,Verified,1212,1,23,167.45,GPay,Android,0.522,0
+USR00157,35-44,Pune,Tier 1,Verified,1145,2,49,620.02,GPay,Android,0.544,0
+USR00158,25-34,Mumbai,Tier 1,Verified,1799,2,37,2627.87,GPay,Web,0.643,1
+USR00159,25-34,Nagpur,Tier 2,Verified,2386,2,35,940.31,GPay,Android,0.119,0
+USR00160,35-44,Chandigarh,Tier 2,Verified,1133,2,35,489.96,PhonePe,Android,0.787,0
+USR00161,25-34,Coimbatore,Tier 2,Not Verified,1841,3,38,459.38,GPay,Android,0.263,0
+USR00162,35-44,Ahmedabad,Tier 1,Verified,403,1,43,1661.73,WhatsApp Pay,Android,0.468,0
+USR00163,35-44,Ranchi,Tier 3,Verified,688,1,20,446.34,Paytm,Android,0.724,0
+USR00164,45-54,Pune,Tier 1,Verified,2283,1,43,2016.88,GPay,Android,0.179,0
+USR00165,25-34,Lucknow,Tier 2,Verified,1685,3,23,515.56,PhonePe,Android,0.842,1
+USR00166,25-34,Meerut,Tier 3,Verified,2252,1,15,72.4,PhonePe,Android,0.149,0
+USR00167,45-54,Agra,Tier 2,Verified,2071,2,29,369.16,GPay,Android,0.784,0
+USR00168,18-24,Aurangabad,Tier 3,Verified,566,3,26,524.79,PhonePe,Android,0.494,0
+USR00169,25-34,Delhi,Tier 1,Verified,148,4,41,807.19,GPay,Android,0.648,0
+USR00170,25-34,Bengaluru,Tier 1,Verified,1302,2,37,1198.45,GPay,Android,0.597,0
+USR00171,35-44,Chandigarh,Tier 2,Verified,494,1,46,644.57,BHIM,iOS,0.206,0
+USR00172,25-34,Nashik,Tier 3,Verified,1225,2,25,349.02,PhonePe,Android,0.346,0
+USR00173,35-44,Vadodara,Tier 2,Verified,1028,1,20,378.51,Paytm,iOS,0.23,0
+USR00174,25-34,Agra,Tier 2,Verified,2111,2,30,558.83,GPay,iOS,0.223,0
+USR00175,18-24,Pune,Tier 1,Verified,1422,3,59,795.36,Paytm,iOS,0.557,0
+USR00176,25-34,Visakhapatnam,Tier 2,Verified,1252,3,32,974.66,PhonePe,iOS,0.622,0
+USR00177,45-54,Chandigarh,Tier 2,Not Verified,638,1,15,368.77,PhonePe,iOS,0.536,0
+USR00178,35-44,Pune,Tier 1,Verified,1895,3,36,1077.84,Paytm,iOS,0.883,0
+USR00179,25-34,Hyderabad,Tier 1,Not Verified,2372,1,49,713.61,PhonePe,Android,0.87,0
+USR00180,25-34,Jalandhar,Tier 3,Verified,1967,2,24,109.15,GPay,Android,0.83,0
+USR00181,25-34,Warangal,Tier 3,Verified,653,1,23,202.7,GPay,Web,0.133,0
+USR00182,25-34,Agra,Tier 2,Verified,1389,3,30,240.82,PhonePe,iOS,0.887,0
+USR00183,25-34,Coimbatore,Tier 2,Verified,1901,1,22,710.68,GPay,Android,0.23,0
+USR00184,35-44,Kanpur,Tier 2,Verified,336,1,33,673.07,PhonePe,iOS,0.972,0
+USR00185,18-24,Pune,Tier 1,Verified,358,3,45,562.68,Amazon Pay,Android,0.867,0
+USR00186,25-34,Pune,Tier 1,Not Verified,1327,2,46,256.29,GPay,Android,0.899,0
+USR00187,55+,Aurangabad,Tier 3,Verified,177,2,18,406.71,BHIM,Android,0.311,0
+USR00188,25-34,Visakhapatnam,Tier 2,Verified,961,2,39,278.63,GPay,iOS,0.491,0
+USR00189,18-24,Warangal,Tier 3,Verified,441,1,23,280.96,GPay,iOS,0.725,0
+USR00190,55+,Jodhpur,Tier 3,Verified,1358,2,30,299.47,BHIM,Android,0.364,0
+USR00191,55+,Bengaluru,Tier 1,Verified,1030,2,30,1269.38,Paytm,Android,0.609,0
+USR00192,18-24,Kanpur,Tier 2,Verified,747,1,29,633.39,BHIM,iOS,0.884,0
+USR00193,35-44,Nagpur,Tier 2,Not Verified,2068,3,14,296.96,Paytm,iOS,0.229,0
+USR00194,35-44,Hubli,Tier 3,Verified,1912,1,17,334.26,PhonePe,Android,0.108,0
+USR00195,25-34,Chennai,Tier 1,Verified,2268,1,33,2157.65,PhonePe,Android,0.498,0
+USR00196,25-34,Agra,Tier 2,Verified,1255,2,44,953.1,PhonePe,Android,0.482,0
+USR00197,45-54,Chandigarh,Tier 2,Verified,1267,1,25,513.82,PhonePe,Android,0.446,0
+USR00198,35-44,Nagpur,Tier 2,Verified,1592,2,42,729.36,BHIM,iOS,0.617,0
+USR00199,18-24,Hubli,Tier 3,Verified,119,4,16,392.22,Amazon Pay,Android,0.692,0
+USR00200,25-34,Solapur,Tier 3,Verified,230,3,8,292.24,GPay,Android,0.771,0
+USR00201,25-34,Varanasi,Tier 3,Verified,1202,2,26,492.96,GPay,Android,0.307,0
+USR00202,18-24,Hyderabad,Tier 1,Verified,808,2,46,381.77,Paytm,Android,0.71,0
+USR00203,25-34,Surat,Tier 2,Not Verified,590,2,42,497.08,PhonePe,Android,0.913,0
+USR00204,55+,Visakhapatnam,Tier 2,Verified,1835,1,30,532.82,GPay,Android,0.428,0
+USR00205,25-34,Indore,Tier 2,Verified,1238,1,27,816.2,GPay,iOS,0.474,0
+USR00206,45-54,Kolkata,Tier 1,Verified,2204,2,35,1004.89,Paytm,Android,0.345,0
+USR00207,18-24,Indore,Tier 2,Verified,2003,4,26,682.63,GPay,Android,0.366,0
+USR00208,35-44,Kochi,Tier 2,Verified,501,1,24,228.59,PhonePe,Android,0.168,0
+USR00209,18-24,Mysuru,Tier 3,Verified,1657,4,10,98.37,Paytm,iOS,0.824,0
+USR00210,18-24,Madurai,Tier 3,Verified,1646,1,21,823.54,GPay,Android,0.583,0
+USR00211,45-54,Chennai,Tier 1,Verified,2424,1,30,554.72,PhonePe,Android,0.675,0
+USR00212,18-24,Surat,Tier 2,Verified,987,1,32,204.44,Amazon Pay,iOS,0.658,0
+USR00213,25-34,Bhopal,Tier 2,Verified,936,2,36,1671.96,Paytm,Android,0.672,0
+USR00214,25-34,Chennai,Tier 1,Not Verified,1702,1,52,489.23,GPay,Android,0.141,1
+USR00215,25-34,Ahmedabad,Tier 1,Verified,505,1,62,410.14,Paytm,Web,0.899,0
+USR00216,25-34,Ahmedabad,Tier 1,Verified,1549,2,61,925.44,PhonePe,Android,0.769,0
+USR00217,35-44,Pune,Tier 1,Verified,2435,2,51,1205.53,Paytm,Android,0.239,0
+USR00218,25-34,Delhi,Tier 1,Verified,2034,2,20,1152.89,PhonePe,Android,0.945,0
+USR00219,25-34,Rajkot,Tier 2,Not Verified,1547,1,32,519.52,BHIM,Android,0.5,0
+USR00220,18-24,Jalandhar,Tier 3,Verified,436,4,22,260.45,BHIM,iOS,0.431,0
+USR00221,25-34,Warangal,Tier 3,Verified,1499,1,11,250.83,Paytm,Android,0.348,0
+USR00222,35-44,Meerut,Tier 3,Verified,1892,1,17,506.35,PhonePe,iOS,0.291,0
+USR00223,25-34,Mumbai,Tier 1,Verified,237,2,39,468.65,GPay,Android,0.319,0
+USR00224,55+,Hyderabad,Tier 1,Verified,311,3,44,1138.12,GPay,Android,0.599,0
+USR00225,18-24,Chandigarh,Tier 2,Verified,984,1,34,240.89,Paytm,Android,0.233,0
+USR00226,35-44,Mumbai,Tier 1,Verified,1165,3,47,694.36,WhatsApp Pay,Android,0.23,0
+USR00227,18-24,Chennai,Tier 1,Verified,744,1,49,583.17,GPay,Android,0.88,0
+USR00228,45-54,Jalandhar,Tier 3,Verified,1004,2,23,127.18,PhonePe,Android,0.114,0
+USR00229,45-54,Bengaluru,Tier 1,Verified,1754,2,38,420.99,PhonePe,iOS,0.771,0
+USR00230,35-44,Kochi,Tier 2,Verified,1512,2,24,109.86,GPay,Android,0.198,0
+USR00231,18-24,Solapur,Tier 3,Verified,207,2,12,304.3,PhonePe,Android,0.918,0
+USR00232,18-24,Hubli,Tier 3,Verified,1906,2,15,182.31,Paytm,Android,0.128,0
+USR00233,25-34,Chandigarh,Tier 2,Verified,1675,1,32,588.8,Amazon Pay,iOS,0.197,0
+USR00234,35-44,Ahmedabad,Tier 1,Verified,331,3,54,634.28,GPay,iOS,0.39,0
+USR00235,35-44,Kanpur,Tier 2,Verified,1156,2,32,840.11,PhonePe,Android,0.627,0
+USR00236,18-24,Patna,Tier 2,Verified,2476,2,48,564.39,GPay,Android,0.508,0
+USR00237,18-24,Lucknow,Tier 2,Verified,498,3,22,1133.56,GPay,Android,0.686,0
+USR00238,35-44,Tiruchirappalli,Tier 3,Verified,910,1,24,477.2,GPay,Android,0.899,0
+USR00239,55+,Ahmedabad,Tier 1,Verified,1663,1,53,1866.71,PhonePe,Android,0.186,0
+USR00240,35-44,Chennai,Tier 1,Verified,1563,4,51,3115.79,GPay,Web,0.718,0
+USR00241,25-34,Ranchi,Tier 3,Not Verified,379,1,25,912.45,Paytm,iOS,0.187,0
+USR00242,18-24,Kochi,Tier 2,Verified,562,2,20,159.81,PhonePe,Android,0.628,0
+USR00243,25-34,Jalandhar,Tier 3,Verified,530,1,19,280.85,Paytm,Android,0.886,0
+USR00244,45-54,Amritsar,Tier 3,Verified,240,4,17,367.28,Paytm,Android,0.64,0
+USR00245,35-44,Solapur,Tier 3,Verified,2108,1,12,419.19,PhonePe,Web,0.691,0
+USR00246,18-24,Ranchi,Tier 3,Verified,1464,3,20,209.72,BHIM,Android,0.431,0
+USR00247,45-54,Agra,Tier 2,Verified,956,3,50,991.37,PhonePe,Android,0.861,0
+USR00248,35-44,Chandigarh,Tier 2,Not Verified,2310,1,41,778.79,GPay,Android,0.936,0
+USR00249,25-34,Chennai,Tier 1,Verified,148,1,62,659.54,GPay,Android,0.732,0
+USR00250,35-44,Bhopal,Tier 2,Verified,1467,1,40,360.67,PhonePe,Android,0.883,0
+USR00251,18-24,Amritsar,Tier 3,Verified,315,1,10,159.62,GPay,Android,0.67,1
+USR00252,55+,Tiruchirappalli,Tier 3,Verified,2202,1,27,243.91,Amazon Pay,Android,0.478,0
+USR00253,25-34,Bhopal,Tier 2,Verified,1306,2,40,368.72,GPay,Android,0.799,0
+USR00254,35-44,Lucknow,Tier 2,Verified,245,1,43,1732.78,PhonePe,Android,0.779,1
+USR00255,35-44,Lucknow,Tier 2,Verified,1144,1,29,1142.84,GPay,Android,0.482,0
+USR00256,35-44,Pune,Tier 1,Verified,1148,1,46,2062.67,PhonePe,Android,0.561,0
+USR00257,25-34,Delhi,Tier 1,Verified,1190,2,51,374.64,Paytm,Web,0.634,0
+USR00258,35-44,Hubli,Tier 3,Verified,216,1,24,439.58,GPay,Android,0.986,0
+USR00259,25-34,Mysuru,Tier 3,Verified,1264,3,11,382.13,PhonePe,Android,0.791,0
+USR00260,18-24,Chennai,Tier 1,Verified,1373,1,46,294.17,GPay,Web,0.548,0
+USR00261,25-34,Bengaluru,Tier 1,Not Verified,1587,2,40,1081.71,BHIM,Android,0.307,0
+USR00262,18-24,Surat,Tier 2,Verified,1480,1,29,1505.95,PhonePe,iOS,0.876,1
+USR00263,18-24,Jodhpur,Tier 3,Verified,1913,3,20,219.75,Paytm,Web,0.876,0
+USR00264,18-24,Pune,Tier 1,Verified,1740,1,33,517.55,Amazon Pay,Android,0.465,0
+USR00265,35-44,Bengaluru,Tier 1,Verified,1914,3,37,842.88,GPay,iOS,0.928,0
+USR00266,25-34,Delhi,Tier 1,Verified,1026,1,54,717.98,GPay,iOS,0.46,0
+USR00267,25-34,Meerut,Tier 3,Not Verified,1300,2,17,215.76,GPay,iOS,0.299,0
+USR00268,25-34,Ranchi,Tier 3,Verified,2120,2,19,137.36,PhonePe,Web,0.578,0
+USR00269,25-34,Kochi,Tier 2,Verified,1461,1,26,375.68,GPay,iOS,0.962,0
+USR00270,25-34,Kanpur,Tier 2,Verified,997,1,33,788.15,GPay,iOS,0.33,0
+USR00271,18-24,Kanpur,Tier 2,Verified,338,1,18,502.22,Amazon Pay,iOS,0.796,0
+USR00272,25-34,Kochi,Tier 2,Verified,2339,2,35,1787.06,GPay,Android,0.504,0
+USR00273,25-34,Solapur,Tier 3,Verified,1353,3,14,444.99,GPay,Android,0.664,0
+USR00274,35-44,Delhi,Tier 1,Verified,1950,1,49,730.57,BHIM,iOS,0.373,0
+USR00275,25-34,Mumbai,Tier 1,Not Verified,1471,2,44,546.6,Amazon Pay,Android,0.379,0
+USR00276,18-24,Jaipur,Tier 2,Verified,1540,3,26,1035.77,Paytm,Web,0.169,0
+USR00277,25-34,Delhi,Tier 1,Verified,2463,2,49,1931.96,Paytm,iOS,0.516,0
+USR00278,45-54,Kochi,Tier 2,Verified,198,1,34,312.94,Paytm,Android,0.829,0
+USR00279,45-54,Jalandhar,Tier 3,Verified,1978,2,15,227.5,Amazon Pay,iOS,0.962,0
+USR00280,25-34,Kolkata,Tier 1,Verified,375,2,45,1983.4,WhatsApp Pay,Android,0.255,0
+USR00281,35-44,Nashik,Tier 3,Verified,1829,2,11,265.98,GPay,Android,0.649,0
+USR00282,35-44,Indore,Tier 2,Not Verified,1188,1,31,420.7,GPay,iOS,0.797,0
+USR00283,25-34,Jodhpur,Tier 3,Verified,1400,1,16,95.91,BHIM,Android,0.185,0
+USR00284,25-34,Visakhapatnam,Tier 2,Verified,1062,2,21,384.12,Paytm,iOS,0.691,0
+USR00285,25-34,Bengaluru,Tier 1,Verified,1395,1,36,251.5,Paytm,iOS,0.697,0
+USR00286,25-34,Visakhapatnam,Tier 2,Verified,1635,1,33,512.51,Paytm,Android,0.738,0
+USR00287,25-34,Coimbatore,Tier 2,Verified,1572,2,26,712.22,BHIM,Android,0.396,0
+USR00288,35-44,Rajkot,Tier 2,Verified,2186,1,20,346.26,GPay,Android,0.703,0
+USR00289,55+,Jaipur,Tier 2,Not Verified,1515,1,36,776.12,Paytm,Android,0.956,0
+USR00290,35-44,Madurai,Tier 3,Verified,2021,1,17,172.75,PhonePe,iOS,1.0,0
+USR00291,25-34,Visakhapatnam,Tier 2,Not Verified,444,2,28,295.39,GPay,iOS,0.586,0
+USR00292,25-34,Aurangabad,Tier 3,Verified,184,2,20,265.3,Paytm,iOS,0.889,0
+USR00293,55+,Pune,Tier 1,Verified,661,1,56,619.67,GPay,iOS,0.848,0
+USR00294,35-44,Bengaluru,Tier 1,Verified,1822,1,41,689.28,GPay,Android,0.428,0
+USR00295,35-44,Ahmedabad,Tier 1,Verified,1197,2,59,506.17,GPay,iOS,0.805,0
+USR00296,35-44,Mysuru,Tier 3,Verified,1297,4,17,280.14,Paytm,Android,0.806,0
+USR00297,55+,Nagpur,Tier 2,Verified,1536,2,23,531.37,BHIM,Android,0.613,0
+USR00298,18-24,Chennai,Tier 1,Not Verified,1594,2,58,1148.13,BHIM,Android,0.477,0
+USR00299,25-34,Nagpur,Tier 2,Verified,596,3,43,421.0,PhonePe,iOS,0.147,0
+USR00300,35-44,Bhopal,Tier 2,Verified,2301,3,44,811.68,GPay,Android,0.74,0
+USR00301,25-34,Delhi,Tier 1,Verified,1197,1,50,926.34,PhonePe,iOS,0.244,0
+USR00302,35-44,Coimbatore,Tier 2,Verified,633,3,23,235.52,PhonePe,Android,0.183,0
+USR00303,25-34,Ahmedabad,Tier 1,Not Verified,1461,3,42,245.8,GPay,Android,0.473,0
+USR00304,18-24,Kolkata,Tier 1,Verified,995,1,40,541.28,BHIM,Android,0.173,0
+USR00305,25-34,Bhopal,Tier 2,Not Verified,435,3,22,462.77,PhonePe,Android,0.685,0
+USR00306,25-34,Bengaluru,Tier 1,Not Verified,186,1,70,819.62,WhatsApp Pay,Android,0.847,0
+USR00307,25-34,Bengaluru,Tier 1,Verified,1951,1,56,762.31,Paytm,Android,0.105,0
+USR00308,45-54,Chennai,Tier 1,Not Verified,913,3,38,928.26,GPay,Android,0.594,0
+USR00309,35-44,Coimbatore,Tier 2,Verified,1763,1,22,138.15,PhonePe,Android,0.359,0
+USR00310,35-44,Jaipur,Tier 2,Verified,1006,1,27,352.07,Amazon Pay,iOS,0.815,0
+USR00311,25-34,Lucknow,Tier 2,Verified,2077,2,31,819.91,BHIM,iOS,0.115,0
+USR00312,45-54,Hyderabad,Tier 1,Verified,618,1,29,907.21,GPay,Android,0.101,0
+USR00313,25-34,Pune,Tier 1,Verified,797,2,18,1319.26,Paytm,iOS,0.177,0
+USR00314,35-44,Ranchi,Tier 3,Verified,2184,2,11,538.11,GPay,iOS,0.808,0
+USR00315,35-44,Jaipur,Tier 2,Verified,1629,3,13,343.06,PhonePe,Android,0.139,0
+USR00316,35-44,Bhopal,Tier 2,Verified,1068,2,20,406.4,PhonePe,Android,0.421,0
+USR00317,25-34,Mysuru,Tier 3,Verified,454,2,18,281.4,Paytm,Android,0.762,0
+USR00318,25-34,Mumbai,Tier 1,Verified,1473,2,58,2240.8,PhonePe,Android,0.832,0
+USR00319,25-34,Madurai,Tier 3,Verified,1933,4,17,155.8,GPay,Android,0.531,0
+USR00320,25-34,Guwahati,Tier 3,Verified,288,2,17,248.28,GPay,Android,0.949,1
+USR00321,25-34,Mysuru,Tier 3,Verified,209,2,17,355.66,Amazon Pay,Android,0.897,0
+USR00322,55+,Hubli,Tier 3,Verified,2141,1,17,405.53,PhonePe,Android,0.834,0
+USR00323,18-24,Jaipur,Tier 2,Verified,812,1,44,604.32,BHIM,Android,0.876,1
+USR00324,25-34,Kolkata,Tier 1,Verified,1149,1,42,640.33,GPay,Web,0.431,0
+USR00325,25-34,Rajkot,Tier 2,Verified,1831,3,28,267.45,Paytm,Android,0.448,0
+USR00326,55+,Vadodara,Tier 2,Not Verified,2067,1,39,1683.85,Paytm,Android,0.818,0
+USR00327,18-24,Lucknow,Tier 2,Verified,1768,1,16,600.87,WhatsApp Pay,iOS,0.642,0
+USR00328,25-34,Coimbatore,Tier 2,Verified,1233,1,32,411.1,GPay,iOS,0.172,0
+USR00329,45-54,Chennai,Tier 1,Not Verified,1856,2,43,420.6,WhatsApp Pay,Android,0.484,0
+USR00330,35-44,Jalandhar,Tier 3,Verified,1861,1,13,209.41,Paytm,Android,0.883,0
+USR00331,25-34,Patna,Tier 2,Verified,1154,2,40,424.83,Paytm,Android,0.812,0
+USR00332,18-24,Warangal,Tier 3,Verified,1693,1,16,612.06,BHIM,iOS,0.821,0
+USR00333,45-54,Mumbai,Tier 1,Verified,614,3,76,953.94,Amazon Pay,Android,0.71,0
+USR00334,35-44,Kanpur,Tier 2,Verified,305,1,23,663.85,GPay,Android,0.681,0
+USR00335,25-34,Solapur,Tier 3,Verified,162,2,15,518.29,GPay,iOS,0.711,0
+USR00336,35-44,Jalandhar,Tier 3,Verified,1848,2,22,487.43,Paytm,iOS,0.617,0
+USR00337,35-44,Amritsar,Tier 3,Verified,1317,2,13,305.56,PhonePe,Android,0.325,0
+USR00338,25-34,Bengaluru,Tier 1,Verified,2074,2,19,966.05,GPay,Android,0.922,0
+USR00339,35-44,Madurai,Tier 3,Verified,1096,2,17,202.52,GPay,Android,0.293,0
+USR00340,35-44,Ahmedabad,Tier 1,Not Verified,849,1,56,756.68,PhonePe,Android,0.868,0
+USR00341,35-44,Ahmedabad,Tier 1,Not Verified,389,3,22,1749.53,Paytm,Android,0.971,0
+USR00342,25-34,Warangal,Tier 3,Verified,1453,2,27,651.93,GPay,iOS,0.595,0
+USR00343,35-44,Chennai,Tier 1,Verified,675,2,48,1933.45,PhonePe,Android,0.935,0
+USR00344,25-34,Madurai,Tier 3,Verified,1510,2,14,242.5,Paytm,Android,0.209,0
+USR00345,25-34,Kanpur,Tier 2,Verified,999,2,24,524.82,GPay,iOS,0.124,0
+USR00346,45-54,Kolkata,Tier 1,Verified,1944,3,56,505.2,GPay,Android,0.596,0
+USR00347,25-34,Lucknow,Tier 2,Verified,299,1,39,349.18,Amazon Pay,Android,1.0,0
+USR00348,25-34,Aurangabad,Tier 3,Not Verified,1712,2,19,218.53,PhonePe,Android,0.841,0
+USR00349,35-44,Bhopal,Tier 2,Verified,333,1,34,318.62,Paytm,Web,0.712,0
+USR00350,55+,Varanasi,Tier 3,Verified,2288,2,14,256.45,Paytm,Android,0.264,0
+USR00351,25-34,Pune,Tier 1,Not Verified,2089,3,6,858.66,PhonePe,Android,0.15,0
+USR00352,25-34,Kanpur,Tier 2,Verified,1275,1,25,1243.03,BHIM,iOS,0.39,0
+USR00353,35-44,Kolkata,Tier 1,Verified,2155,3,41,1058.19,Paytm,Android,0.861,0
+USR00354,18-24,Chennai,Tier 1,Verified,542,2,33,1669.86,Paytm,Android,0.653,0
+USR00355,18-24,Surat,Tier 2,Not Verified,720,2,22,222.81,GPay,Android,0.623,0
+USR00356,25-34,Agra,Tier 2,Verified,1412,3,27,286.35,PhonePe,Android,0.607,0
+USR00357,35-44,Jaipur,Tier 2,Verified,362,1,34,507.16,PhonePe,iOS,0.677,0
+USR00358,35-44,Hyderabad,Tier 1,Verified,2373,1,50,860.06,GPay,Android,0.675,0
+USR00359,35-44,Warangal,Tier 3,Verified,2264,1,23,198.59,PhonePe,Android,0.961,0
+USR00360,18-24,Kochi,Tier 2,Verified,1693,1,31,536.12,BHIM,Android,0.166,0
+USR00361,35-44,Nashik,Tier 3,Verified,1732,1,5,176.76,GPay,Android,0.284,0
+USR00362,25-34,Kolkata,Tier 1,Verified,1337,2,42,2303.35,GPay,Web,0.875,0
+USR00363,35-44,Guwahati,Tier 3,Not Verified,1547,2,20,319.75,GPay,Android,0.196,0
+USR00364,18-24,Delhi,Tier 1,Verified,1125,1,62,1187.79,PhonePe,Android,0.227,0
+USR00365,35-44,Amritsar,Tier 3,Verified,1742,1,11,515.8,PhonePe,iOS,0.879,0
+USR00366,25-34,Kolkata,Tier 1,Not Verified,2396,2,40,931.03,GPay,Android,0.271,0
+USR00367,25-34,Coimbatore,Tier 2,Verified,1942,1,30,738.46,GPay,Android,0.378,1
+USR00368,18-24,Patna,Tier 2,Verified,2100,1,28,1185.05,PhonePe,Android,0.317,0
+USR00369,18-24,Mumbai,Tier 1,Verified,237,1,51,1061.98,GPay,Web,0.638,0
+USR00370,55+,Ahmedabad,Tier 1,Not Verified,1200,2,23,1121.63,PhonePe,Android,0.862,0
+USR00371,35-44,Chennai,Tier 1,Not Verified,1528,2,52,599.77,Amazon Pay,Web,0.429,0
+USR00372,25-34,Solapur,Tier 3,Not Verified,2331,1,14,415.42,PhonePe,iOS,0.598,0
+USR00373,35-44,Ahmedabad,Tier 1,Verified,2282,1,48,412.96,Paytm,Android,0.99,0
+USR00374,18-24,Delhi,Tier 1,Verified,557,4,28,1221.64,PhonePe,iOS,0.455,0
+USR00375,18-24,Bhopal,Tier 2,Verified,2314,3,29,388.34,Paytm,Android,0.779,0
+USR00376,25-34,Pune,Tier 1,Not Verified,2078,1,36,1878.11,PhonePe,iOS,0.135,0
+USR00377,55+,Madurai,Tier 3,Verified,1970,2,24,217.29,GPay,Android,0.234,0
+USR00378,35-44,Kanpur,Tier 2,Verified,1373,3,30,293.38,GPay,Android,0.387,0
+USR00379,18-24,Chennai,Tier 1,Verified,2461,1,24,2794.11,PhonePe,Android,0.845,0
+USR00380,25-34,Tiruchirappalli,Tier 3,Verified,2335,1,16,538.92,Paytm,Android,0.834,0
+USR00381,18-24,Surat,Tier 2,Verified,478,4,25,280.93,BHIM,Android,0.625,0
+USR00382,18-24,Mumbai,Tier 1,Not Verified,2474,1,9,957.77,BHIM,iOS,0.97,0
+USR00383,35-44,Hyderabad,Tier 1,Verified,240,2,32,1095.35,BHIM,Android,0.253,0
+USR00384,25-34,Pune,Tier 1,Verified,635,3,49,634.54,GPay,Android,0.318,0
+USR00385,18-24,Rajkot,Tier 2,Not Verified,480,1,23,281.44,GPay,Android,0.497,0
+USR00386,35-44,Pune,Tier 1,Not Verified,865,1,54,426.65,Paytm,iOS,0.797,0
+USR00387,25-34,Chandigarh,Tier 2,Verified,285,2,37,736.28,GPay,Android,0.567,0
+USR00388,35-44,Warangal,Tier 3,Not Verified,1989,2,14,727.78,PhonePe,iOS,0.382,0
+USR00389,25-34,Kolkata,Tier 1,Verified,2267,1,51,604.02,PhonePe,Web,0.795,0
+USR00390,25-34,Chennai,Tier 1,Verified,2013,1,59,467.03,Paytm,Android,0.322,0
+USR00391,25-34,Nagpur,Tier 2,Verified,1249,2,39,944.97,PhonePe,Web,0.734,0
+USR00392,35-44,Vadodara,Tier 2,Verified,1328,1,37,359.06,GPay,Android,0.604,0
+USR00393,55+,Chennai,Tier 1,Verified,1208,1,59,1491.85,PhonePe,Web,0.709,0
+USR00394,25-34,Patna,Tier 2,Verified,1443,4,36,865.49,PhonePe,Android,0.824,0
+USR00395,18-24,Hubli,Tier 3,Verified,353,1,17,407.26,GPay,iOS,0.498,0
+USR00396,25-34,Nashik,Tier 3,Not Verified,906,1,18,208.59,Paytm,iOS,0.585,0
+USR00397,35-44,Chennai,Tier 1,Verified,592,1,31,718.61,BHIM,Android,0.767,0
+USR00398,25-34,Mumbai,Tier 1,Not Verified,2205,1,59,1230.82,GPay,Android,0.31,0
+USR00399,45-54,Bhopal,Tier 2,Not Verified,1964,1,30,354.24,GPay,Android,0.794,1
+USR00400,35-44,Coimbatore,Tier 2,Verified,676,1,24,1305.14,GPay,iOS,0.942,0
+USR00401,25-34,Ahmedabad,Tier 1,Verified,846,2,39,770.66,PhonePe,Web,0.359,0
+USR00402,35-44,Jaipur,Tier 2,Verified,396,2,26,234.67,Paytm,Android,0.309,0
+USR00403,25-34,Mumbai,Tier 1,Verified,747,1,27,890.44,WhatsApp Pay,Android,0.854,0
+USR00404,35-44,Jaipur,Tier 2,Verified,1656,2,13,297.71,PhonePe,Android,0.268,0
+USR00405,25-34,Chennai,Tier 1,Verified,183,1,57,392.94,WhatsApp Pay,Android,0.611,0
+USR00406,18-24,Kolkata,Tier 1,Not Verified,1195,1,37,722.16,PhonePe,Android,0.677,0
+USR00407,25-34,Indore,Tier 2,Verified,579,3,40,955.31,PhonePe,Android,0.521,0
+USR00408,35-44,Delhi,Tier 1,Verified,1384,1,52,1042.72,GPay,Android,0.513,0
+USR00409,35-44,Kanpur,Tier 2,Verified,87,2,30,446.0,GPay,Android,0.812,0
+USR00410,25-34,Madurai,Tier 3,Verified,821,1,21,168.14,WhatsApp Pay,Android,0.871,0
+USR00411,25-34,Pune,Tier 1,Verified,2140,1,49,952.45,PhonePe,Android,0.461,0
+USR00412,35-44,Kanpur,Tier 2,Verified,1985,1,45,1191.18,Paytm,Android,0.323,0
+USR00413,18-24,Nagpur,Tier 2,Verified,1859,2,33,731.13,GPay,Android,0.959,0
+USR00414,25-34,Mumbai,Tier 1,Verified,1101,2,44,553.23,Paytm,Android,0.723,0
+USR00415,18-24,Lucknow,Tier 2,Not Verified,1936,1,33,682.22,BHIM,Web,0.465,0
+USR00416,18-24,Indore,Tier 2,Verified,1303,2,37,885.55,PhonePe,Android,0.675,0
+USR00417,45-54,Bhopal,Tier 2,Verified,934,1,14,616.93,PhonePe,iOS,0.22,0
+USR00418,35-44,Rajkot,Tier 2,Verified,1560,1,17,788.06,Paytm,Android,0.594,0
+USR00419,35-44,Coimbatore,Tier 2,Not Verified,924,2,25,179.42,GPay,Android,0.712,0
+USR00420,18-24,Kochi,Tier 2,Verified,365,2,25,1236.46,Paytm,Android,0.575,0
+USR00421,18-24,Delhi,Tier 1,Verified,282,3,52,455.74,Amazon Pay,iOS,0.913,0
+USR00422,18-24,Coimbatore,Tier 2,Verified,643,1,20,316.9,PhonePe,Android,0.869,0
+USR00423,25-34,Surat,Tier 2,Verified,871,2,23,950.65,Amazon Pay,Web,0.54,0
+USR00424,25-34,Ahmedabad,Tier 1,Verified,257,1,41,509.99,PhonePe,Android,0.562,0
+USR00425,45-54,Mumbai,Tier 1,Verified,2318,1,47,938.26,Paytm,Android,0.826,0
+USR00426,18-24,Patna,Tier 2,Verified,1072,3,34,299.65,GPay,Android,0.771,0
+USR00427,18-24,Mumbai,Tier 1,Verified,1765,1,46,2421.2,GPay,Android,0.157,0
+USR00428,18-24,Delhi,Tier 1,Not Verified,1963,1,35,399.47,GPay,Android,0.468,0
+USR00429,35-44,Kochi,Tier 2,Verified,1751,1,28,364.33,GPay,Android,0.902,0
+USR00430,35-44,Varanasi,Tier 3,Verified,1576,1,9,100.35,PhonePe,iOS,0.714,0
+USR00431,18-24,Coimbatore,Tier 2,Verified,574,2,39,449.93,Paytm,Android,0.413,0
+USR00432,35-44,Pune,Tier 1,Verified,2196,1,32,665.39,Paytm,Android,0.981,0
+USR00433,45-54,Kochi,Tier 2,Verified,123,4,5,607.63,GPay,iOS,0.517,0
+USR00434,25-34,Pune,Tier 1,Verified,2208,1,64,1545.88,GPay,Android,0.307,0
+USR00435,25-34,Kanpur,Tier 2,Verified,1159,1,33,637.04,PhonePe,Android,0.888,0
+USR00436,25-34,Jodhpur,Tier 3,Verified,1747,2,13,298.41,PhonePe,iOS,0.943,0
+USR00437,18-24,Mysuru,Tier 3,Verified,874,1,16,545.11,PhonePe,Web,0.635,0
+USR00438,35-44,Mumbai,Tier 1,Verified,1032,2,61,632.76,PhonePe,Web,0.462,0
+USR00439,25-34,Nagpur,Tier 2,Verified,261,1,18,215.14,GPay,Android,0.994,0
+USR00440,35-44,Indore,Tier 2,Verified,2389,1,35,262.75,PhonePe,Android,0.638,0
+USR00441,35-44,Jalandhar,Tier 3,Verified,1000,1,25,397.57,Paytm,iOS,0.229,0
+USR00442,18-24,Nagpur,Tier 2,Verified,1723,1,42,790.42,GPay,Android,0.155,0
+USR00443,35-44,Varanasi,Tier 3,Not Verified,747,2,20,736.27,Paytm,iOS,0.484,0
+USR00444,35-44,Bhopal,Tier 2,Verified,1591,2,46,456.23,GPay,Android,0.387,0
+USR00445,25-34,Bengaluru,Tier 1,Verified,1258,1,56,773.71,PhonePe,Android,0.779,0
+USR00446,35-44,Hyderabad,Tier 1,Verified,1261,3,51,1577.48,Paytm,Android,0.23,0
+USR00447,25-34,Jaipur,Tier 2,Not Verified,2333,1,17,1009.15,GPay,Android,0.475,0
+USR00448,18-24,Patna,Tier 2,Verified,1024,1,37,248.22,BHIM,iOS,0.397,0
+USR00449,18-24,Nashik,Tier 3,Verified,1549,1,12,733.2,PhonePe,Android,0.752,0
+USR00450,18-24,Chennai,Tier 1,Not Verified,1574,2,49,332.41,GPay,iOS,0.643,0
+USR00451,45-54,Hyderabad,Tier 1,Not Verified,2436,2,54,713.28,WhatsApp Pay,iOS,0.603,0
+USR00452,25-34,Meerut,Tier 3,Verified,1393,1,22,447.67,BHIM,Web,0.918,0
+USR00453,18-24,Hyderabad,Tier 1,Verified,510,2,61,593.89,PhonePe,Android,0.779,0
+USR00454,25-34,Rajkot,Tier 2,Verified,867,1,35,1154.23,Paytm,Android,0.315,0
+USR00455,35-44,Hubli,Tier 3,Verified,1589,1,23,378.01,PhonePe,Android,0.684,0
+USR00456,35-44,Jalandhar,Tier 3,Verified,2130,3,13,777.43,GPay,Android,0.519,0
+USR00457,45-54,Tiruchirappalli,Tier 3,Verified,1953,2,10,337.4,WhatsApp Pay,Web,0.388,0
+USR00458,35-44,Bhopal,Tier 2,Verified,1725,1,24,560.01,PhonePe,iOS,0.878,0
+USR00459,25-34,Jaipur,Tier 2,Not Verified,1098,2,30,241.72,Paytm,iOS,0.626,0
+USR00460,25-34,Visakhapatnam,Tier 2,Verified,654,1,41,1429.15,GPay,iOS,0.307,0
+USR00461,35-44,Nagpur,Tier 2,Verified,2075,2,34,1155.57,Paytm,iOS,0.949,0
+USR00462,55+,Madurai,Tier 3,Verified,2031,4,4,259.46,GPay,Android,0.678,0
+USR00463,45-54,Bengaluru,Tier 1,Verified,1472,1,21,1657.36,GPay,Android,0.748,0
+USR00464,18-24,Indore,Tier 2,Verified,2250,4,19,755.56,BHIM,iOS,0.962,0
+USR00465,35-44,Delhi,Tier 1,Verified,228,2,48,889.0,PhonePe,iOS,0.471,0
+USR00466,25-34,Hyderabad,Tier 1,Verified,308,2,42,543.1,GPay,Android,0.108,0
+USR00467,25-34,Kolkata,Tier 1,Verified,277,2,22,643.9,Paytm,Android,0.7,0
+USR00468,25-34,Ahmedabad,Tier 1,Verified,2028,1,34,390.55,Paytm,Android,0.579,0
+USR00469,35-44,Mumbai,Tier 1,Verified,2198,2,56,676.61,GPay,Android,0.582,0
+USR00470,25-34,Coimbatore,Tier 2,Verified,1793,3,26,622.97,PhonePe,Android,0.919,0
+USR00471,35-44,Delhi,Tier 1,Verified,2177,1,33,837.52,PhonePe,Android,0.273,0
+USR00472,18-24,Meerut,Tier 3,Verified,1481,1,27,255.65,PhonePe,iOS,0.457,0
+USR00473,45-54,Amritsar,Tier 3,Verified,1910,2,24,336.52,WhatsApp Pay,iOS,0.991,0
+USR00474,18-24,Surat,Tier 2,Verified,360,2,29,1445.62,PhonePe,iOS,0.872,0
+USR00475,45-54,Lucknow,Tier 2,Verified,1690,1,25,160.01,Paytm,Android,0.597,0
+USR00476,55+,Mumbai,Tier 1,Verified,731,1,70,2254.79,PhonePe,Android,0.861,0
+USR00477,25-34,Kolkata,Tier 1,Verified,2347,4,32,1081.92,PhonePe,Android,0.976,0
+USR00478,18-24,Mumbai,Tier 1,Verified,971,1,37,1401.41,Amazon Pay,Web,0.881,0
+USR00479,18-24,Vadodara,Tier 2,Verified,1140,1,25,1065.19,GPay,Android,0.167,0
+USR00480,35-44,Varanasi,Tier 3,Verified,2254,2,12,466.56,GPay,iOS,0.13,0
+USR00481,25-34,Kolkata,Tier 1,Verified,94,4,48,1064.61,Paytm,iOS,0.628,0
+USR00482,25-34,Pune,Tier 1,Verified,345,1,44,492.47,Amazon Pay,Android,0.608,0
+USR00483,18-24,Pune,Tier 1,Verified,2244,1,44,1449.87,PhonePe,iOS,0.78,0
+USR00484,25-34,Delhi,Tier 1,Verified,2081,2,37,1955.18,BHIM,Android,0.411,0
+USR00485,18-24,Hyderabad,Tier 1,Verified,341,1,77,970.81,Amazon Pay,Android,0.792,0
+USR00486,18-24,Patna,Tier 2,Verified,1366,1,11,1463.59,BHIM,Android,0.346,0
+USR00487,25-34,Ahmedabad,Tier 1,Verified,964,1,48,497.27,GPay,Android,0.947,0
+USR00488,35-44,Surat,Tier 2,Verified,2429,2,25,644.77,Paytm,Android,0.177,0
+USR00489,25-34,Kochi,Tier 2,Not Verified,1039,2,24,470.64,GPay,iOS,0.174,0
+USR00490,35-44,Rajkot,Tier 2,Verified,661,2,28,500.35,WhatsApp Pay,iOS,0.385,0
+USR00491,25-34,Jodhpur,Tier 3,Verified,1292,1,11,616.9,BHIM,Web,0.785,0
+USR00492,35-44,Ranchi,Tier 3,Verified,797,1,22,750.08,WhatsApp Pay,Android,0.601,0
+USR00493,18-24,Delhi,Tier 1,Verified,137,1,33,401.18,BHIM,Web,0.599,0
+USR00494,25-34,Kolkata,Tier 1,Not Verified,1607,1,49,426.93,GPay,Web,0.472,0
+USR00495,25-34,Rajkot,Tier 2,Verified,2321,3,48,415.91,Paytm,iOS,0.98,0
+USR00496,45-54,Kanpur,Tier 2,Verified,1589,1,21,1483.63,PhonePe,iOS,0.342,0
+USR00497,45-54,Guwahati,Tier 3,Verified,289,1,12,539.67,GPay,Android,0.348,0
+USR00498,25-34,Delhi,Tier 1,Verified,1509,1,49,603.67,PhonePe,Android,0.322,0
+USR00499,25-34,Agra,Tier 2,Verified,830,1,19,450.71,GPay,Android,0.222,1
+USR00500,25-34,Amritsar,Tier 3,Verified,1390,3,20,349.48,BHIM,Android,0.442,0
+USR00501,45-54,Vadodara,Tier 2,Verified,1401,1,34,704.61,GPay,Android,0.841,0
+USR00502,18-24,Agra,Tier 2,Not Verified,587,1,43,746.28,GPay,iOS,0.643,0
+USR00503,18-24,Vadodara,Tier 2,Verified,1316,1,14,737.43,Amazon Pay,iOS,0.458,0
+USR00504,25-34,Tiruchirappalli,Tier 3,Not Verified,2041,4,7,185.0,GPay,Android,0.804,0
+USR00505,25-34,Visakhapatnam,Tier 2,Verified,1639,1,17,769.5,PhonePe,Android,0.939,0
+USR00506,45-54,Aurangabad,Tier 3,Verified,766,2,11,134.06,BHIM,Android,0.595,0
+USR00507,18-24,Ahmedabad,Tier 1,Verified,888,1,61,817.65,GPay,Android,0.362,0
+USR00508,45-54,Meerut,Tier 3,Verified,1705,2,7,245.54,Amazon Pay,Android,0.225,0
+USR00509,35-44,Hubli,Tier 3,Verified,661,2,17,227.75,PhonePe,Android,0.81,0
+USR00510,55+,Agra,Tier 2,Verified,1992,2,26,576.0,PhonePe,Android,0.581,0
+USR00511,55+,Chandigarh,Tier 2,Verified,1743,2,28,356.26,PhonePe,Android,0.812,0
+USR00512,45-54,Varanasi,Tier 3,Verified,2229,2,10,202.53,GPay,Android,0.923,0
+USR00513,35-44,Nagpur,Tier 2,Verified,1484,1,28,345.92,GPay,Android,0.651,0
+USR00514,18-24,Warangal,Tier 3,Verified,1666,4,9,375.98,PhonePe,iOS,0.398,0
+USR00515,25-34,Ranchi,Tier 3,Not Verified,73,1,25,730.88,PhonePe,iOS,0.3,0
+USR00516,35-44,Coimbatore,Tier 2,Verified,2407,2,36,724.62,GPay,iOS,0.299,0
+USR00517,45-54,Vadodara,Tier 2,Verified,2440,2,36,457.51,GPay,iOS,0.236,0
+USR00518,25-34,Vadodara,Tier 2,Verified,458,1,13,820.29,GPay,Android,0.928,0
+USR00519,55+,Bengaluru,Tier 1,Not Verified,1456,1,65,561.13,PhonePe,iOS,0.51,0
+USR00520,55+,Nashik,Tier 3,Verified,1456,1,14,517.96,WhatsApp Pay,Android,0.494,0
+USR00521,35-44,Bhopal,Tier 2,Verified,305,1,33,260.53,GPay,Android,0.829,0
+USR00522,25-34,Chandigarh,Tier 2,Verified,1435,2,27,251.68,Paytm,iOS,0.709,0
+USR00523,25-34,Hyderabad,Tier 1,Verified,2143,1,29,1045.08,GPay,Android,0.244,0
+USR00524,55+,Nashik,Tier 3,Verified,979,2,20,250.07,Amazon Pay,Android,0.667,0
+USR00525,18-24,Pune,Tier 1,Verified,1650,1,40,809.42,PhonePe,Android,0.653,0
+USR00526,25-34,Solapur,Tier 3,Verified,1789,1,8,760.16,WhatsApp Pay,Android,0.734,0
+USR00527,35-44,Delhi,Tier 1,Verified,2394,1,41,1357.34,PhonePe,Android,0.885,0
+USR00528,45-54,Bhopal,Tier 2,Verified,837,1,23,339.18,BHIM,Web,0.336,0
+USR00529,25-34,Kolkata,Tier 1,Verified,2475,1,54,533.9,GPay,Android,0.453,0
+USR00530,25-34,Bhopal,Tier 2,Verified,1905,2,18,555.28,PhonePe,iOS,0.832,0
+USR00531,18-24,Hubli,Tier 3,Verified,2447,1,13,138.27,PhonePe,iOS,0.221,0
+USR00532,18-24,Chennai,Tier 1,Verified,509,1,32,1224.37,Paytm,Android,0.724,0
+USR00533,45-54,Amritsar,Tier 3,Verified,2472,1,15,131.59,GPay,iOS,0.445,0
+USR00534,35-44,Warangal,Tier 3,Verified,2231,2,12,254.19,Paytm,Android,0.681,0
+USR00535,25-34,Coimbatore,Tier 2,Verified,713,1,35,1015.45,PhonePe,iOS,0.226,0
+USR00536,25-34,Ahmedabad,Tier 1,Verified,249,3,24,275.13,PhonePe,Android,0.957,0
+USR00537,18-24,Mysuru,Tier 3,Not Verified,1602,4,23,429.35,PhonePe,iOS,0.555,0
+USR00538,45-54,Ahmedabad,Tier 1,Verified,1732,2,32,566.25,Paytm,Android,0.499,0
+USR00539,18-24,Solapur,Tier 3,Verified,156,2,15,530.28,Paytm,Android,0.298,1
+USR00540,35-44,Nagpur,Tier 2,Verified,2232,1,15,379.62,Paytm,Android,0.803,0
+USR00541,25-34,Kochi,Tier 2,Verified,2058,2,22,796.15,GPay,Android,0.202,0
+USR00542,45-54,Kochi,Tier 2,Verified,2254,3,22,1100.59,PhonePe,Web,0.43,0
+USR00543,25-34,Mumbai,Tier 1,Verified,1837,2,42,700.79,GPay,Android,0.991,0
+USR00544,25-34,Chandigarh,Tier 2,Verified,1043,1,39,244.91,WhatsApp Pay,Android,0.999,0
+USR00545,35-44,Jalandhar,Tier 3,Verified,386,1,13,310.09,GPay,Android,0.995,0
+USR00546,45-54,Hyderabad,Tier 1,Verified,889,3,50,547.49,GPay,Android,0.629,0
+USR00547,45-54,Rajkot,Tier 2,Verified,1783,1,40,1043.41,Amazon Pay,Android,0.225,0
+USR00548,25-34,Hyderabad,Tier 1,Verified,273,2,61,2012.31,PhonePe,Android,0.579,0
+USR00549,25-34,Kanpur,Tier 2,Verified,1355,4,12,795.57,GPay,Android,0.363,0
+USR00550,45-54,Meerut,Tier 3,Verified,2137,4,16,183.61,Paytm,iOS,0.711,0
+USR00551,18-24,Pune,Tier 1,Verified,272,4,27,539.44,GPay,Android,0.88,0
+USR00552,55+,Meerut,Tier 3,Verified,573,1,13,315.64,PhonePe,Android,0.74,0
+USR00553,25-34,Kochi,Tier 2,Verified,1638,1,27,358.66,GPay,Android,0.62,0
+USR00554,25-34,Amritsar,Tier 3,Verified,1566,1,24,379.7,PhonePe,Android,0.67,0
+USR00555,35-44,Lucknow,Tier 2,Verified,1680,2,22,409.27,Paytm,Android,0.35,0
+USR00556,35-44,Bhopal,Tier 2,Verified,1892,4,34,646.02,PhonePe,iOS,0.395,1
+USR00557,18-24,Kochi,Tier 2,Verified,411,2,25,183.27,PhonePe,iOS,0.513,0
+USR00558,18-24,Kolkata,Tier 1,Not Verified,289,2,44,471.47,PhonePe,Android,0.458,0
+USR00559,18-24,Hyderabad,Tier 1,Verified,2056,1,60,3335.17,GPay,Android,0.846,0
+USR00560,18-24,Solapur,Tier 3,Verified,564,2,12,511.54,GPay,Android,0.537,0
+USR00561,35-44,Warangal,Tier 3,Verified,228,1,13,703.64,Paytm,Android,0.664,0
+USR00562,35-44,Mumbai,Tier 1,Verified,538,3,54,734.82,GPay,Android,0.242,0
+USR00563,35-44,Pune,Tier 1,Verified,858,4,61,420.03,PhonePe,iOS,0.918,0
+USR00564,25-34,Visakhapatnam,Tier 2,Not Verified,681,3,25,423.81,PhonePe,Web,0.889,0
+USR00565,18-24,Bhopal,Tier 2,Verified,1055,1,18,526.89,Paytm,Web,0.698,0
+USR00566,25-34,Jaipur,Tier 2,Verified,1653,2,13,230.57,Paytm,Android,0.753,0
+USR00567,18-24,Patna,Tier 2,Verified,403,2,31,706.52,Amazon Pay,Android,0.101,0
+USR00568,35-44,Kanpur,Tier 2,Verified,2461,1,14,281.3,GPay,Android,0.712,1
+USR00569,35-44,Kolkata,Tier 1,Verified,523,4,46,564.87,PhonePe,iOS,0.48,0
+USR00570,25-34,Lucknow,Tier 2,Verified,967,1,22,544.96,PhonePe,iOS,0.758,0
+USR00571,25-34,Bhopal,Tier 2,Verified,1535,3,28,260.92,PhonePe,Android,0.223,0
+USR00572,35-44,Madurai,Tier 3,Verified,575,2,30,243.21,BHIM,iOS,0.709,0
+USR00573,55+,Mumbai,Tier 1,Verified,702,1,52,521.71,GPay,Android,0.75,0
+USR00574,35-44,Kanpur,Tier 2,Not Verified,1716,2,27,1775.69,BHIM,Web,0.498,0
+USR00575,55+,Delhi,Tier 1,Verified,603,2,37,1410.65,GPay,Android,0.631,0
+USR00576,25-34,Patna,Tier 2,Verified,1318,2,37,589.05,PhonePe,Android,0.323,0
+USR00577,18-24,Nagpur,Tier 2,Verified,2296,2,32,1073.67,PhonePe,iOS,0.749,0
+USR00578,45-54,Rajkot,Tier 2,Verified,139,3,34,1166.27,PhonePe,Web,0.693,0
+USR00579,35-44,Coimbatore,Tier 2,Verified,2117,1,39,1660.74,GPay,Android,0.453,0
+USR00580,35-44,Kochi,Tier 2,Verified,1010,1,36,262.23,GPay,Android,0.201,0
+USR00581,18-24,Delhi,Tier 1,Verified,2193,3,37,783.46,PhonePe,Android,0.111,0
+USR00582,25-34,Bhopal,Tier 2,Verified,570,1,30,257.45,GPay,Android,0.855,0
+USR00583,25-34,Coimbatore,Tier 2,Not Verified,737,2,34,541.93,GPay,Android,0.959,0
+USR00584,18-24,Mumbai,Tier 1,Verified,2435,1,39,920.02,Amazon Pay,iOS,0.336,1
+USR00585,18-24,Mumbai,Tier 1,Verified,1660,2,22,913.24,PhonePe,Web,0.666,0
+USR00586,55+,Patna,Tier 2,Verified,1764,2,38,147.0,GPay,Android,0.174,0
+USR00587,35-44,Agra,Tier 2,Verified,655,1,6,428.28,GPay,Android,0.379,0
+USR00588,18-24,Hyderabad,Tier 1,Not Verified,666,2,65,1266.73,GPay,Android,0.452,0
+USR00589,18-24,Delhi,Tier 1,Verified,1300,2,53,1586.6,PhonePe,Android,0.757,0
+USR00590,18-24,Jodhpur,Tier 3,Verified,1031,1,24,212.76,WhatsApp Pay,Android,0.491,0
+USR00591,45-54,Solapur,Tier 3,Verified,255,1,9,111.64,WhatsApp Pay,Android,0.768,0
+USR00592,25-34,Ranchi,Tier 3,Verified,81,2,27,108.63,BHIM,iOS,0.731,0
+USR00593,18-24,Jalandhar,Tier 3,Verified,2172,2,16,163.14,PhonePe,Android,0.84,0
+USR00594,55+,Bhopal,Tier 2,Verified,549,2,21,1382.06,GPay,Android,0.886,0
+USR00595,45-54,Ranchi,Tier 3,Not Verified,150,1,25,153.75,PhonePe,Android,0.486,0
+USR00596,35-44,Visakhapatnam,Tier 2,Verified,2391,2,29,247.25,PhonePe,Android,0.547,0
+USR00597,35-44,Mumbai,Tier 1,Verified,2076,3,61,584.51,PhonePe,Android,0.25,0
+USR00598,25-34,Kochi,Tier 2,Verified,451,3,36,1253.57,PhonePe,Android,0.707,0
+USR00599,25-34,Mumbai,Tier 1,Verified,210,3,20,913.21,GPay,Android,0.111,1
+USR00600,35-44,Kolkata,Tier 1,Verified,1598,3,53,915.15,GPay,Android,0.261,0
+USR00601,35-44,Mumbai,Tier 1,Verified,2294,3,52,188.43,Amazon Pay,Android,0.743,0
+USR00602,45-54,Hyderabad,Tier 1,Verified,1348,1,48,1462.13,BHIM,Android,0.924,0
+USR00603,45-54,Chandigarh,Tier 2,Verified,349,2,24,323.7,GPay,Android,0.207,0
+USR00604,25-34,Mumbai,Tier 1,Verified,764,1,70,408.09,GPay,Android,0.564,1
+USR00605,25-34,Pune,Tier 1,Verified,312,3,35,332.75,BHIM,Android,0.879,0
+USR00606,35-44,Visakhapatnam,Tier 2,Verified,1370,1,50,214.04,Paytm,iOS,0.511,0
+USR00607,55+,Hubli,Tier 3,Verified,2339,2,21,249.19,GPay,Android,0.766,0
+USR00608,25-34,Jalandhar,Tier 3,Verified,2453,4,29,310.13,GPay,iOS,0.998,0
+USR00609,25-34,Tiruchirappalli,Tier 3,Verified,2268,2,21,346.92,GPay,iOS,0.321,1
+USR00610,35-44,Amritsar,Tier 3,Not Verified,127,1,12,261.41,Paytm,iOS,0.412,0
+USR00611,18-24,Indore,Tier 2,Verified,69,4,23,178.78,Paytm,iOS,0.101,0
+USR00612,25-34,Chennai,Tier 1,Verified,455,1,53,580.95,Amazon Pay,Android,0.985,0
+USR00613,45-54,Jodhpur,Tier 3,Verified,613,2,9,154.84,GPay,Android,0.184,0
+USR00614,25-34,Pune,Tier 1,Verified,1555,1,48,965.73,GPay,iOS,0.773,0
+USR00615,35-44,Aurangabad,Tier 3,Verified,576,2,19,337.52,Paytm,Android,0.455,0
+USR00616,35-44,Jaipur,Tier 2,Verified,1811,2,26,335.96,BHIM,iOS,0.218,0
+USR00617,55+,Kolkata,Tier 1,Verified,1639,2,61,1353.56,BHIM,Web,0.762,0
+USR00618,45-54,Chennai,Tier 1,Verified,986,1,58,1434.58,Paytm,Android,0.282,0
+USR00619,18-24,Solapur,Tier 3,Verified,476,1,16,916.43,BHIM,Android,0.248,0
+USR00620,45-54,Pune,Tier 1,Verified,524,2,53,510.26,PhonePe,Android,0.968,0
+USR00621,45-54,Visakhapatnam,Tier 2,Verified,1927,1,24,628.07,BHIM,iOS,0.208,0
+USR00622,25-34,Surat,Tier 2,Not Verified,1276,3,24,634.85,PhonePe,iOS,0.727,1
+USR00623,55+,Kolkata,Tier 1,Verified,637,1,26,1368.14,GPay,Web,0.323,0
+USR00624,35-44,Mumbai,Tier 1,Verified,1254,1,50,870.36,PhonePe,Android,0.992,1
+USR00625,25-34,Pune,Tier 1,Verified,1882,2,45,1593.91,PhonePe,Android,0.595,0
+USR00626,25-34,Ranchi,Tier 3,Verified,602,1,23,861.33,PhonePe,Android,0.156,0
+USR00627,18-24,Mysuru,Tier 3,Verified,565,1,12,927.9,PhonePe,Android,0.461,0
+USR00628,25-34,Warangal,Tier 3,Verified,374,2,22,288.11,PhonePe,Android,0.333,0
+USR00629,25-34,Mumbai,Tier 1,Verified,294,1,51,1277.91,GPay,Android,0.681,0
+USR00630,35-44,Delhi,Tier 1,Not Verified,1388,1,31,762.3,PhonePe,Android,0.948,0
+USR00631,35-44,Indore,Tier 2,Verified,2380,1,29,396.06,BHIM,Android,0.752,0
+USR00632,35-44,Patna,Tier 2,Verified,1777,1,32,513.1,PhonePe,Web,0.293,0
+USR00633,25-34,Hubli,Tier 3,Verified,1856,3,19,221.18,PhonePe,Android,0.131,0
+USR00634,25-34,Nagpur,Tier 2,Verified,1238,1,39,385.79,GPay,Android,0.895,0
+USR00635,25-34,Delhi,Tier 1,Verified,1175,1,48,383.66,GPay,Android,0.477,0
+USR00636,45-54,Kochi,Tier 2,Not Verified,2183,1,11,493.83,GPay,Web,0.995,0
+USR00637,25-34,Mumbai,Tier 1,Verified,1596,2,32,632.54,Paytm,Android,0.423,0
+USR00638,18-24,Vadodara,Tier 2,Verified,1439,3,31,1136.6,GPay,Web,0.552,0
+USR00639,45-54,Bengaluru,Tier 1,Verified,136,1,66,885.74,Amazon Pay,iOS,0.297,0
+USR00640,45-54,Madurai,Tier 3,Verified,1180,1,12,168.52,PhonePe,Android,0.992,0
+USR00641,18-24,Kochi,Tier 2,Verified,2422,4,25,303.4,PhonePe,iOS,0.977,0
+USR00642,35-44,Surat,Tier 2,Verified,1017,1,22,551.38,PhonePe,Android,0.835,0
+USR00643,25-34,Mumbai,Tier 1,Not Verified,928,2,43,1088.44,GPay,Android,0.984,0
+USR00644,55+,Indore,Tier 2,Verified,741,1,26,611.19,WhatsApp Pay,Android,0.633,0
+USR00645,25-34,Tiruchirappalli,Tier 3,Verified,1499,3,15,254.17,Amazon Pay,iOS,0.125,0
+USR00646,35-44,Solapur,Tier 3,Verified,2338,1,16,225.79,GPay,Android,0.954,0
+USR00647,18-24,Kochi,Tier 2,Verified,2046,2,26,1056.68,GPay,Android,0.258,1
+USR00648,25-34,Mumbai,Tier 1,Verified,982,2,66,1397.13,PhonePe,iOS,0.118,0
+USR00649,25-34,Kolkata,Tier 1,Verified,855,3,40,1374.55,Paytm,Android,0.407,0
+USR00650,25-34,Kochi,Tier 2,Verified,1355,1,17,741.47,PhonePe,Android,0.233,0
+USR00651,25-34,Bengaluru,Tier 1,Verified,484,3,30,827.13,GPay,Web,0.875,0
+USR00652,55+,Kolkata,Tier 1,Verified,1650,2,49,2292.52,Amazon Pay,Android,0.403,0
+USR00653,18-24,Kanpur,Tier 2,Verified,1819,2,27,743.41,PhonePe,iOS,0.965,0
+USR00654,55+,Bengaluru,Tier 1,Verified,2331,2,57,983.42,GPay,Android,0.936,0
+USR00655,25-34,Nagpur,Tier 2,Verified,2442,3,28,833.84,PhonePe,Web,0.441,0
+USR00656,25-34,Visakhapatnam,Tier 2,Verified,551,1,31,865.75,Paytm,iOS,0.102,0
+USR00657,25-34,Pune,Tier 1,Verified,2354,1,61,609.14,Amazon Pay,Android,0.642,0
+USR00658,35-44,Agra,Tier 2,Verified,934,2,24,480.96,PhonePe,iOS,0.194,0
+USR00659,35-44,Bhopal,Tier 2,Verified,348,1,19,696.85,Paytm,Android,0.984,0
+USR00660,25-34,Delhi,Tier 1,Verified,1405,1,24,804.43,WhatsApp Pay,iOS,0.339,0
+USR00661,25-34,Ranchi,Tier 3,Verified,1465,1,18,548.01,Paytm,Android,0.197,1
+USR00662,18-24,Patna,Tier 2,Verified,1824,2,38,686.3,PhonePe,Android,0.972,0
+USR00663,35-44,Vadodara,Tier 2,Verified,1581,1,13,873.38,Paytm,Android,0.438,0
+USR00664,18-24,Madurai,Tier 3,Verified,2397,2,20,648.53,PhonePe,Android,0.718,0
+USR00665,25-34,Ranchi,Tier 3,Verified,166,1,18,284.29,BHIM,Android,0.387,0
+USR00666,18-24,Lucknow,Tier 2,Verified,1430,1,49,732.26,GPay,Android,0.438,0
+USR00667,25-34,Delhi,Tier 1,Verified,1414,2,50,1441.45,PhonePe,Web,0.652,0
+USR00668,55+,Jaipur,Tier 2,Verified,1796,3,24,646.58,GPay,Android,0.248,0
+USR00669,35-44,Kanpur,Tier 2,Verified,249,1,43,211.9,WhatsApp Pay,iOS,0.285,0
+USR00670,35-44,Tiruchirappalli,Tier 3,Verified,2299,2,21,165.14,Paytm,Android,0.757,0
+USR00671,25-34,Visakhapatnam,Tier 2,Verified,1248,1,17,548.91,BHIM,Android,0.145,0
+USR00672,25-34,Ahmedabad,Tier 1,Verified,659,1,22,640.65,PhonePe,Android,0.103,0
+USR00673,45-54,Meerut,Tier 3,Verified,2488,1,24,185.17,GPay,Android,0.187,0
+USR00674,45-54,Chennai,Tier 1,Verified,365,1,67,1055.35,PhonePe,Android,0.204,0
+USR00675,25-34,Nashik,Tier 3,Verified,2033,3,17,119.01,PhonePe,Android,0.339,0
+USR00676,45-54,Pune,Tier 1,Verified,787,1,45,365.73,Paytm,Android,0.443,0
+USR00677,18-24,Jaipur,Tier 2,Verified,1108,1,40,457.73,GPay,Android,0.337,0
+USR00678,25-34,Mumbai,Tier 1,Verified,649,2,20,1360.2,GPay,Android,0.701,0
+USR00679,18-24,Bhopal,Tier 2,Verified,2247,1,32,956.7,Paytm,Android,0.781,0
+USR00680,25-34,Jaipur,Tier 2,Verified,1615,3,22,923.2,GPay,Web,0.477,0
+USR00681,25-34,Ahmedabad,Tier 1,Not Verified,2375,3,57,3189.99,GPay,Android,0.529,0
+USR00682,25-34,Varanasi,Tier 3,Verified,172,2,17,392.51,PhonePe,Android,0.91,0
+USR00683,55+,Surat,Tier 2,Verified,633,1,31,283.64,Paytm,Android,0.781,0
+USR00684,35-44,Guwahati,Tier 3,Not Verified,897,3,12,375.28,GPay,Android,0.214,0
+USR00685,35-44,Warangal,Tier 3,Verified,1813,1,13,219.42,Paytm,Android,0.84,0
+USR00686,35-44,Chennai,Tier 1,Verified,1339,3,40,254.87,GPay,Web,0.923,0
+USR00687,18-24,Pune,Tier 1,Verified,2308,1,39,2055.08,PhonePe,Android,0.394,0
+USR00688,25-34,Ahmedabad,Tier 1,Verified,80,2,56,891.69,PhonePe,iOS,0.661,0
+USR00689,55+,Pune,Tier 1,Verified,490,1,47,1091.9,PhonePe,Web,0.233,0
+USR00690,25-34,Delhi,Tier 1,Verified,462,2,53,596.63,Paytm,Android,0.191,0
+USR00691,25-34,Coimbatore,Tier 2,Verified,1438,3,40,386.81,PhonePe,iOS,0.338,0
+USR00692,55+,Ahmedabad,Tier 1,Verified,183,1,60,533.16,PhonePe,Android,0.463,0
+USR00693,35-44,Surat,Tier 2,Verified,1675,1,28,429.02,PhonePe,Android,0.901,0
+USR00694,25-34,Nagpur,Tier 2,Verified,231,2,38,588.98,GPay,Android,0.929,0
+USR00695,25-34,Jaipur,Tier 2,Verified,1413,3,31,107.92,GPay,iOS,0.373,0
+USR00696,18-24,Vadodara,Tier 2,Verified,432,4,29,636.89,PhonePe,iOS,0.305,0
+USR00697,35-44,Rajkot,Tier 2,Verified,1844,2,28,1009.08,PhonePe,Android,0.389,0
+USR00698,35-44,Solapur,Tier 3,Verified,395,1,17,609.87,GPay,Android,0.29,0
+USR00699,45-54,Rajkot,Tier 2,Verified,2014,2,32,1109.12,GPay,Web,0.88,0
+USR00700,25-34,Coimbatore,Tier 2,Verified,681,1,26,837.25,GPay,Android,0.739,0
+USR00701,35-44,Mumbai,Tier 1,Verified,741,1,36,634.37,PhonePe,Web,0.85,0
+USR00702,55+,Hyderabad,Tier 1,Verified,165,1,69,691.95,WhatsApp Pay,Android,0.926,0
+USR00703,35-44,Chennai,Tier 1,Verified,1538,3,43,437.24,PhonePe,Android,0.555,0
+USR00704,35-44,Delhi,Tier 1,Verified,155,1,50,995.62,PhonePe,Android,0.54,0
+USR00705,25-34,Chandigarh,Tier 2,Not Verified,1973,2,27,808.02,PhonePe,Web,0.415,0
+USR00706,25-34,Varanasi,Tier 3,Verified,1089,2,19,161.17,GPay,Android,0.72,0
+USR00707,55+,Patna,Tier 2,Verified,233,1,22,568.75,GPay,Android,0.615,0
+USR00708,25-34,Chandigarh,Tier 2,Verified,936,2,27,376.53,WhatsApp Pay,Web,0.71,0
+USR00709,35-44,Pune,Tier 1,Not Verified,2132,1,40,862.72,GPay,Android,0.802,0
+USR00710,35-44,Jaipur,Tier 2,Not Verified,1971,3,32,176.18,PhonePe,Android,0.683,0
+USR00711,55+,Mumbai,Tier 1,Verified,946,1,78,829.57,GPay,Android,0.825,0
+USR00712,25-34,Rajkot,Tier 2,Not Verified,1157,1,15,1172.83,Paytm,Android,0.439,0
+USR00713,25-34,Visakhapatnam,Tier 2,Verified,923,1,29,1286.78,Paytm,Android,0.709,0
+USR00714,35-44,Pune,Tier 1,Verified,2424,1,45,336.76,GPay,Android,0.56,0
+USR00715,25-34,Chandigarh,Tier 2,Verified,1562,2,30,690.0,BHIM,Android,0.634,0
+USR00716,45-54,Surat,Tier 2,Verified,472,1,22,1222.34,GPay,Android,0.403,0
+USR00717,45-54,Bhopal,Tier 2,Verified,1164,1,23,246.18,Amazon Pay,Web,0.74,0
+USR00718,25-34,Visakhapatnam,Tier 2,Verified,801,1,19,908.21,Paytm,Android,0.789,0
+USR00719,25-34,Pune,Tier 1,Verified,1339,2,43,256.92,PhonePe,Android,0.749,0
+USR00720,55+,Chennai,Tier 1,Verified,1092,3,73,343.13,WhatsApp Pay,Android,0.464,0
+USR00721,35-44,Agra,Tier 2,Verified,2373,3,32,360.64,GPay,Android,0.409,0
+USR00722,18-24,Surat,Tier 2,Verified,2219,2,16,458.86,GPay,Web,0.528,0
+USR00723,18-24,Kolkata,Tier 1,Verified,2107,1,55,3154.75,GPay,Android,0.253,0
+USR00724,18-24,Bengaluru,Tier 1,Verified,1233,1,31,1296.33,PhonePe,Android,0.215,0
+USR00725,55+,Madurai,Tier 3,Verified,2319,2,11,181.43,PhonePe,iOS,0.265,0
+USR00726,45-54,Jalandhar,Tier 3,Verified,395,1,11,609.91,GPay,iOS,0.301,0
+USR00727,25-34,Pune,Tier 1,Verified,1387,1,59,1341.26,GPay,iOS,0.627,0
+USR00728,25-34,Delhi,Tier 1,Verified,1957,1,54,425.4,PhonePe,iOS,0.671,0
+USR00729,35-44,Delhi,Tier 1,Verified,1964,3,42,294.43,PhonePe,Android,0.55,0
+USR00730,25-34,Amritsar,Tier 3,Verified,2200,1,14,315.12,GPay,Android,0.149,0
+USR00731,18-24,Bengaluru,Tier 1,Verified,850,1,29,511.92,PhonePe,Android,0.988,0
+USR00732,45-54,Nashik,Tier 3,Verified,616,1,19,255.22,BHIM,iOS,0.744,0
+USR00733,35-44,Ahmedabad,Tier 1,Verified,1392,2,70,1532.33,PhonePe,Android,0.259,0
+USR00734,35-44,Mumbai,Tier 1,Verified,1881,1,21,612.54,PhonePe,Android,0.785,0
+USR00735,35-44,Kochi,Tier 2,Verified,678,1,30,978.66,PhonePe,Android,0.787,0
+USR00736,45-54,Agra,Tier 2,Verified,1806,2,23,585.57,GPay,Android,0.463,0
+USR00737,18-24,Pune,Tier 1,Verified,49,1,52,777.11,PhonePe,iOS,0.279,0
+USR00738,18-24,Jaipur,Tier 2,Verified,1349,2,37,230.29,PhonePe,Web,0.578,1
+USR00739,25-34,Mumbai,Tier 1,Not Verified,1049,1,55,1155.2,WhatsApp Pay,Web,0.889,0
+USR00740,45-54,Delhi,Tier 1,Verified,1601,2,33,1047.74,Paytm,Web,0.376,0
+USR00741,25-34,Jodhpur,Tier 3,Verified,1251,3,23,235.74,Paytm,Android,0.51,0
+USR00742,25-34,Kolkata,Tier 1,Verified,1806,3,47,1224.86,GPay,Android,0.996,0
+USR00743,55+,Ahmedabad,Tier 1,Verified,1501,2,15,695.18,Paytm,iOS,0.248,0
+USR00744,25-34,Kochi,Tier 2,Verified,1682,1,33,313.32,GPay,Android,0.302,0
+USR00745,45-54,Mysuru,Tier 3,Verified,119,2,13,295.97,Paytm,iOS,0.252,0
+USR00746,25-34,Mumbai,Tier 1,Verified,1566,3,40,1147.48,PhonePe,Android,0.33,0
+USR00747,45-54,Mumbai,Tier 1,Verified,2462,4,42,1724.35,PhonePe,Android,0.696,0
+USR00748,35-44,Mumbai,Tier 1,Verified,227,2,38,630.61,GPay,Android,0.475,0
+USR00749,45-54,Coimbatore,Tier 2,Verified,1065,1,30,364.25,BHIM,Android,0.238,0
+USR00750,35-44,Mumbai,Tier 1,Verified,1263,1,61,2578.22,Paytm,iOS,0.191,0
+USR00751,25-34,Bengaluru,Tier 1,Verified,1745,3,50,524.47,BHIM,Web,0.194,0
+USR00752,18-24,Lucknow,Tier 2,Verified,1187,1,32,1123.4,PhonePe,iOS,0.196,0
+USR00753,45-54,Nagpur,Tier 2,Verified,1107,3,35,681.14,GPay,Android,0.976,0
+USR00754,55+,Pune,Tier 1,Verified,1239,1,28,1009.0,Paytm,Android,0.593,0
+USR00755,25-34,Ahmedabad,Tier 1,Not Verified,1384,1,38,679.38,Paytm,Android,0.111,0
+USR00756,18-24,Ranchi,Tier 3,Verified,2381,2,14,235.42,Paytm,Android,0.234,0
+USR00757,25-34,Aurangabad,Tier 3,Verified,337,2,19,301.79,GPay,Android,0.191,0
+USR00758,25-34,Nagpur,Tier 2,Verified,1900,4,28,652.93,Amazon Pay,Android,0.366,0
+USR00759,45-54,Lucknow,Tier 2,Verified,745,3,29,697.34,Amazon Pay,iOS,0.867,0
+USR00760,18-24,Kolkata,Tier 1,Verified,1774,2,42,491.54,Paytm,Android,0.185,0
+USR00761,35-44,Mumbai,Tier 1,Verified,69,3,63,398.82,PhonePe,iOS,0.697,0
+USR00762,35-44,Bhopal,Tier 2,Verified,1822,4,29,373.62,Amazon Pay,Android,0.341,0
+USR00763,55+,Jalandhar,Tier 3,Verified,1433,1,23,636.83,WhatsApp Pay,Web,0.461,0
+USR00764,25-34,Visakhapatnam,Tier 2,Verified,1609,2,31,433.47,Amazon Pay,Android,0.53,0
+USR00765,25-34,Indore,Tier 2,Verified,713,1,39,326.94,Amazon Pay,Web,0.727,0
+USR00766,45-54,Bengaluru,Tier 1,Verified,454,1,43,821.23,GPay,iOS,0.632,0
+USR00767,35-44,Surat,Tier 2,Verified,1824,1,43,221.0,GPay,iOS,0.442,0
+USR00768,35-44,Mumbai,Tier 1,Verified,565,1,32,969.54,GPay,iOS,0.539,0
+USR00769,45-54,Ahmedabad,Tier 1,Not Verified,218,1,35,512.45,Paytm,Web,0.689,1
+USR00770,25-34,Meerut,Tier 3,Verified,2179,2,14,259.06,GPay,iOS,0.619,0
+USR00771,18-24,Surat,Tier 2,Verified,1415,2,30,553.56,PhonePe,Android,0.719,0
+USR00772,45-54,Amritsar,Tier 3,Verified,1048,1,19,171.72,Amazon Pay,Android,0.697,0
+USR00773,25-34,Guwahati,Tier 3,Verified,2316,3,13,430.5,PhonePe,Android,0.652,1
+USR00774,25-34,Bengaluru,Tier 1,Verified,2100,3,44,934.57,BHIM,Android,0.867,0
+USR00775,35-44,Ranchi,Tier 3,Not Verified,2043,1,27,127.79,Paytm,Android,0.398,0
+USR00776,18-24,Hyderabad,Tier 1,Verified,2284,2,40,1140.01,GPay,iOS,0.463,0
+USR00777,25-34,Ahmedabad,Tier 1,Verified,1849,3,41,1583.11,Paytm,Android,0.503,0
+USR00778,18-24,Ahmedabad,Tier 1,Verified,1324,1,60,154.89,GPay,Android,0.548,0
+USR00779,25-34,Lucknow,Tier 2,Verified,1682,1,36,368.79,PhonePe,Android,0.601,1
+USR00780,35-44,Delhi,Tier 1,Verified,1277,3,24,615.02,BHIM,iOS,0.606,0
+USR00781,25-34,Vadodara,Tier 2,Verified,1426,1,16,1144.49,WhatsApp Pay,Android,0.149,0
+USR00782,25-34,Vadodara,Tier 2,Not Verified,1389,2,27,1196.6,Paytm,Android,0.658,0
+USR00783,18-24,Surat,Tier 2,Verified,1518,2,32,468.8,PhonePe,Web,0.203,0
+USR00784,35-44,Nagpur,Tier 2,Verified,38,1,27,295.66,GPay,Android,0.847,0
+USR00785,35-44,Visakhapatnam,Tier 2,Verified,2273,2,27,259.51,Amazon Pay,iOS,0.732,1
+USR00786,25-34,Kanpur,Tier 2,Verified,2046,1,35,195.4,GPay,Web,0.745,0
+USR00787,35-44,Delhi,Tier 1,Verified,1071,2,57,1318.67,Paytm,Android,0.269,0
+USR00788,18-24,Amritsar,Tier 3,Verified,913,1,25,203.75,Paytm,Android,0.803,0
+USR00789,25-34,Delhi,Tier 1,Verified,1727,1,27,402.16,GPay,iOS,0.67,0
+USR00790,18-24,Ranchi,Tier 3,Verified,1875,1,20,665.22,GPay,Android,0.63,0
+USR00791,25-34,Ahmedabad,Tier 1,Verified,47,2,39,1792.24,Amazon Pay,Android,0.144,0
+USR00792,25-34,Meerut,Tier 3,Not Verified,2426,1,14,442.35,BHIM,iOS,0.557,0
+USR00793,55+,Bengaluru,Tier 1,Verified,2399,1,46,419.33,PhonePe,Android,0.834,0
+USR00794,55+,Kolkata,Tier 1,Verified,2094,3,54,908.97,Paytm,iOS,0.477,0
+USR00795,25-34,Hyderabad,Tier 1,Verified,1150,1,34,849.03,Paytm,Android,0.409,0
+USR00796,25-34,Madurai,Tier 3,Verified,576,1,12,411.83,BHIM,Android,0.642,0
+USR00797,55+,Chennai,Tier 1,Verified,2273,3,47,575.12,GPay,iOS,0.741,0
+USR00798,55+,Warangal,Tier 3,Verified,920,1,26,261.26,GPay,Android,0.662,0
+USR00799,18-24,Bhopal,Tier 2,Verified,573,4,35,416.42,GPay,iOS,0.685,0
+USR00800,35-44,Kolkata,Tier 1,Verified,502,2,36,1310.78,Paytm,Android,0.606,0
+USR00801,45-54,Surat,Tier 2,Verified,1739,2,32,960.78,GPay,Android,0.904,0
+USR00802,35-44,Pune,Tier 1,Verified,82,2,45,473.59,BHIM,Web,0.123,0
+USR00803,55+,Surat,Tier 2,Verified,261,1,39,427.17,PhonePe,Android,0.775,0
+USR00804,45-54,Visakhapatnam,Tier 2,Verified,1056,1,14,289.09,PhonePe,Android,0.156,0
+USR00805,35-44,Hyderabad,Tier 1,Verified,2246,1,35,705.94,GPay,Web,0.833,0
+USR00806,18-24,Hyderabad,Tier 1,Verified,2328,1,51,263.91,PhonePe,Android,0.56,0
+USR00807,55+,Rajkot,Tier 2,Verified,1208,2,22,319.66,PhonePe,iOS,0.142,0
+USR00808,35-44,Pune,Tier 1,Verified,1310,4,64,660.88,PhonePe,Android,0.148,0
+USR00809,35-44,Hyderabad,Tier 1,Verified,1844,3,40,1090.22,BHIM,Android,0.92,0
+USR00810,25-34,Surat,Tier 2,Not Verified,1536,2,28,465.69,PhonePe,Android,0.592,0
+USR00811,55+,Hyderabad,Tier 1,Not Verified,1234,1,54,754.4,PhonePe,Android,0.985,0
+USR00812,35-44,Kanpur,Tier 2,Not Verified,2134,1,37,255.19,GPay,Android,0.137,0
+USR00813,55+,Chennai,Tier 1,Verified,562,1,45,2077.91,GPay,Android,0.861,1
+USR00814,25-34,Ahmedabad,Tier 1,Verified,664,1,34,889.49,GPay,Android,0.936,0
+USR00815,55+,Kochi,Tier 2,Verified,1263,1,28,1207.07,PhonePe,Android,0.615,0
+USR00816,35-44,Madurai,Tier 3,Verified,1331,2,3,1430.78,Paytm,Web,0.961,0
+USR00817,25-34,Kochi,Tier 2,Verified,2099,1,23,667.25,BHIM,Android,0.589,0
+USR00818,25-34,Kolkata,Tier 1,Verified,936,3,43,309.34,PhonePe,Web,0.697,0
+USR00819,18-24,Chennai,Tier 1,Verified,924,4,37,930.56,BHIM,Android,0.656,0
+USR00820,25-34,Coimbatore,Tier 2,Verified,66,1,24,282.91,PhonePe,Android,0.411,0
+USR00821,55+,Hyderabad,Tier 1,Verified,193,2,52,1228.51,GPay,Android,0.389,0
+USR00822,35-44,Delhi,Tier 1,Verified,1610,1,33,1130.55,GPay,iOS,0.752,1
+USR00823,18-24,Kolkata,Tier 1,Verified,2136,3,55,765.76,Paytm,Android,0.501,1
+USR00824,25-34,Varanasi,Tier 3,Verified,818,1,14,287.77,PhonePe,Android,0.174,0
+USR00825,25-34,Kochi,Tier 2,Verified,2233,2,26,652.34,PhonePe,Android,0.664,0
+USR00826,35-44,Hyderabad,Tier 1,Verified,1767,3,38,425.45,GPay,Android,0.285,0
+USR00827,55+,Pune,Tier 1,Verified,325,2,62,278.28,Amazon Pay,Android,0.238,0
+USR00828,25-34,Kolkata,Tier 1,Verified,185,1,63,1846.2,BHIM,iOS,0.149,0
+USR00829,18-24,Aurangabad,Tier 3,Verified,318,2,22,503.98,PhonePe,Android,0.305,0
+USR00830,35-44,Amritsar,Tier 3,Verified,1877,2,11,284.47,PhonePe,Android,0.49,1
+USR00831,25-34,Surat,Tier 2,Verified,514,2,38,689.96,GPay,Android,0.677,0
+USR00832,18-24,Madurai,Tier 3,Not Verified,2428,1,18,648.44,WhatsApp Pay,Android,0.863,0
+USR00833,35-44,Delhi,Tier 1,Verified,1217,2,74,1745.57,Paytm,Android,0.371,0
+USR00834,45-54,Kochi,Tier 2,Verified,1822,1,32,1102.91,Paytm,iOS,0.84,1
+USR00835,25-34,Bengaluru,Tier 1,Verified,2215,1,51,815.16,PhonePe,Android,0.772,0
+USR00836,55+,Chandigarh,Tier 2,Verified,2265,1,24,451.42,Paytm,Android,0.671,0
+USR00837,25-34,Varanasi,Tier 3,Verified,1558,4,15,679.8,PhonePe,Android,0.11,0
+USR00838,25-34,Kanpur,Tier 2,Verified,534,1,33,137.22,Paytm,Android,0.615,0
+USR00839,55+,Delhi,Tier 1,Verified,1278,1,70,1521.91,GPay,Android,0.767,0
+USR00840,25-34,Nagpur,Tier 2,Verified,1720,3,28,730.62,PhonePe,Android,0.866,0
+USR00841,35-44,Bengaluru,Tier 1,Verified,934,2,22,878.66,Paytm,Android,0.327,0
+USR00842,25-34,Mumbai,Tier 1,Verified,2278,1,54,395.72,Paytm,iOS,0.595,0
+USR00843,18-24,Lucknow,Tier 2,Verified,1056,1,30,616.91,Paytm,Android,0.753,0
+USR00844,18-24,Bhopal,Tier 2,Verified,1492,1,11,1770.71,Amazon Pay,iOS,0.69,0
+USR00845,25-34,Delhi,Tier 1,Verified,822,1,11,310.99,PhonePe,Android,0.506,0
+USR00846,25-34,Chennai,Tier 1,Verified,2422,1,28,1804.14,Amazon Pay,iOS,0.61,0
+USR00847,18-24,Pune,Tier 1,Verified,720,1,48,1459.92,PhonePe,Android,0.322,0
+USR00848,25-34,Pune,Tier 1,Verified,1163,3,66,1069.7,GPay,Android,0.221,0
+USR00849,25-34,Ahmedabad,Tier 1,Verified,1925,1,44,288.4,PhonePe,Android,0.797,0
+USR00850,35-44,Ranchi,Tier 3,Not Verified,749,2,19,263.43,GPay,iOS,0.174,0
+USR00851,25-34,Bengaluru,Tier 1,Verified,2236,1,57,672.84,PhonePe,Android,0.76,0
+USR00852,25-34,Rajkot,Tier 2,Not Verified,338,3,30,1364.27,WhatsApp Pay,Android,0.865,0
+USR00853,25-34,Pune,Tier 1,Verified,2446,1,34,1449.48,PhonePe,iOS,0.133,0
+USR00854,45-54,Varanasi,Tier 3,Verified,2240,1,19,752.51,PhonePe,Android,0.798,0
+USR00855,25-34,Hyderabad,Tier 1,Verified,2445,2,46,659.03,PhonePe,Web,0.362,0
+USR00856,18-24,Coimbatore,Tier 2,Verified,400,1,13,340.48,Amazon Pay,Android,0.552,0
+USR00857,25-34,Chandigarh,Tier 2,Verified,709,2,18,315.99,Paytm,Web,0.226,0
+USR00858,45-54,Bengaluru,Tier 1,Verified,2010,3,34,885.44,Amazon Pay,iOS,0.136,0
+USR00859,45-54,Nagpur,Tier 2,Verified,287,1,30,843.18,GPay,Android,0.311,0
+USR00860,35-44,Kolkata,Tier 1,Verified,1619,1,44,366.02,Amazon Pay,Android,0.509,1
+USR00861,35-44,Surat,Tier 2,Verified,1357,1,23,192.45,GPay,Web,0.972,0
+USR00862,25-34,Chennai,Tier 1,Verified,1108,2,54,564.0,GPay,Android,0.613,0
+USR00863,18-24,Patna,Tier 2,Verified,1526,2,35,775.84,Amazon Pay,iOS,0.908,0
+USR00864,18-24,Visakhapatnam,Tier 2,Verified,1571,4,33,682.65,PhonePe,Android,0.301,0
+USR00865,35-44,Meerut,Tier 3,Not Verified,1443,1,15,221.79,GPay,iOS,0.534,0
+USR00866,18-24,Bengaluru,Tier 1,Not Verified,1831,1,58,665.65,PhonePe,iOS,0.169,0
+USR00867,18-24,Mysuru,Tier 3,Verified,645,1,22,153.02,Amazon Pay,Android,0.426,0
+USR00868,18-24,Lucknow,Tier 2,Verified,973,1,22,516.62,PhonePe,Android,0.397,0
+USR00869,25-34,Ahmedabad,Tier 1,Verified,1992,1,79,1255.6,GPay,iOS,0.245,0
+USR00870,25-34,Jaipur,Tier 2,Verified,1028,1,23,264.28,GPay,Android,0.616,0
+USR00871,25-34,Mumbai,Tier 1,Verified,2374,1,17,1635.68,PhonePe,Android,0.25,0
+USR00872,18-24,Pune,Tier 1,Not Verified,2484,4,47,650.31,Amazon Pay,Android,0.674,0
+USR00873,25-34,Rajkot,Tier 2,Not Verified,1191,3,32,358.08,PhonePe,Android,0.295,0
+USR00874,18-24,Ahmedabad,Tier 1,Verified,2002,1,20,657.24,PhonePe,iOS,0.847,0
+USR00875,25-34,Kochi,Tier 2,Verified,2416,3,32,473.66,PhonePe,Android,0.264,0
+USR00876,25-34,Visakhapatnam,Tier 2,Verified,716,2,20,539.82,GPay,Android,0.408,0
+USR00877,25-34,Solapur,Tier 3,Verified,311,1,13,504.26,GPay,Android,0.447,0
+USR00878,18-24,Nagpur,Tier 2,Verified,2171,3,46,524.21,GPay,Android,0.554,0
+USR00879,25-34,Kanpur,Tier 2,Verified,424,1,33,391.45,Paytm,Android,0.911,0
+USR00880,25-34,Indore,Tier 2,Verified,2206,2,32,1798.6,Paytm,Android,0.206,0
+USR00881,35-44,Guwahati,Tier 3,Verified,2238,3,26,257.44,Paytm,Android,0.907,0
+USR00882,25-34,Warangal,Tier 3,Verified,1797,2,22,399.78,GPay,iOS,0.433,1
+USR00883,18-24,Pune,Tier 1,Verified,969,3,24,628.39,PhonePe,Android,0.534,0
+USR00884,35-44,Kolkata,Tier 1,Verified,2442,3,61,532.63,Amazon Pay,iOS,0.917,0
+USR00885,35-44,Delhi,Tier 1,Verified,1772,1,40,504.7,BHIM,Android,0.529,0
+USR00886,18-24,Delhi,Tier 1,Verified,1190,2,26,1312.54,PhonePe,Android,0.589,0
+USR00887,25-34,Jaipur,Tier 2,Verified,59,2,40,269.88,GPay,Android,0.206,1
+USR00888,25-34,Surat,Tier 2,Verified,871,2,24,772.21,Paytm,iOS,0.384,0
+USR00889,35-44,Kanpur,Tier 2,Verified,1775,2,40,379.65,GPay,Android,0.328,0
+USR00890,25-34,Patna,Tier 2,Verified,2342,1,41,469.82,Amazon Pay,Android,0.348,0
+USR00891,45-54,Kochi,Tier 2,Verified,864,1,36,288.75,BHIM,iOS,0.805,0
+USR00892,18-24,Bhopal,Tier 2,Verified,2320,2,23,289.05,Paytm,Android,0.328,0
+USR00893,25-34,Jalandhar,Tier 3,Verified,1660,2,16,209.08,GPay,Web,0.869,0
+USR00894,25-34,Tiruchirappalli,Tier 3,Verified,971,1,16,428.69,GPay,Android,0.729,0
+USR00895,18-24,Mysuru,Tier 3,Verified,2112,1,18,173.71,BHIM,Android,0.405,0
+USR00896,35-44,Tiruchirappalli,Tier 3,Verified,243,1,20,108.68,GPay,Android,0.968,1
+USR00897,25-34,Delhi,Tier 1,Verified,625,1,31,473.19,GPay,Android,0.64,0
+USR00898,35-44,Chennai,Tier 1,Not Verified,938,1,40,1349.81,GPay,iOS,0.648,0
+USR00899,18-24,Indore,Tier 2,Verified,1671,2,38,303.36,PhonePe,Web,0.569,0
+USR00900,25-34,Mumbai,Tier 1,Verified,747,2,18,867.53,Paytm,iOS,0.495,0
+USR00901,35-44,Warangal,Tier 3,Verified,2152,1,24,349.05,GPay,Android,0.13,0
+USR00902,25-34,Hyderabad,Tier 1,Verified,724,2,44,910.23,GPay,Android,0.424,0
+USR00903,18-24,Bengaluru,Tier 1,Verified,385,4,12,390.88,Paytm,iOS,0.802,0
+USR00904,25-34,Patna,Tier 2,Verified,1690,2,20,499.25,GPay,Web,0.566,0
+USR00905,35-44,Ranchi,Tier 3,Verified,399,2,20,313.57,WhatsApp Pay,Android,0.754,0
+USR00906,18-24,Solapur,Tier 3,Verified,1455,1,13,851.75,Amazon Pay,Android,0.834,0
+USR00907,45-54,Nagpur,Tier 2,Not Verified,1892,3,26,280.27,PhonePe,Android,0.617,0
+USR00908,45-54,Amritsar,Tier 3,Verified,2103,1,10,83.91,PhonePe,Android,0.165,0
+USR00909,55+,Delhi,Tier 1,Not Verified,2132,4,59,350.5,GPay,iOS,0.889,0
+USR00910,18-24,Agra,Tier 2,Not Verified,1054,2,12,626.86,PhonePe,Android,0.969,0
+USR00911,55+,Kochi,Tier 2,Verified,1026,2,31,336.96,PhonePe,iOS,0.965,0
+USR00912,18-24,Vadodara,Tier 2,Verified,2433,3,23,879.66,Paytm,Android,0.534,0
+USR00913,25-34,Pune,Tier 1,Not Verified,932,2,31,670.16,PhonePe,Android,0.307,0
+USR00914,55+,Jalandhar,Tier 3,Verified,2145,2,23,306.28,BHIM,Android,0.731,0
+USR00915,25-34,Chennai,Tier 1,Verified,410,1,27,1368.19,GPay,Android,0.774,0
+USR00916,45-54,Aurangabad,Tier 3,Verified,761,1,19,299.03,GPay,Android,0.418,0
+USR00917,18-24,Chennai,Tier 1,Verified,778,3,47,1346.37,PhonePe,Web,0.715,0
+USR00918,18-24,Ahmedabad,Tier 1,Verified,847,1,39,908.48,PhonePe,Android,0.318,0
+USR00919,35-44,Nagpur,Tier 2,Verified,860,3,28,310.22,GPay,Web,0.853,0
+USR00920,25-34,Kochi,Tier 2,Verified,466,1,12,513.41,BHIM,iOS,0.171,0
+USR00921,18-24,Vadodara,Tier 2,Verified,57,2,25,655.31,GPay,iOS,0.587,1
+USR00922,35-44,Ahmedabad,Tier 1,Verified,1550,2,42,839.96,BHIM,Android,0.543,0
+USR00923,35-44,Indore,Tier 2,Verified,2383,3,30,744.41,PhonePe,Web,0.542,0
+USR00924,25-34,Indore,Tier 2,Verified,2123,1,26,959.87,Paytm,Android,0.3,0
+USR00925,35-44,Mumbai,Tier 1,Verified,2183,2,61,220.93,PhonePe,iOS,0.53,0
+USR00926,35-44,Aurangabad,Tier 3,Verified,1452,1,18,135.28,Amazon Pay,iOS,0.718,0
+USR00927,25-34,Ranchi,Tier 3,Verified,2152,1,11,291.21,GPay,Web,0.72,1
+USR00928,25-34,Hyderabad,Tier 1,Verified,1584,2,46,1315.99,Paytm,iOS,0.393,0
+USR00929,35-44,Chennai,Tier 1,Verified,796,2,50,661.61,Paytm,Android,0.313,0
+USR00930,25-34,Agra,Tier 2,Verified,1435,1,23,349.64,GPay,iOS,0.549,0
+USR00931,18-24,Kolkata,Tier 1,Verified,1525,3,39,1176.48,GPay,Android,0.352,0
+USR00932,25-34,Kanpur,Tier 2,Verified,2388,2,28,2331.74,GPay,Web,0.833,0
+USR00933,18-24,Kochi,Tier 2,Verified,995,2,35,195.8,PhonePe,Android,0.871,0
+USR00934,25-34,Madurai,Tier 3,Verified,642,1,28,410.74,Paytm,Android,0.109,0
+USR00935,18-24,Kanpur,Tier 2,Not Verified,2147,2,43,333.68,GPay,Android,0.384,0
+USR00936,45-54,Visakhapatnam,Tier 2,Verified,2332,3,29,827.9,PhonePe,Android,0.143,0
+USR00937,25-34,Guwahati,Tier 3,Not Verified,275,1,28,355.99,Paytm,Android,0.329,0
+USR00938,18-24,Lucknow,Tier 2,Verified,1872,2,26,415.34,PhonePe,Android,0.334,0
+USR00939,18-24,Coimbatore,Tier 2,Verified,1085,1,32,242.06,Paytm,Android,0.471,0
+USR00940,25-34,Surat,Tier 2,Verified,844,2,24,100.52,Paytm,Android,0.685,0
+USR00941,35-44,Kochi,Tier 2,Verified,1195,1,32,702.68,GPay,Android,0.706,0
+USR00942,45-54,Rajkot,Tier 2,Verified,1860,3,33,440.46,GPay,Android,0.443,0
+USR00943,35-44,Warangal,Tier 3,Verified,623,3,20,255.03,PhonePe,iOS,0.677,0
+USR00944,25-34,Amritsar,Tier 3,Verified,2371,1,22,317.09,BHIM,Android,0.916,0
+USR00945,35-44,Bhopal,Tier 2,Not Verified,964,1,30,277.24,BHIM,Android,0.688,0
+USR00946,18-24,Agra,Tier 2,Verified,1649,1,33,474.13,GPay,Android,0.5,0
+USR00947,18-24,Bhopal,Tier 2,Verified,2434,2,35,660.29,Paytm,iOS,0.505,0
+USR00948,55+,Mumbai,Tier 1,Verified,542,2,35,1428.14,Amazon Pay,iOS,0.696,0
+USR00949,18-24,Tiruchirappalli,Tier 3,Verified,357,1,25,439.53,GPay,Web,0.457,0
+USR00950,25-34,Varanasi,Tier 3,Verified,1968,2,2,700.7,GPay,Android,0.124,0
+USR00951,25-34,Kochi,Tier 2,Verified,370,1,39,954.48,GPay,iOS,0.656,0
+USR00952,25-34,Indore,Tier 2,Verified,1626,1,39,506.34,PhonePe,iOS,0.323,0
+USR00953,25-34,Bengaluru,Tier 1,Not Verified,567,2,35,1262.09,PhonePe,Android,0.254,1
+USR00954,35-44,Bhopal,Tier 2,Verified,1362,3,14,1157.66,PhonePe,Android,0.52,0
+USR00955,25-34,Indore,Tier 2,Verified,1145,2,34,392.99,PhonePe,Android,0.222,0
+USR00956,55+,Aurangabad,Tier 3,Not Verified,755,2,12,252.52,PhonePe,Android,0.511,0
+USR00957,18-24,Varanasi,Tier 3,Verified,2340,1,8,136.13,Paytm,Android,0.676,0
+USR00958,25-34,Kolkata,Tier 1,Verified,2002,2,49,453.48,PhonePe,iOS,0.824,0
+USR00959,45-54,Jalandhar,Tier 3,Not Verified,1718,1,15,247.31,GPay,iOS,0.373,1
+USR00960,45-54,Meerut,Tier 3,Verified,588,1,17,447.76,GPay,Android,0.522,1
+USR00961,25-34,Ahmedabad,Tier 1,Verified,1984,1,76,610.34,BHIM,iOS,0.789,0
+USR00962,45-54,Agra,Tier 2,Not Verified,977,2,30,279.26,GPay,Android,0.593,0
+USR00963,45-54,Indore,Tier 2,Verified,2326,1,33,630.0,Amazon Pay,Android,0.325,0
+USR00964,25-34,Warangal,Tier 3,Verified,1626,3,15,871.19,GPay,Android,0.299,0
+USR00965,18-24,Surat,Tier 2,Verified,1011,2,27,122.83,PhonePe,Android,0.82,0
+USR00966,35-44,Tiruchirappalli,Tier 3,Verified,1143,1,23,276.53,GPay,Android,0.769,0
+USR00967,35-44,Amritsar,Tier 3,Verified,800,3,11,424.15,PhonePe,Android,0.264,0
+USR00968,55+,Ahmedabad,Tier 1,Verified,1884,1,39,959.68,GPay,Android,0.66,0
+USR00969,55+,Mumbai,Tier 1,Verified,653,1,14,749.68,Paytm,Android,0.581,0
+USR00970,25-34,Lucknow,Tier 2,Not Verified,1185,1,25,867.62,Paytm,Android,0.744,0
+USR00971,25-34,Mysuru,Tier 3,Verified,399,1,14,277.28,WhatsApp Pay,Android,0.544,0
+USR00972,25-34,Visakhapatnam,Tier 2,Not Verified,2071,4,31,196.33,PhonePe,iOS,0.517,0
+USR00973,18-24,Kolkata,Tier 1,Verified,358,3,34,1219.25,PhonePe,Android,0.956,0
+USR00974,55+,Madurai,Tier 3,Verified,1637,1,11,205.59,GPay,Android,0.523,0
+USR00975,25-34,Chandigarh,Tier 2,Not Verified,1054,3,44,311.28,PhonePe,Android,0.845,0
+USR00976,25-34,Hyderabad,Tier 1,Verified,1606,2,49,924.21,PhonePe,Android,0.499,0
+USR00977,25-34,Jaipur,Tier 2,Verified,845,1,33,789.23,PhonePe,Android,0.794,0
+USR00978,25-34,Mysuru,Tier 3,Verified,1966,1,32,269.93,GPay,iOS,0.965,0
+USR00979,35-44,Kanpur,Tier 2,Verified,202,2,21,607.77,GPay,Android,0.595,0
+USR00980,35-44,Vadodara,Tier 2,Verified,1253,1,18,443.49,WhatsApp Pay,Android,0.899,0
+USR00981,25-34,Nagpur,Tier 2,Verified,492,1,46,294.73,GPay,iOS,0.491,1
+USR00982,25-34,Kochi,Tier 2,Verified,1160,2,20,850.79,GPay,iOS,0.456,0
+USR00983,25-34,Jaipur,Tier 2,Verified,2410,2,35,267.86,WhatsApp Pay,Android,0.528,0
+USR00984,25-34,Bhopal,Tier 2,Verified,396,1,36,374.92,PhonePe,Android,0.55,0
+USR00985,18-24,Kolkata,Tier 1,Verified,275,1,32,1238.68,Paytm,Android,0.68,0
+USR00986,25-34,Kochi,Tier 2,Verified,469,1,27,356.01,Paytm,iOS,0.309,0
+USR00987,25-34,Kolkata,Tier 1,Verified,1826,2,42,968.53,GPay,Android,0.119,0
+USR00988,35-44,Bengaluru,Tier 1,Verified,1056,3,49,492.18,PhonePe,iOS,0.537,0
+USR00989,25-34,Visakhapatnam,Tier 2,Verified,2253,2,30,282.72,PhonePe,Android,0.271,0
+USR00990,45-54,Bhopal,Tier 2,Not Verified,1355,2,16,1418.26,GPay,Android,0.348,0
+USR00991,25-34,Indore,Tier 2,Not Verified,2301,1,17,218.22,PhonePe,iOS,0.578,0
+USR00992,35-44,Chandigarh,Tier 2,Verified,1108,2,30,1001.16,PhonePe,Android,0.509,0
+USR00993,18-24,Coimbatore,Tier 2,Not Verified,1582,2,12,346.85,GPay,Android,0.895,0
+USR00994,25-34,Bhopal,Tier 2,Verified,1008,1,34,493.64,PhonePe,iOS,0.157,0
+USR00995,25-34,Pune,Tier 1,Verified,807,2,59,963.83,GPay,Android,0.548,0
+USR00996,18-24,Solapur,Tier 3,Verified,1189,1,24,341.5,GPay,Android,0.677,0
+USR00997,55+,Coimbatore,Tier 2,Verified,303,1,38,197.32,Amazon Pay,iOS,0.944,0
+USR00998,18-24,Jodhpur,Tier 3,Verified,857,1,24,394.86,GPay,Android,0.272,1
+USR00999,18-24,Warangal,Tier 3,Verified,1621,2,33,366.35,Paytm,Android,0.573,0
+USR01000,35-44,Visakhapatnam,Tier 2,Verified,231,1,18,826.06,GPay,Android,0.645,0
+USR01001,25-34,Hyderabad,Tier 1,Verified,2042,3,58,1275.57,PhonePe,Android,0.849,0
+USR01002,18-24,Surat,Tier 2,Verified,278,1,31,527.98,GPay,Android,0.769,0
+USR01003,25-34,Meerut,Tier 3,Verified,1541,2,19,332.66,PhonePe,iOS,0.152,0
+USR01004,35-44,Coimbatore,Tier 2,Verified,196,2,30,227.81,PhonePe,iOS,0.851,0
+USR01005,35-44,Nagpur,Tier 2,Verified,2157,1,30,1539.59,Amazon Pay,iOS,0.753,0
+USR01006,45-54,Hyderabad,Tier 1,Verified,821,2,54,233.46,GPay,iOS,0.324,0
+USR01007,18-24,Bengaluru,Tier 1,Verified,2317,2,51,977.64,Paytm,iOS,0.474,0
+USR01008,18-24,Surat,Tier 2,Verified,2391,1,47,658.24,PhonePe,iOS,0.513,0
+USR01009,18-24,Indore,Tier 2,Verified,456,1,34,817.35,Amazon Pay,Android,0.262,0
+USR01010,18-24,Jalandhar,Tier 3,Verified,677,2,12,423.2,PhonePe,iOS,0.64,0
+USR01011,35-44,Kolkata,Tier 1,Verified,2283,4,24,1687.88,GPay,Android,0.392,0
+USR01012,45-54,Pune,Tier 1,Verified,1354,2,40,328.28,PhonePe,iOS,0.607,0
+USR01013,25-34,Madurai,Tier 3,Verified,2283,3,11,355.08,Paytm,Android,0.329,0
+USR01014,45-54,Vadodara,Tier 2,Verified,1656,1,32,660.74,PhonePe,Android,0.131,0
+USR01015,55+,Mumbai,Tier 1,Verified,2150,1,43,713.61,Paytm,Android,0.901,1
+USR01016,25-34,Hyderabad,Tier 1,Verified,909,3,22,658.75,GPay,iOS,0.12,0
+USR01017,18-24,Rajkot,Tier 2,Verified,1160,3,23,570.11,GPay,Android,0.56,0
+USR01018,35-44,Solapur,Tier 3,Verified,663,1,23,643.98,PhonePe,Android,0.514,0
+USR01019,35-44,Chennai,Tier 1,Verified,1533,3,14,852.88,GPay,Android,0.325,0
+USR01020,45-54,Visakhapatnam,Tier 2,Verified,406,2,33,1279.2,Amazon Pay,Android,0.612,0
+USR01021,35-44,Lucknow,Tier 2,Verified,1359,2,50,746.89,PhonePe,Android,0.256,0
+USR01022,35-44,Tiruchirappalli,Tier 3,Verified,2390,3,22,230.02,GPay,iOS,0.186,0
+USR01023,35-44,Mumbai,Tier 1,Not Verified,2390,1,33,2410.05,Paytm,Android,0.802,0
+USR01024,55+,Kolkata,Tier 1,Verified,1455,3,26,1895.49,GPay,Android,0.491,0
+USR01025,35-44,Lucknow,Tier 2,Verified,958,2,18,350.55,PhonePe,Android,0.865,0
+USR01026,25-34,Warangal,Tier 3,Not Verified,1596,1,19,302.59,PhonePe,Web,0.572,0
+USR01027,35-44,Bengaluru,Tier 1,Not Verified,1368,2,54,789.85,PhonePe,Android,0.299,0
+USR01028,18-24,Pune,Tier 1,Verified,1855,2,48,552.47,Amazon Pay,Android,0.618,0
+USR01029,18-24,Patna,Tier 2,Verified,1216,2,34,336.3,GPay,Android,0.233,0
+USR01030,18-24,Vadodara,Tier 2,Verified,2370,2,39,243.39,GPay,iOS,0.593,0
+USR01031,25-34,Pune,Tier 1,Verified,2085,1,33,1444.01,Amazon Pay,iOS,0.728,0
+USR01032,35-44,Ahmedabad,Tier 1,Verified,2320,1,65,532.92,Paytm,Android,0.456,0
+USR01033,25-34,Hyderabad,Tier 1,Verified,1022,1,45,2528.04,Paytm,Android,0.799,0
+USR01034,25-34,Delhi,Tier 1,Verified,490,2,59,603.37,Amazon Pay,Android,0.481,0
+USR01035,18-24,Bhopal,Tier 2,Not Verified,1441,2,10,476.4,Amazon Pay,Android,0.122,0
+USR01036,25-34,Bhopal,Tier 2,Verified,1841,2,47,306.0,Paytm,Android,0.496,0
+USR01037,18-24,Mysuru,Tier 3,Verified,847,2,14,252.1,GPay,iOS,0.24,0
+USR01038,25-34,Ranchi,Tier 3,Verified,490,2,17,178.71,GPay,Android,0.319,0
+USR01039,55+,Bengaluru,Tier 1,Not Verified,1208,1,18,1449.89,PhonePe,Android,0.724,0
+USR01040,25-34,Vadodara,Tier 2,Verified,1959,1,28,676.46,PhonePe,Android,0.288,0
+USR01041,25-34,Hyderabad,Tier 1,Verified,2268,2,75,483.89,Paytm,Android,0.333,0
+USR01042,25-34,Tiruchirappalli,Tier 3,Verified,608,2,17,197.81,BHIM,Android,0.701,0
+USR01043,25-34,Varanasi,Tier 3,Verified,2187,1,23,463.23,GPay,Android,0.253,0
+USR01044,25-34,Kochi,Tier 2,Verified,1141,1,27,419.42,GPay,Android,0.689,1
+USR01045,35-44,Pune,Tier 1,Verified,1141,2,27,373.49,GPay,iOS,0.922,0
+USR01046,55+,Delhi,Tier 1,Not Verified,108,1,75,2606.37,Paytm,Android,0.895,0
+USR01047,18-24,Patna,Tier 2,Verified,2112,4,49,170.19,Amazon Pay,Android,0.19,0
+USR01048,18-24,Meerut,Tier 3,Verified,2475,2,13,115.79,GPay,Android,0.268,0
+USR01049,25-34,Nashik,Tier 3,Verified,2326,3,20,497.99,PhonePe,Android,0.119,0
+USR01050,35-44,Aurangabad,Tier 3,Verified,1278,1,22,212.21,GPay,Web,0.454,0
+USR01051,35-44,Kolkata,Tier 1,Verified,1471,1,59,839.18,PhonePe,Android,0.372,0
+USR01052,18-24,Chennai,Tier 1,Verified,283,2,34,1055.22,GPay,Android,0.891,0
+USR01053,35-44,Chandigarh,Tier 2,Verified,150,3,35,397.83,BHIM,iOS,0.954,0
+USR01054,45-54,Kolkata,Tier 1,Verified,1639,2,22,1554.95,GPay,Android,0.179,0
+USR01055,35-44,Surat,Tier 2,Verified,961,1,9,408.46,Paytm,iOS,0.616,0
+USR01056,25-34,Chennai,Tier 1,Verified,1378,1,64,1351.78,Amazon Pay,Android,0.219,0
+USR01057,18-24,Solapur,Tier 3,Verified,2247,2,28,384.33,BHIM,Android,0.282,0
+USR01058,45-54,Bengaluru,Tier 1,Verified,1791,4,43,444.12,PhonePe,Android,0.978,0
+USR01059,18-24,Bengaluru,Tier 1,Verified,1330,1,30,1094.32,Amazon Pay,Android,0.58,0
+USR01060,45-54,Bengaluru,Tier 1,Verified,1330,3,57,1566.49,GPay,Android,0.231,1
+USR01061,18-24,Bhopal,Tier 2,Verified,1725,4,36,774.98,PhonePe,iOS,0.373,0
+USR01062,35-44,Meerut,Tier 3,Verified,1151,1,12,156.99,GPay,Android,0.269,0
+USR01063,25-34,Mumbai,Tier 1,Not Verified,1123,2,49,610.82,Paytm,Android,0.651,0
+USR01064,25-34,Mysuru,Tier 3,Verified,136,1,13,518.41,Paytm,Android,0.719,0
+USR01065,25-34,Aurangabad,Tier 3,Verified,1950,2,21,161.46,Paytm,Android,0.437,0
+USR01066,25-34,Vadodara,Tier 2,Not Verified,1970,1,41,517.61,BHIM,Android,0.274,1
+USR01067,25-34,Mumbai,Tier 1,Verified,1135,4,46,335.89,BHIM,Android,0.3,0
+USR01068,25-34,Nagpur,Tier 2,Verified,867,1,28,546.91,GPay,iOS,0.934,0
+USR01069,55+,Ahmedabad,Tier 1,Not Verified,1360,3,39,2514.4,GPay,iOS,0.899,0
+USR01070,45-54,Mumbai,Tier 1,Verified,1588,2,43,769.84,WhatsApp Pay,iOS,0.455,0
+USR01071,25-34,Solapur,Tier 3,Verified,2462,2,17,119.87,PhonePe,Android,0.677,0
+USR01072,55+,Mumbai,Tier 1,Verified,2162,1,16,738.09,PhonePe,Android,0.511,0
+USR01073,25-34,Indore,Tier 2,Verified,1036,2,38,704.64,GPay,Android,0.456,0
+USR01074,25-34,Coimbatore,Tier 2,Verified,1616,2,22,402.52,GPay,Android,0.668,1
+USR01075,35-44,Visakhapatnam,Tier 2,Not Verified,1830,1,48,226.46,WhatsApp Pay,Android,0.374,0
+USR01076,18-24,Nashik,Tier 3,Verified,711,1,29,130.78,BHIM,Web,0.652,0
+USR01077,18-24,Coimbatore,Tier 2,Verified,612,1,18,676.57,PhonePe,iOS,0.681,0
+USR01078,25-34,Aurangabad,Tier 3,Verified,493,1,9,208.05,Paytm,Android,0.627,0
+USR01079,25-34,Bengaluru,Tier 1,Verified,1640,1,33,1015.53,Paytm,Android,0.506,0
+USR01080,18-24,Hyderabad,Tier 1,Not Verified,1892,1,40,1150.32,Paytm,Android,0.392,0
+USR01081,25-34,Tiruchirappalli,Tier 3,Verified,701,2,17,211.06,WhatsApp Pay,Android,0.211,0
+USR01082,18-24,Ahmedabad,Tier 1,Verified,1516,1,27,2060.62,Amazon Pay,Android,0.737,0
+USR01083,45-54,Bengaluru,Tier 1,Verified,1581,2,48,316.03,BHIM,Android,0.14,0
+USR01084,35-44,Jalandhar,Tier 3,Verified,2346,3,13,762.86,PhonePe,iOS,0.876,0
+USR01085,18-24,Guwahati,Tier 3,Verified,762,2,5,250.01,PhonePe,Android,0.146,0
+USR01086,25-34,Rajkot,Tier 2,Verified,1857,1,34,713.75,PhonePe,Android,0.263,0
+USR01087,25-34,Nagpur,Tier 2,Verified,44,2,26,363.79,Amazon Pay,Android,0.328,0
+USR01088,45-54,Chandigarh,Tier 2,Verified,2072,2,20,358.65,PhonePe,Android,0.105,0
+USR01089,25-34,Nagpur,Tier 2,Verified,918,2,35,478.31,PhonePe,iOS,0.528,0
+USR01090,18-24,Delhi,Tier 1,Verified,2492,2,33,636.16,GPay,iOS,0.32,0
+USR01091,25-34,Hyderabad,Tier 1,Verified,230,1,83,1016.58,GPay,Android,0.15,0
+USR01092,45-54,Kanpur,Tier 2,Verified,162,2,36,154.04,PhonePe,Android,0.854,0
+USR01093,25-34,Indore,Tier 2,Verified,389,1,42,453.49,PhonePe,Android,0.475,0
+USR01094,35-44,Surat,Tier 2,Verified,1194,2,20,653.72,Paytm,iOS,0.722,0
+USR01095,25-34,Bengaluru,Tier 1,Verified,1895,2,30,1262.46,PhonePe,iOS,0.424,1
+USR01096,45-54,Madurai,Tier 3,Not Verified,1255,1,23,265.53,GPay,Web,0.908,0
+USR01097,35-44,Kochi,Tier 2,Verified,1780,3,35,342.48,GPay,iOS,0.158,0
+USR01098,35-44,Delhi,Tier 1,Verified,1154,1,65,1443.19,PhonePe,Android,0.472,0
+USR01099,35-44,Hyderabad,Tier 1,Verified,268,1,45,2357.82,PhonePe,Android,0.757,0
+USR01100,25-34,Delhi,Tier 1,Not Verified,2011,2,40,1379.48,PhonePe,iOS,0.644,0
+USR01101,18-24,Rajkot,Tier 2,Verified,1206,1,34,523.47,Paytm,Android,0.863,0
+USR01102,35-44,Kolkata,Tier 1,Verified,561,2,65,1805.24,GPay,iOS,0.547,0
+USR01103,25-34,Nashik,Tier 3,Verified,2047,3,15,230.78,PhonePe,Android,0.895,0
+USR01104,25-34,Visakhapatnam,Tier 2,Verified,822,1,30,416.65,PhonePe,Android,0.122,0
+USR01105,35-44,Ranchi,Tier 3,Verified,879,2,12,307.23,Paytm,Android,0.999,0
+USR01106,18-24,Bhopal,Tier 2,Verified,1462,2,29,1013.42,Paytm,Android,0.674,1
+USR01107,25-34,Mysuru,Tier 3,Verified,1183,1,21,299.17,PhonePe,Android,0.161,0
+USR01108,45-54,Aurangabad,Tier 3,Verified,1356,2,17,140.34,WhatsApp Pay,iOS,0.202,0
+USR01109,18-24,Amritsar,Tier 3,Verified,2360,2,23,409.31,GPay,iOS,0.126,0
+USR01110,18-24,Bhopal,Tier 2,Verified,1414,3,32,177.32,GPay,Android,0.531,0
+USR01111,18-24,Jodhpur,Tier 3,Verified,586,1,23,55.97,Paytm,Android,0.664,0
+USR01112,35-44,Aurangabad,Tier 3,Verified,1402,1,16,152.92,PhonePe,iOS,0.833,0
+USR01113,25-34,Jaipur,Tier 2,Verified,2164,1,33,217.53,PhonePe,Android,0.752,0
+USR01114,35-44,Mumbai,Tier 1,Verified,883,2,44,306.2,WhatsApp Pay,Android,0.399,0
+USR01115,18-24,Kochi,Tier 2,Verified,1478,1,38,785.3,Paytm,Android,0.234,0
+USR01116,45-54,Bhopal,Tier 2,Not Verified,1566,2,36,519.47,PhonePe,Android,0.858,0
+USR01117,18-24,Patna,Tier 2,Verified,797,2,30,196.44,PhonePe,Android,0.878,0
+USR01118,25-34,Tiruchirappalli,Tier 3,Verified,1318,2,20,742.36,Paytm,Android,0.344,0
+USR01119,25-34,Indore,Tier 2,Verified,1003,1,23,421.12,WhatsApp Pay,Android,0.847,0
+USR01120,18-24,Chennai,Tier 1,Verified,746,1,39,829.11,Paytm,Android,0.806,0
+USR01121,18-24,Delhi,Tier 1,Verified,1847,2,28,699.46,Paytm,Android,0.819,0
+USR01122,18-24,Guwahati,Tier 3,Verified,809,1,13,379.64,Paytm,Android,0.535,0
+USR01123,18-24,Hubli,Tier 3,Verified,1370,1,20,288.38,PhonePe,Web,0.885,0
+USR01124,25-34,Aurangabad,Tier 3,Verified,573,1,22,61.07,GPay,Android,0.133,0
+USR01125,25-34,Delhi,Tier 1,Verified,46,1,46,803.45,Paytm,Android,0.14,0
+USR01126,35-44,Chandigarh,Tier 2,Not Verified,386,1,38,828.81,GPay,Android,0.9,0
+USR01127,18-24,Chennai,Tier 1,Verified,122,2,43,436.3,Amazon Pay,Android,0.381,0
+USR01128,55+,Jalandhar,Tier 3,Verified,851,1,15,177.92,PhonePe,Android,0.349,0
+USR01129,55+,Ahmedabad,Tier 1,Verified,511,1,55,946.44,GPay,Android,0.242,0
+USR01130,35-44,Agra,Tier 2,Verified,2322,2,19,317.2,Amazon Pay,Web,0.286,0
+USR01131,45-54,Bhopal,Tier 2,Verified,1140,1,19,446.11,PhonePe,Android,0.734,0
+USR01132,25-34,Hyderabad,Tier 1,Verified,731,1,59,2003.18,Amazon Pay,Android,0.652,0
+USR01133,35-44,Vadodara,Tier 2,Verified,237,1,22,408.54,Amazon Pay,Android,0.524,0
+USR01134,35-44,Ranchi,Tier 3,Verified,1601,1,21,594.9,PhonePe,Android,0.484,0
+USR01135,25-34,Solapur,Tier 3,Verified,2457,2,19,203.47,PhonePe,Android,0.721,0
+USR01136,18-24,Bhopal,Tier 2,Verified,1309,1,35,706.02,GPay,iOS,0.278,0
+USR01137,45-54,Kochi,Tier 2,Verified,2215,1,37,546.45,Amazon Pay,Android,0.931,0
+USR01138,25-34,Bengaluru,Tier 1,Verified,410,3,31,488.79,BHIM,Android,0.928,0
+USR01139,18-24,Vadodara,Tier 2,Verified,1301,2,29,468.12,Paytm,iOS,0.739,0
+USR01140,25-34,Hyderabad,Tier 1,Verified,946,1,49,1141.9,PhonePe,iOS,0.906,0
+USR01141,18-24,Jalandhar,Tier 3,Verified,1635,1,19,395.72,PhonePe,Android,0.926,0
+USR01142,25-34,Kolkata,Tier 1,Verified,1886,1,67,582.72,BHIM,Android,0.159,0
+USR01143,25-34,Vadodara,Tier 2,Verified,1919,3,36,238.27,BHIM,Android,0.354,0
+USR01144,55+,Solapur,Tier 3,Verified,551,2,24,311.64,GPay,Android,0.465,0
+USR01145,45-54,Delhi,Tier 1,Verified,1364,2,60,1744.85,GPay,Android,0.164,0
+USR01146,25-34,Vadodara,Tier 2,Verified,1671,2,28,1203.95,PhonePe,Android,0.315,0
+USR01147,25-34,Guwahati,Tier 3,Verified,2005,1,19,111.49,PhonePe,Android,0.407,0
+USR01148,35-44,Pune,Tier 1,Verified,1813,2,39,388.52,GPay,Android,0.408,0
+USR01149,25-34,Kanpur,Tier 2,Verified,349,2,25,408.06,Amazon Pay,Android,0.741,0
+USR01150,18-24,Lucknow,Tier 2,Verified,2455,2,47,1562.69,Paytm,Android,0.393,0
+USR01151,45-54,Ahmedabad,Tier 1,Not Verified,751,1,44,432.4,GPay,Android,0.465,0
+USR01152,18-24,Pune,Tier 1,Verified,1371,1,29,907.49,GPay,iOS,0.694,0
+USR01153,35-44,Bengaluru,Tier 1,Verified,2408,3,21,1372.33,GPay,Android,0.673,1
+USR01154,25-34,Bengaluru,Tier 1,Verified,641,1,77,1104.9,WhatsApp Pay,Android,0.362,0
+USR01155,35-44,Vadodara,Tier 2,Not Verified,831,1,25,921.02,GPay,Android,0.89,0
+USR01156,35-44,Kochi,Tier 2,Verified,1277,3,31,436.25,BHIM,Android,0.943,0
+USR01157,25-34,Indore,Tier 2,Not Verified,1440,4,30,1074.41,Paytm,iOS,0.624,0
+USR01158,25-34,Coimbatore,Tier 2,Verified,1685,3,25,235.2,BHIM,iOS,0.867,0
+USR01159,18-24,Indore,Tier 2,Verified,2278,4,22,372.72,Paytm,Android,0.101,0
+USR01160,25-34,Bhopal,Tier 2,Not Verified,479,3,23,464.25,GPay,Android,0.879,0
+USR01161,25-34,Rajkot,Tier 2,Verified,2447,1,30,347.21,PhonePe,Android,0.386,0
+USR01162,18-24,Pune,Tier 1,Verified,1812,2,28,1113.35,GPay,Android,0.696,0
+USR01163,45-54,Mysuru,Tier 3,Verified,2305,1,12,211.06,PhonePe,Android,0.932,0
+USR01164,25-34,Kanpur,Tier 2,Not Verified,1211,4,33,393.12,Paytm,Android,0.703,0
+USR01165,18-24,Lucknow,Tier 2,Verified,94,1,33,193.07,PhonePe,Web,0.896,0
+USR01166,55+,Bengaluru,Tier 1,Verified,376,1,35,1708.31,GPay,iOS,0.825,0
+USR01167,35-44,Pune,Tier 1,Verified,766,1,38,114.06,Paytm,Android,0.482,0
+USR01168,45-54,Patna,Tier 2,Verified,1485,1,33,338.16,PhonePe,Android,0.482,1
+USR01169,25-34,Ahmedabad,Tier 1,Verified,999,2,66,781.08,GPay,Android,0.342,0
+USR01170,35-44,Solapur,Tier 3,Verified,1533,1,25,235.25,GPay,Android,0.134,0
+USR01171,25-34,Kolkata,Tier 1,Verified,493,2,62,393.25,Paytm,Android,0.966,0
+USR01172,35-44,Rajkot,Tier 2,Verified,2186,4,26,792.62,Paytm,Android,0.985,0
+USR01173,25-34,Vadodara,Tier 2,Verified,2147,1,44,352.62,PhonePe,Web,0.901,0
+USR01174,25-34,Ahmedabad,Tier 1,Verified,349,2,60,977.01,GPay,iOS,0.585,0
+USR01175,35-44,Mumbai,Tier 1,Not Verified,1437,2,34,2729.03,GPay,Web,0.11,0
+USR01176,18-24,Indore,Tier 2,Verified,1951,2,20,504.16,GPay,Android,0.398,0
+USR01177,35-44,Kochi,Tier 2,Verified,1236,1,32,608.97,PhonePe,Android,0.132,0
+USR01178,25-34,Rajkot,Tier 2,Verified,1275,2,18,1140.81,Amazon Pay,Android,0.607,0
+USR01179,18-24,Vadodara,Tier 2,Not Verified,2398,1,19,213.03,GPay,Android,0.146,0
+USR01180,18-24,Kochi,Tier 2,Verified,141,1,35,926.33,Paytm,iOS,0.174,0
+USR01181,18-24,Chennai,Tier 1,Verified,1062,1,41,848.21,GPay,Android,0.353,0
+USR01182,18-24,Jaipur,Tier 2,Not Verified,486,2,36,451.96,Paytm,iOS,0.919,0
+USR01183,35-44,Surat,Tier 2,Verified,1859,1,37,1817.24,WhatsApp Pay,iOS,0.258,0
+USR01184,45-54,Mysuru,Tier 3,Verified,2016,1,17,185.71,PhonePe,iOS,0.575,1
+USR01185,35-44,Lucknow,Tier 2,Verified,624,2,30,401.55,BHIM,Android,0.84,0
+USR01186,35-44,Kochi,Tier 2,Verified,1721,2,17,377.93,GPay,iOS,0.314,0
+USR01187,35-44,Surat,Tier 2,Verified,715,1,27,873.19,GPay,Android,0.761,0
+USR01188,45-54,Surat,Tier 2,Not Verified,1112,2,36,405.65,Paytm,Web,0.204,0
+USR01189,35-44,Pune,Tier 1,Verified,1980,1,19,1348.81,PhonePe,Android,0.772,0
+USR01190,35-44,Aurangabad,Tier 3,Verified,987,1,18,110.05,PhonePe,Android,0.735,0
+USR01191,35-44,Kanpur,Tier 2,Verified,2202,3,34,1365.2,GPay,Android,0.111,0
+USR01192,25-34,Vadodara,Tier 2,Verified,1594,2,44,149.21,PhonePe,iOS,0.966,0
+USR01193,25-34,Jaipur,Tier 2,Verified,428,3,41,1201.87,PhonePe,Android,0.674,0
+USR01194,25-34,Patna,Tier 2,Not Verified,1146,1,33,1096.53,GPay,Android,0.34,0
+USR01195,25-34,Pune,Tier 1,Verified,1918,2,27,879.27,WhatsApp Pay,Android,0.774,0
+USR01196,45-54,Solapur,Tier 3,Verified,828,2,15,847.97,Paytm,Android,0.71,0
+USR01197,35-44,Kolkata,Tier 1,Verified,2273,1,22,1232.79,PhonePe,Android,0.108,0
+USR01198,25-34,Pune,Tier 1,Verified,430,2,46,710.92,GPay,iOS,0.717,0
+USR01199,25-34,Rajkot,Tier 2,Verified,1190,1,39,155.4,GPay,Web,0.131,0
+USR01200,25-34,Jaipur,Tier 2,Verified,2463,2,39,400.93,PhonePe,iOS,0.852,0
+USR01201,45-54,Delhi,Tier 1,Verified,521,1,38,677.58,GPay,Web,0.644,0
+USR01202,25-34,Bengaluru,Tier 1,Verified,484,2,63,266.34,Amazon Pay,Android,0.328,0
+USR01203,25-34,Varanasi,Tier 3,Verified,340,2,21,106.98,Amazon Pay,iOS,0.93,0
+USR01204,25-34,Pune,Tier 1,Verified,1354,1,37,1914.24,PhonePe,Android,0.803,0
+USR01205,25-34,Mumbai,Tier 1,Verified,1597,1,38,2130.73,PhonePe,Android,0.996,0
+USR01206,35-44,Chandigarh,Tier 2,Verified,1114,1,22,772.87,PhonePe,Android,0.162,0
+USR01207,35-44,Hyderabad,Tier 1,Verified,1638,1,41,458.06,WhatsApp Pay,Android,0.543,0
+USR01208,25-34,Kochi,Tier 2,Verified,1796,1,47,485.68,PhonePe,iOS,0.679,0
+USR01209,18-24,Chennai,Tier 1,Not Verified,453,1,61,273.25,Paytm,Android,0.163,0
+USR01210,18-24,Kochi,Tier 2,Verified,1856,1,32,419.24,GPay,iOS,0.548,0
+USR01211,25-34,Jodhpur,Tier 3,Verified,184,2,7,237.59,PhonePe,Android,0.34,0
+USR01212,55+,Varanasi,Tier 3,Verified,1632,2,17,561.88,Paytm,iOS,0.564,0
+USR01213,55+,Vadodara,Tier 2,Verified,1988,1,44,819.84,Amazon Pay,Android,0.86,0
+USR01214,25-34,Kochi,Tier 2,Verified,317,2,32,1271.04,Paytm,Android,0.103,0
+USR01215,35-44,Chandigarh,Tier 2,Verified,2004,1,45,547.3,PhonePe,Android,0.582,0
+USR01216,25-34,Bhopal,Tier 2,Verified,1270,1,28,3375.97,GPay,Android,0.669,0
+USR01217,18-24,Delhi,Tier 1,Not Verified,1526,2,67,1623.71,PhonePe,iOS,0.965,0
+USR01218,35-44,Vadodara,Tier 2,Verified,1217,2,27,614.22,GPay,Android,0.259,1
+USR01219,45-54,Pune,Tier 1,Verified,812,1,42,687.89,GPay,Android,0.451,0
+USR01220,25-34,Tiruchirappalli,Tier 3,Verified,1501,1,7,128.24,GPay,iOS,0.897,0
+USR01221,35-44,Nagpur,Tier 2,Verified,603,1,33,661.53,GPay,iOS,0.123,0
+USR01222,35-44,Mysuru,Tier 3,Verified,2033,1,17,457.56,PhonePe,Android,0.813,0
+USR01223,18-24,Nashik,Tier 3,Verified,2217,4,23,458.65,PhonePe,iOS,0.831,0
+USR01224,18-24,Jodhpur,Tier 3,Verified,181,1,22,324.94,BHIM,Android,0.404,0
+USR01225,35-44,Pune,Tier 1,Verified,514,1,51,718.15,Amazon Pay,Android,0.688,0
+USR01226,25-34,Warangal,Tier 3,Verified,2227,1,12,297.74,Amazon Pay,Android,0.621,0
+USR01227,25-34,Jaipur,Tier 2,Verified,609,1,29,294.53,Paytm,Android,0.117,0
+USR01228,35-44,Agra,Tier 2,Verified,217,1,37,515.17,PhonePe,Android,0.684,1
+USR01229,25-34,Mumbai,Tier 1,Verified,1288,3,27,1296.68,GPay,iOS,0.188,0
+USR01230,25-34,Delhi,Tier 1,Verified,465,1,38,1041.72,PhonePe,Android,0.635,0
+USR01231,35-44,Lucknow,Tier 2,Verified,860,1,29,491.58,GPay,Android,0.83,0
+USR01232,25-34,Pune,Tier 1,Verified,1358,1,29,2140.41,Paytm,Android,0.716,0
+USR01233,25-34,Kolkata,Tier 1,Verified,903,2,42,534.49,Amazon Pay,iOS,0.634,0
+USR01234,45-54,Delhi,Tier 1,Verified,1151,1,60,1085.85,PhonePe,Android,0.474,0
+USR01235,25-34,Coimbatore,Tier 2,Verified,705,1,35,548.78,Amazon Pay,iOS,0.933,1
+USR01236,55+,Ranchi,Tier 3,Verified,1570,2,17,109.28,BHIM,Android,0.114,0
+USR01237,18-24,Jaipur,Tier 2,Verified,59,1,23,707.91,PhonePe,Android,0.18,0
+USR01238,35-44,Chennai,Tier 1,Verified,1734,2,32,917.0,BHIM,Android,0.813,0
+USR01239,35-44,Kanpur,Tier 2,Verified,874,1,32,889.64,PhonePe,Android,0.344,0
+USR01240,35-44,Mysuru,Tier 3,Verified,744,2,23,222.16,Paytm,iOS,0.134,0
+USR01241,35-44,Vadodara,Tier 2,Verified,390,2,35,249.56,WhatsApp Pay,Android,0.804,0
+USR01242,35-44,Jaipur,Tier 2,Verified,2314,1,34,749.43,GPay,Web,0.206,0
+USR01243,45-54,Ranchi,Tier 3,Verified,1512,3,22,252.47,GPay,Android,0.988,0
+USR01244,45-54,Nashik,Tier 3,Verified,882,1,20,511.06,PhonePe,iOS,0.274,0
+USR01245,18-24,Surat,Tier 2,Verified,1973,1,59,718.99,BHIM,iOS,0.244,0
+USR01246,35-44,Jaipur,Tier 2,Verified,1521,1,29,465.62,Paytm,Android,0.491,0
+USR01247,25-34,Madurai,Tier 3,Verified,1886,1,21,110.77,PhonePe,Android,0.766,0
+USR01248,45-54,Guwahati,Tier 3,Verified,677,2,30,107.62,Amazon Pay,Web,0.537,0
+USR01249,35-44,Hyderabad,Tier 1,Verified,1851,2,32,137.9,GPay,iOS,0.393,0
+USR01250,25-34,Kolkata,Tier 1,Verified,972,2,40,421.02,GPay,Android,0.394,0
+USR01251,25-34,Pune,Tier 1,Verified,849,1,60,1359.21,GPay,Android,0.299,0
+USR01252,35-44,Ahmedabad,Tier 1,Verified,252,3,68,4539.45,Amazon Pay,Android,0.23,0
+USR01253,25-34,Vadodara,Tier 2,Not Verified,759,1,23,915.32,BHIM,Android,0.223,0
+USR01254,45-54,Warangal,Tier 3,Verified,1498,4,12,572.23,GPay,Android,0.282,0
+USR01255,25-34,Rajkot,Tier 2,Verified,2359,1,22,717.91,GPay,Android,0.223,0
+USR01256,25-34,Vadodara,Tier 2,Verified,1743,1,19,260.56,PhonePe,Android,0.409,0
+USR01257,18-24,Bengaluru,Tier 1,Verified,726,2,35,366.47,BHIM,iOS,0.597,0
+USR01258,35-44,Pune,Tier 1,Verified,2167,1,43,2400.49,BHIM,Web,0.996,0
+USR01259,45-54,Meerut,Tier 3,Verified,1925,1,15,84.63,Paytm,iOS,0.757,0
+USR01260,45-54,Hyderabad,Tier 1,Verified,1045,1,37,704.86,GPay,Android,0.622,0
+USR01261,35-44,Agra,Tier 2,Not Verified,640,3,30,132.59,GPay,Android,0.908,0
+USR01262,35-44,Mumbai,Tier 1,Verified,194,4,7,763.16,Amazon Pay,Android,0.76,0
+USR01263,35-44,Patna,Tier 2,Verified,2205,1,28,768.07,PhonePe,Android,0.829,0
+USR01264,25-34,Lucknow,Tier 2,Verified,1883,1,45,2201.14,GPay,iOS,0.175,0
+USR01265,18-24,Rajkot,Tier 2,Verified,1695,3,32,1517.41,PhonePe,Android,0.219,0
+USR01266,55+,Surat,Tier 2,Verified,401,1,29,323.55,Amazon Pay,Android,0.702,0
+USR01267,55+,Nashik,Tier 3,Verified,2366,2,16,441.42,BHIM,Android,0.122,0
+USR01268,35-44,Kochi,Tier 2,Verified,597,3,30,399.28,GPay,Android,0.465,0
+USR01269,25-34,Kolkata,Tier 1,Verified,1931,2,44,623.17,Amazon Pay,Android,0.101,0
+USR01270,35-44,Amritsar,Tier 3,Verified,1393,2,23,411.12,GPay,Android,0.367,0
+USR01271,35-44,Rajkot,Tier 2,Verified,2251,2,31,392.84,PhonePe,Android,0.286,0
+USR01272,35-44,Kolkata,Tier 1,Not Verified,254,2,62,842.15,PhonePe,Android,0.919,0
+USR01273,18-24,Mumbai,Tier 1,Verified,484,1,61,485.41,Paytm,Android,0.519,1
+USR01274,25-34,Kolkata,Tier 1,Verified,747,2,40,407.58,PhonePe,iOS,0.734,0
+USR01275,18-24,Kochi,Tier 2,Verified,868,1,16,352.52,PhonePe,Android,0.401,0
+USR01276,25-34,Ahmedabad,Tier 1,Verified,2406,3,61,1268.49,BHIM,Android,0.733,0
+USR01277,35-44,Hyderabad,Tier 1,Verified,1342,1,50,738.97,GPay,Web,0.341,0
+USR01278,35-44,Hubli,Tier 3,Not Verified,253,1,13,446.46,PhonePe,Android,0.411,0
+USR01279,35-44,Coimbatore,Tier 2,Verified,532,1,38,188.24,BHIM,Android,0.579,0
+USR01280,18-24,Indore,Tier 2,Verified,1227,1,32,335.32,GPay,Android,0.431,0
+USR01281,18-24,Tiruchirappalli,Tier 3,Verified,298,1,17,241.31,PhonePe,Android,0.896,0
+USR01282,25-34,Pune,Tier 1,Verified,762,1,47,2084.44,PhonePe,Android,0.961,0
+USR01283,18-24,Chennai,Tier 1,Verified,488,2,46,337.63,PhonePe,Web,0.547,0
+USR01284,35-44,Mumbai,Tier 1,Verified,1230,1,23,1077.3,GPay,Android,0.714,0
+USR01285,35-44,Ahmedabad,Tier 1,Verified,1450,1,54,475.23,Paytm,Android,0.764,1
+USR01286,25-34,Nagpur,Tier 2,Verified,287,1,42,173.61,Amazon Pay,Android,0.822,0
+USR01287,25-34,Coimbatore,Tier 2,Verified,1405,1,31,1132.49,PhonePe,Android,0.409,0
+USR01288,25-34,Kolkata,Tier 1,Verified,2021,2,44,1135.59,PhonePe,iOS,0.727,0
+USR01289,25-34,Vadodara,Tier 2,Verified,1905,1,31,1418.01,BHIM,iOS,0.219,0
+USR01290,35-44,Bengaluru,Tier 1,Verified,1094,1,31,635.76,GPay,Android,0.435,0
+USR01291,25-34,Chandigarh,Tier 2,Verified,223,1,26,757.04,GPay,Android,0.356,0
+USR01292,18-24,Agra,Tier 2,Verified,688,2,34,320.7,Paytm,Android,0.357,0
+USR01293,35-44,Chandigarh,Tier 2,Verified,658,1,24,378.79,GPay,Android,0.205,0
+USR01294,25-34,Agra,Tier 2,Verified,548,1,35,1245.37,Paytm,Android,0.433,0
+USR01295,35-44,Mumbai,Tier 1,Verified,1328,4,29,1447.61,Paytm,iOS,0.233,0
+USR01296,18-24,Bengaluru,Tier 1,Not Verified,2215,1,34,710.11,PhonePe,iOS,0.928,0
+USR01297,25-34,Ahmedabad,Tier 1,Verified,625,3,55,921.05,GPay,Web,0.935,0
+USR01298,45-54,Tiruchirappalli,Tier 3,Verified,2267,4,25,462.71,WhatsApp Pay,Android,0.398,0
+USR01299,25-34,Nashik,Tier 3,Verified,1217,4,25,249.11,PhonePe,Android,0.779,0
+USR01300,25-34,Warangal,Tier 3,Verified,632,2,11,117.57,Paytm,Web,0.756,0
+USR01301,35-44,Bhopal,Tier 2,Verified,490,2,30,213.78,GPay,Android,0.91,0
+USR01302,18-24,Coimbatore,Tier 2,Verified,508,1,54,710.35,Amazon Pay,Android,0.461,0
+USR01303,55+,Vadodara,Tier 2,Verified,1493,1,26,439.15,Paytm,Android,0.15,0
+USR01304,35-44,Solapur,Tier 3,Verified,2186,1,18,374.93,GPay,iOS,0.942,0
+USR01305,35-44,Mumbai,Tier 1,Not Verified,372,2,55,2264.65,PhonePe,Android,0.501,0
+USR01306,35-44,Lucknow,Tier 2,Verified,2126,1,20,748.6,PhonePe,iOS,0.541,0
+USR01307,25-34,Coimbatore,Tier 2,Verified,259,3,21,1475.67,Amazon Pay,Android,0.425,0
+USR01308,18-24,Meerut,Tier 3,Verified,1781,1,16,404.66,Paytm,iOS,0.436,0
+USR01309,55+,Jalandhar,Tier 3,Verified,1291,4,14,382.01,PhonePe,iOS,0.887,0
+USR01310,35-44,Rajkot,Tier 2,Verified,1849,2,31,538.96,GPay,Android,0.474,0
+USR01311,25-34,Guwahati,Tier 3,Verified,1766,2,7,468.53,GPay,iOS,0.473,0
+USR01312,55+,Agra,Tier 2,Verified,382,1,17,429.2,Amazon Pay,Android,0.373,0
+USR01313,25-34,Kolkata,Tier 1,Verified,300,3,51,384.16,GPay,Android,0.632,0
+USR01314,35-44,Jaipur,Tier 2,Verified,1707,2,44,164.05,PhonePe,Web,0.346,0
+USR01315,35-44,Ahmedabad,Tier 1,Not Verified,2356,2,37,1149.31,GPay,iOS,0.223,0
+USR01316,45-54,Pune,Tier 1,Verified,1215,2,38,1007.82,Paytm,iOS,0.138,0
+USR01317,18-24,Meerut,Tier 3,Verified,2427,1,12,248.68,PhonePe,iOS,0.603,0
+USR01318,45-54,Jaipur,Tier 2,Verified,40,1,35,442.16,GPay,Android,0.37,0
+USR01319,55+,Surat,Tier 2,Verified,1965,1,14,385.26,BHIM,Android,0.699,0
+USR01320,25-34,Kanpur,Tier 2,Verified,2044,3,24,427.45,PhonePe,iOS,0.68,1
+USR01321,35-44,Madurai,Tier 3,Not Verified,1165,1,11,554.12,GPay,Android,0.974,0
+USR01322,25-34,Kolkata,Tier 1,Verified,2410,1,72,928.83,PhonePe,Android,0.492,0
+USR01323,25-34,Ahmedabad,Tier 1,Verified,519,1,55,1719.43,GPay,Android,0.76,1
+USR01324,25-34,Visakhapatnam,Tier 2,Verified,697,2,55,420.44,Paytm,Android,0.232,0
+USR01325,18-24,Rajkot,Tier 2,Verified,584,1,29,343.98,GPay,Android,0.148,0
+USR01326,55+,Warangal,Tier 3,Verified,1488,1,24,114.83,GPay,iOS,0.362,0
+USR01327,25-34,Ranchi,Tier 3,Verified,2134,1,16,684.96,PhonePe,Android,0.665,0
+USR01328,18-24,Solapur,Tier 3,Verified,714,2,10,231.64,PhonePe,Android,0.885,0
+USR01329,35-44,Chennai,Tier 1,Verified,1141,2,61,1283.39,Paytm,iOS,0.72,0
+USR01330,45-54,Agra,Tier 2,Verified,1470,3,26,520.7,GPay,Android,0.112,0
+USR01331,25-34,Kolkata,Tier 1,Verified,2016,1,49,1347.21,Paytm,Android,0.929,0
+USR01332,45-54,Mysuru,Tier 3,Not Verified,663,2,11,671.89,Amazon Pay,Android,0.848,0
+USR01333,18-24,Coimbatore,Tier 2,Not Verified,2183,3,26,384.8,PhonePe,iOS,0.741,0
+USR01334,25-34,Kochi,Tier 2,Verified,496,1,28,1176.07,Amazon Pay,Android,0.924,0
+USR01335,25-34,Kanpur,Tier 2,Verified,101,1,31,1303.92,GPay,Android,0.38,0
+USR01336,35-44,Ahmedabad,Tier 1,Verified,2477,2,50,483.18,Paytm,iOS,0.973,0
+USR01337,45-54,Visakhapatnam,Tier 2,Not Verified,147,2,34,1039.16,GPay,Web,0.207,0
+USR01338,18-24,Bengaluru,Tier 1,Verified,958,1,63,2995.54,Paytm,Android,0.289,0
+USR01339,35-44,Pune,Tier 1,Verified,487,1,65,636.27,GPay,Android,0.797,0
+USR01340,25-34,Mumbai,Tier 1,Verified,834,1,39,1677.26,PhonePe,iOS,0.814,0
+USR01341,18-24,Mumbai,Tier 1,Not Verified,1951,1,47,873.16,PhonePe,iOS,0.328,0
+USR01342,25-34,Mumbai,Tier 1,Verified,425,2,32,628.14,GPay,Android,0.928,0
+USR01343,25-34,Indore,Tier 2,Verified,849,1,22,593.93,Paytm,Android,0.416,0
+USR01344,45-54,Chennai,Tier 1,Verified,2404,1,61,837.7,PhonePe,iOS,0.245,0
+USR01345,25-34,Tiruchirappalli,Tier 3,Verified,1020,2,14,301.18,GPay,Android,0.162,0
+USR01346,25-34,Kochi,Tier 2,Verified,87,2,29,384.38,Amazon Pay,Android,0.744,0
+USR01347,35-44,Kanpur,Tier 2,Verified,2230,1,40,539.72,PhonePe,iOS,0.753,0
+USR01348,25-34,Ahmedabad,Tier 1,Verified,1531,2,39,1904.83,GPay,Android,0.267,0
+USR01349,45-54,Ranchi,Tier 3,Verified,770,3,15,1262.38,PhonePe,iOS,0.983,0
+USR01350,25-34,Hyderabad,Tier 1,Verified,1699,1,2,782.93,PhonePe,Android,0.986,0
+USR01351,25-34,Lucknow,Tier 2,Verified,2158,1,47,268.24,Paytm,iOS,0.786,0
+USR01352,25-34,Coimbatore,Tier 2,Verified,196,1,29,2010.73,BHIM,iOS,0.544,0
+USR01353,18-24,Ahmedabad,Tier 1,Verified,2489,2,41,1061.67,Amazon Pay,iOS,0.718,0
+USR01354,18-24,Mysuru,Tier 3,Verified,2298,1,11,326.0,GPay,Android,0.986,0
+USR01355,18-24,Delhi,Tier 1,Verified,1978,3,48,881.77,PhonePe,Android,0.431,1
+USR01356,45-54,Surat,Tier 2,Verified,2043,2,16,945.06,PhonePe,Android,0.457,0
+USR01357,35-44,Surat,Tier 2,Not Verified,378,1,46,660.76,Paytm,Android,0.455,0
+USR01358,25-34,Delhi,Tier 1,Verified,721,1,43,1680.68,Paytm,Android,0.978,0
+USR01359,25-34,Solapur,Tier 3,Verified,1685,1,19,110.04,GPay,Android,0.854,0
+USR01360,25-34,Chennai,Tier 1,Not Verified,2413,2,50,621.82,WhatsApp Pay,Android,0.781,0
+USR01361,25-34,Patna,Tier 2,Verified,1488,1,35,476.0,GPay,Android,0.643,0
+USR01362,45-54,Vadodara,Tier 2,Verified,2124,1,40,1044.58,Paytm,Web,0.791,0
+USR01363,18-24,Hubli,Tier 3,Verified,2034,1,9,184.09,PhonePe,Android,0.666,0
+USR01364,55+,Lucknow,Tier 2,Verified,246,3,29,849.87,Paytm,iOS,0.548,1
+USR01365,25-34,Kanpur,Tier 2,Verified,1597,2,35,462.47,BHIM,Android,0.394,0
+USR01366,25-34,Delhi,Tier 1,Verified,343,2,31,1041.71,PhonePe,Android,0.568,0
+USR01367,35-44,Ahmedabad,Tier 1,Verified,857,1,39,785.39,BHIM,iOS,0.548,0
+USR01368,18-24,Aurangabad,Tier 3,Not Verified,1437,3,22,175.68,Amazon Pay,Android,0.586,1
+USR01369,25-34,Madurai,Tier 3,Not Verified,159,4,18,272.65,PhonePe,Android,0.892,0
+USR01370,35-44,Ahmedabad,Tier 1,Verified,1318,3,23,1046.31,Amazon Pay,Android,0.498,1
+USR01371,25-34,Bengaluru,Tier 1,Verified,2310,2,44,329.12,BHIM,iOS,0.801,0
+USR01372,18-24,Kanpur,Tier 2,Verified,2043,1,34,375.12,GPay,Android,0.381,0
+USR01373,45-54,Kochi,Tier 2,Verified,478,2,20,587.48,Paytm,iOS,0.541,0
+USR01374,25-34,Coimbatore,Tier 2,Not Verified,2373,1,14,3132.28,PhonePe,iOS,0.606,0
+USR01375,45-54,Mumbai,Tier 1,Verified,1633,1,34,732.11,Paytm,iOS,0.632,0
+USR01376,55+,Warangal,Tier 3,Verified,1474,2,15,607.46,PhonePe,Android,0.356,0
+USR01377,45-54,Agra,Tier 2,Verified,214,1,30,517.81,PhonePe,Android,0.43,0
+USR01378,45-54,Agra,Tier 2,Verified,140,2,36,917.61,GPay,iOS,0.663,0
+USR01379,18-24,Amritsar,Tier 3,Verified,1443,4,29,443.61,PhonePe,Android,0.471,0
+USR01380,25-34,Nagpur,Tier 2,Verified,1044,1,1,1092.18,GPay,Android,0.381,0
+USR01381,18-24,Delhi,Tier 1,Not Verified,1278,1,38,554.71,PhonePe,Android,0.253,0
+USR01382,35-44,Mumbai,Tier 1,Verified,1917,2,34,472.61,Amazon Pay,iOS,0.48,0
+USR01383,18-24,Patna,Tier 2,Verified,1122,1,18,604.38,PhonePe,Android,0.523,1
+USR01384,35-44,Kolkata,Tier 1,Verified,1577,2,57,637.4,GPay,iOS,0.39,0
+USR01385,18-24,Ahmedabad,Tier 1,Verified,439,2,57,819.17,PhonePe,Android,0.285,0
+USR01386,25-34,Kochi,Tier 2,Verified,1420,1,39,834.48,BHIM,Web,0.37,0
+USR01387,35-44,Hyderabad,Tier 1,Verified,2065,2,41,2839.54,WhatsApp Pay,iOS,0.977,0
+USR01388,45-54,Meerut,Tier 3,Not Verified,2224,1,17,692.1,GPay,Android,0.339,0
+USR01389,25-34,Pune,Tier 1,Verified,955,2,51,862.45,Amazon Pay,Android,0.962,0
+USR01390,25-34,Agra,Tier 2,Verified,418,2,31,1224.42,PhonePe,iOS,0.346,0
+USR01391,18-24,Aurangabad,Tier 3,Verified,1976,1,8,222.77,GPay,Android,0.413,0
+USR01392,25-34,Chandigarh,Tier 2,Verified,1266,2,23,836.69,GPay,iOS,0.37,0
+USR01393,55+,Kolkata,Tier 1,Verified,849,1,29,527.41,GPay,Android,0.326,0
+USR01394,35-44,Bengaluru,Tier 1,Verified,106,2,78,1358.5,GPay,Android,0.565,0
+USR01395,18-24,Ahmedabad,Tier 1,Verified,902,2,58,582.16,PhonePe,Android,0.842,0
+USR01396,35-44,Visakhapatnam,Tier 2,Verified,2212,3,31,281.34,PhonePe,Android,0.867,0
+USR01397,25-34,Indore,Tier 2,Verified,2348,2,45,625.26,Paytm,Android,0.154,0
+USR01398,45-54,Vadodara,Tier 2,Verified,635,1,43,389.88,PhonePe,Android,0.772,0
+USR01399,18-24,Meerut,Tier 3,Verified,1813,1,18,217.41,PhonePe,Android,0.874,0
+USR01400,25-34,Hyderabad,Tier 1,Verified,1719,1,48,510.12,Paytm,iOS,0.358,0
+USR01401,25-34,Warangal,Tier 3,Not Verified,2492,1,15,482.75,GPay,Android,0.315,0
+USR01402,35-44,Jaipur,Tier 2,Verified,1035,2,30,1410.34,GPay,iOS,0.379,0
+USR01403,55+,Pune,Tier 1,Verified,1758,2,55,1121.09,PhonePe,Web,0.133,0
+USR01404,35-44,Kanpur,Tier 2,Verified,149,1,21,230.93,Amazon Pay,iOS,0.823,0
+USR01405,45-54,Guwahati,Tier 3,Verified,202,4,16,642.44,WhatsApp Pay,Android,0.537,1
+USR01406,25-34,Chandigarh,Tier 2,Verified,373,1,26,628.58,Paytm,Android,0.368,0
+USR01407,25-34,Patna,Tier 2,Verified,1518,2,33,1561.81,PhonePe,Android,0.897,0
+USR01408,18-24,Chandigarh,Tier 2,Verified,605,1,35,606.7,PhonePe,Android,0.614,0
+USR01409,45-54,Lucknow,Tier 2,Verified,2167,2,30,999.68,Paytm,Android,0.622,0
+USR01410,25-34,Chennai,Tier 1,Verified,2063,3,42,751.25,PhonePe,Android,0.314,0
+USR01411,45-54,Kochi,Tier 2,Not Verified,1313,1,38,681.59,PhonePe,Android,0.626,0
+USR01412,25-34,Rajkot,Tier 2,Verified,996,3,24,245.13,PhonePe,Web,0.296,0
+USR01413,35-44,Nagpur,Tier 2,Verified,1154,1,34,197.44,Amazon Pay,Android,0.329,0
+USR01414,18-24,Nashik,Tier 3,Verified,2215,1,19,623.64,PhonePe,Web,0.954,0
+USR01415,25-34,Patna,Tier 2,Verified,1975,2,19,2389.01,GPay,iOS,0.967,0
+USR01416,35-44,Indore,Tier 2,Verified,623,1,24,620.74,Amazon Pay,Android,0.744,0
+USR01417,18-24,Mumbai,Tier 1,Verified,172,3,51,1032.79,PhonePe,Android,0.696,0
+USR01418,25-34,Hyderabad,Tier 1,Not Verified,1066,2,56,493.62,PhonePe,Android,0.378,0
+USR01419,18-24,Bhopal,Tier 2,Verified,529,2,37,298.07,GPay,Web,0.313,0
+USR01420,45-54,Mumbai,Tier 1,Verified,1639,3,44,1154.7,Paytm,Android,0.926,0
+USR01421,25-34,Hyderabad,Tier 1,Verified,1248,1,68,1797.8,PhonePe,iOS,0.901,0
+USR01422,25-34,Kolkata,Tier 1,Verified,1694,2,33,584.25,GPay,Android,0.347,0
+USR01423,25-34,Kochi,Tier 2,Verified,2043,1,33,779.99,PhonePe,Android,0.472,0
+USR01424,18-24,Rajkot,Tier 2,Verified,1760,3,38,413.7,Paytm,Android,0.838,0
+USR01425,18-24,Rajkot,Tier 2,Verified,1098,2,16,496.78,GPay,Android,0.417,0
+USR01426,25-34,Meerut,Tier 3,Verified,2273,2,29,138.1,BHIM,iOS,0.508,1
+USR01427,18-24,Jaipur,Tier 2,Verified,782,2,40,1825.97,Paytm,Android,0.812,0
+USR01428,18-24,Patna,Tier 2,Verified,849,2,41,290.38,GPay,Android,0.382,0
+USR01429,25-34,Kanpur,Tier 2,Verified,1052,2,40,1519.11,PhonePe,Android,0.973,0
+USR01430,25-34,Kochi,Tier 2,Verified,562,3,17,432.88,GPay,Android,0.717,0
+USR01431,35-44,Kolkata,Tier 1,Verified,1879,1,56,852.51,Paytm,iOS,0.762,0
+USR01432,18-24,Kolkata,Tier 1,Verified,1184,1,32,1841.43,Paytm,Android,0.473,0
+USR01433,18-24,Varanasi,Tier 3,Verified,1575,3,12,109.43,PhonePe,iOS,0.896,0
+USR01434,25-34,Mumbai,Tier 1,Verified,2317,2,33,357.67,Paytm,Android,0.664,0
+USR01435,35-44,Vadodara,Tier 2,Verified,842,1,34,861.6,PhonePe,iOS,0.867,1
+USR01436,18-24,Agra,Tier 2,Verified,1786,2,23,517.15,Amazon Pay,Android,0.234,0
+USR01437,25-34,Kanpur,Tier 2,Verified,2353,1,16,565.24,GPay,Android,0.747,0
+USR01438,25-34,Ahmedabad,Tier 1,Not Verified,2054,1,57,947.65,Paytm,Android,0.742,0
+USR01439,25-34,Meerut,Tier 3,Verified,1120,1,14,244.92,BHIM,Android,0.545,0
+USR01440,55+,Meerut,Tier 3,Verified,876,2,5,313.41,Paytm,iOS,0.996,0
+USR01441,25-34,Hyderabad,Tier 1,Verified,1743,1,48,713.88,PhonePe,Web,0.813,1
+USR01442,18-24,Chennai,Tier 1,Verified,994,2,14,1100.85,GPay,Android,0.917,0
+USR01443,25-34,Surat,Tier 2,Not Verified,1906,1,25,172.09,PhonePe,Android,0.522,0
+USR01444,25-34,Tiruchirappalli,Tier 3,Verified,1658,2,25,116.13,PhonePe,iOS,0.742,0
+USR01445,25-34,Chennai,Tier 1,Verified,329,1,62,329.58,GPay,Android,0.153,0
+USR01446,18-24,Hyderabad,Tier 1,Verified,1958,3,79,1092.98,Paytm,iOS,0.997,0
+USR01447,25-34,Kochi,Tier 2,Verified,2480,2,40,437.9,GPay,Android,0.829,1
+USR01448,18-24,Coimbatore,Tier 2,Not Verified,1590,1,29,289.17,PhonePe,Android,0.455,0
+USR01449,35-44,Indore,Tier 2,Verified,2321,1,34,393.23,PhonePe,Android,0.261,0
+USR01450,45-54,Nashik,Tier 3,Verified,1419,3,21,205.59,PhonePe,Android,0.219,0
+USR01451,18-24,Aurangabad,Tier 3,Verified,1803,1,18,276.11,Paytm,Android,0.205,1
+USR01452,25-34,Bengaluru,Tier 1,Verified,2074,3,51,587.33,GPay,Android,0.851,0
+USR01453,45-54,Varanasi,Tier 3,Verified,1791,1,20,908.2,BHIM,Android,0.889,0
+USR01454,25-34,Kochi,Tier 2,Verified,1110,2,32,264.73,Paytm,Android,0.492,0
+USR01455,55+,Rajkot,Tier 2,Verified,2042,2,40,860.02,PhonePe,Web,0.236,0
+USR01456,25-34,Surat,Tier 2,Verified,1832,1,37,1411.24,BHIM,Android,0.234,0
+USR01457,18-24,Mumbai,Tier 1,Verified,1956,1,60,1825.23,PhonePe,iOS,0.735,0
+USR01458,45-54,Indore,Tier 2,Verified,2057,1,31,679.42,GPay,Android,0.421,0
+USR01459,18-24,Vadodara,Tier 2,Verified,1904,1,27,479.28,Amazon Pay,Android,0.861,0
+USR01460,35-44,Ranchi,Tier 3,Verified,1461,1,29,338.6,WhatsApp Pay,Android,0.881,0
+USR01461,45-54,Guwahati,Tier 3,Verified,2113,3,17,465.03,Amazon Pay,iOS,0.607,0
+USR01462,45-54,Hyderabad,Tier 1,Verified,2420,4,76,366.94,GPay,Android,0.104,0
+USR01463,18-24,Guwahati,Tier 3,Verified,1735,3,22,457.38,Amazon Pay,Android,0.322,0
+USR01464,45-54,Delhi,Tier 1,Verified,1376,1,68,1265.72,Amazon Pay,iOS,0.713,0
+USR01465,35-44,Patna,Tier 2,Verified,1560,2,17,186.83,GPay,Android,0.956,0
+USR01466,35-44,Bengaluru,Tier 1,Verified,148,1,53,928.08,GPay,iOS,0.848,0
+USR01467,18-24,Nashik,Tier 3,Verified,1133,2,18,87.96,PhonePe,Android,0.105,0
+USR01468,25-34,Warangal,Tier 3,Verified,1885,1,19,100.31,PhonePe,Android,0.758,0
+USR01469,45-54,Bengaluru,Tier 1,Not Verified,895,3,30,337.31,PhonePe,iOS,0.821,0
+USR01470,45-54,Kochi,Tier 2,Verified,257,2,48,342.94,Amazon Pay,iOS,0.592,0
+USR01471,25-34,Delhi,Tier 1,Verified,1663,1,60,450.62,BHIM,iOS,0.316,0
+USR01472,25-34,Amritsar,Tier 3,Not Verified,395,1,14,663.9,Paytm,Android,0.287,0
+USR01473,25-34,Amritsar,Tier 3,Verified,1197,2,24,707.95,GPay,Android,0.959,0
+USR01474,25-34,Visakhapatnam,Tier 2,Not Verified,2040,3,30,830.25,Paytm,Android,0.762,0
+USR01475,18-24,Indore,Tier 2,Verified,567,1,36,708.05,PhonePe,Android,0.187,0
+USR01476,35-44,Mysuru,Tier 3,Verified,2035,1,24,154.13,PhonePe,Android,0.449,0
+USR01477,45-54,Pune,Tier 1,Verified,399,2,40,2864.91,PhonePe,iOS,0.83,0
+USR01478,18-24,Amritsar,Tier 3,Verified,1774,1,11,104.29,BHIM,Android,0.562,0
+USR01479,18-24,Warangal,Tier 3,Verified,948,2,11,504.26,PhonePe,iOS,0.742,0
+USR01480,25-34,Aurangabad,Tier 3,Verified,2179,1,13,304.53,BHIM,iOS,0.521,0
+USR01481,35-44,Madurai,Tier 3,Not Verified,1986,1,29,622.4,WhatsApp Pay,Android,0.986,0
+USR01482,35-44,Chennai,Tier 1,Not Verified,1048,2,50,1902.4,Paytm,Web,0.366,1
+USR01483,35-44,Delhi,Tier 1,Verified,214,2,61,2243.67,GPay,Android,0.56,0
+USR01484,18-24,Vadodara,Tier 2,Verified,2358,3,25,915.97,PhonePe,Web,0.42,0
+USR01485,25-34,Mumbai,Tier 1,Verified,496,2,50,980.62,Amazon Pay,iOS,0.517,0
+USR01486,18-24,Pune,Tier 1,Verified,215,1,50,544.76,Paytm,Android,0.889,0
+USR01487,25-34,Solapur,Tier 3,Verified,1893,2,13,942.17,PhonePe,Android,0.505,0
+USR01488,35-44,Bhopal,Tier 2,Not Verified,796,1,15,175.02,Paytm,Web,0.17,0
+USR01489,25-34,Chennai,Tier 1,Verified,465,1,33,987.3,Paytm,Android,0.116,0
+USR01490,25-34,Jaipur,Tier 2,Not Verified,733,2,14,434.16,GPay,iOS,0.514,0
+USR01491,25-34,Ahmedabad,Tier 1,Verified,1270,2,43,2143.98,PhonePe,Android,0.977,0
+USR01492,25-34,Warangal,Tier 3,Verified,1647,3,19,287.01,GPay,Android,0.179,0
+USR01493,25-34,Mysuru,Tier 3,Verified,488,3,22,122.73,PhonePe,iOS,0.726,0
+USR01494,35-44,Jodhpur,Tier 3,Verified,887,1,17,352.51,GPay,Android,0.231,0
+USR01495,18-24,Chandigarh,Tier 2,Verified,2236,1,20,289.21,PhonePe,iOS,0.371,0
+USR01496,25-34,Nashik,Tier 3,Verified,1758,1,16,367.16,Amazon Pay,Android,0.249,0
+USR01497,35-44,Rajkot,Tier 2,Verified,1853,4,35,167.57,Paytm,Android,0.524,0
+USR01498,25-34,Hyderabad,Tier 1,Verified,854,1,29,1250.06,PhonePe,Android,0.847,0
+USR01499,18-24,Bhopal,Tier 2,Verified,62,1,33,331.46,GPay,Android,0.863,0
+USR01500,25-34,Patna,Tier 2,Not Verified,2060,2,21,1994.97,PhonePe,Web,0.636,0
+USR01501,35-44,Visakhapatnam,Tier 2,Verified,181,1,24,170.85,GPay,iOS,0.537,0
+USR01502,45-54,Ahmedabad,Tier 1,Verified,979,2,49,1189.32,GPay,Android,0.575,0
+USR01503,18-24,Kolkata,Tier 1,Verified,2296,1,22,334.38,GPay,Android,0.904,0
+USR01504,25-34,Nashik,Tier 3,Not Verified,508,1,19,270.29,PhonePe,Android,0.945,0
+USR01505,35-44,Pune,Tier 1,Verified,115,1,46,975.52,PhonePe,iOS,0.754,0
+USR01506,35-44,Vadodara,Tier 2,Verified,980,2,37,300.59,PhonePe,Web,0.629,0
+USR01507,45-54,Ahmedabad,Tier 1,Not Verified,567,3,54,579.85,PhonePe,iOS,0.751,0
+USR01508,35-44,Patna,Tier 2,Verified,1505,2,23,359.73,PhonePe,iOS,0.82,0
+USR01509,35-44,Agra,Tier 2,Verified,878,1,24,512.34,BHIM,Web,0.774,0
+USR01510,18-24,Kanpur,Tier 2,Verified,739,1,40,1348.7,Paytm,Android,0.645,0
+USR01511,35-44,Amritsar,Tier 3,Verified,2052,1,11,339.05,PhonePe,iOS,0.288,1
+USR01512,45-54,Jaipur,Tier 2,Verified,1499,3,33,238.61,PhonePe,Android,0.421,0
+USR01513,25-34,Mumbai,Tier 1,Verified,290,1,42,503.64,GPay,Web,0.203,0
+USR01514,35-44,Coimbatore,Tier 2,Verified,947,1,20,882.24,Amazon Pay,Android,0.994,0
+USR01515,25-34,Madurai,Tier 3,Verified,221,2,10,289.93,Paytm,Web,0.601,0
+USR01516,45-54,Chandigarh,Tier 2,Verified,2141,2,36,517.67,Amazon Pay,iOS,0.194,0
+USR01517,25-34,Ahmedabad,Tier 1,Verified,1902,4,34,156.28,BHIM,iOS,0.78,0
+USR01518,18-24,Kochi,Tier 2,Verified,447,3,33,264.18,GPay,Android,0.138,0
+USR01519,18-24,Warangal,Tier 3,Verified,513,3,21,261.59,BHIM,Android,0.92,0
+USR01520,35-44,Chennai,Tier 1,Verified,1838,2,43,869.37,GPay,iOS,0.549,0
+USR01521,45-54,Bengaluru,Tier 1,Verified,1519,1,68,601.12,GPay,Android,0.224,0
+USR01522,25-34,Vadodara,Tier 2,Verified,1732,2,15,1271.45,PhonePe,Android,0.106,0
+USR01523,25-34,Ahmedabad,Tier 1,Verified,1428,1,64,614.19,PhonePe,Web,0.254,0
+USR01524,25-34,Pune,Tier 1,Verified,1507,2,72,2808.74,GPay,Android,0.321,0
+USR01525,55+,Pune,Tier 1,Verified,964,1,49,1328.05,PhonePe,Android,0.486,0
+USR01526,45-54,Varanasi,Tier 3,Verified,1909,4,11,148.24,GPay,Android,0.565,0
+USR01527,25-34,Jodhpur,Tier 3,Verified,1842,1,10,742.27,GPay,iOS,0.109,0
+USR01528,35-44,Ranchi,Tier 3,Verified,377,1,26,398.97,GPay,iOS,0.461,0
+USR01529,35-44,Patna,Tier 2,Not Verified,281,1,27,291.66,BHIM,iOS,0.133,0
+USR01530,35-44,Kanpur,Tier 2,Verified,2383,1,29,1188.24,PhonePe,Android,0.668,0
+USR01531,55+,Surat,Tier 2,Verified,2159,4,37,744.51,Paytm,Android,0.477,0
+USR01532,45-54,Rajkot,Tier 2,Verified,2297,3,16,378.03,BHIM,Android,0.749,0
+USR01533,25-34,Jalandhar,Tier 3,Verified,62,3,12,308.01,Paytm,Android,0.91,0
+USR01534,18-24,Kanpur,Tier 2,Verified,1684,1,25,667.78,Paytm,iOS,0.285,0
+USR01535,45-54,Kochi,Tier 2,Verified,1841,2,33,439.45,Paytm,Android,0.899,0
+USR01536,25-34,Patna,Tier 2,Verified,838,3,36,986.96,PhonePe,iOS,0.176,0
+USR01537,25-34,Pune,Tier 1,Not Verified,546,2,45,2016.62,GPay,Android,0.587,0
+USR01538,25-34,Coimbatore,Tier 2,Verified,2290,1,41,377.57,PhonePe,Android,0.407,0
+USR01539,25-34,Mumbai,Tier 1,Not Verified,144,3,35,574.45,WhatsApp Pay,Android,0.586,0
+USR01540,25-34,Meerut,Tier 3,Verified,1274,2,8,392.13,GPay,Android,0.988,0
+USR01541,18-24,Mumbai,Tier 1,Verified,1557,1,16,755.46,PhonePe,Web,0.557,0
+USR01542,35-44,Madurai,Tier 3,Not Verified,540,1,12,123.81,PhonePe,Android,0.615,1
+USR01543,25-34,Bhopal,Tier 2,Not Verified,997,3,27,1117.1,Paytm,Android,0.99,0
+USR01544,25-34,Hyderabad,Tier 1,Verified,1464,1,59,281.31,GPay,Android,0.7,0
+USR01545,35-44,Solapur,Tier 3,Not Verified,603,2,22,238.99,WhatsApp Pay,Android,0.568,0
+USR01546,35-44,Jalandhar,Tier 3,Verified,2145,2,24,364.31,Paytm,Android,0.841,0
+USR01547,18-24,Delhi,Tier 1,Verified,630,2,35,457.62,PhonePe,Android,0.846,0
+USR01548,18-24,Mumbai,Tier 1,Verified,1770,3,21,860.03,Amazon Pay,Android,0.529,0
+USR01549,35-44,Kolkata,Tier 1,Verified,2185,1,27,1459.49,PhonePe,iOS,0.603,0
+USR01550,25-34,Meerut,Tier 3,Verified,1110,2,22,298.07,Amazon Pay,Android,0.673,0
+USR01551,25-34,Ahmedabad,Tier 1,Verified,1737,3,32,663.39,Paytm,Web,0.23,0
+USR01552,25-34,Tiruchirappalli,Tier 3,Verified,1904,1,13,848.01,GPay,Android,0.734,0
+USR01553,35-44,Delhi,Tier 1,Verified,900,1,35,683.33,BHIM,Android,0.129,0
+USR01554,25-34,Coimbatore,Tier 2,Verified,1542,3,35,328.31,GPay,Android,0.207,0
+USR01555,18-24,Lucknow,Tier 2,Verified,525,1,6,238.63,Paytm,Android,0.361,0
+USR01556,35-44,Lucknow,Tier 2,Verified,1551,1,24,169.66,GPay,Web,0.437,0
+USR01557,18-24,Jodhpur,Tier 3,Verified,615,1,18,169.34,BHIM,iOS,0.631,1
+USR01558,25-34,Chennai,Tier 1,Verified,1191,1,50,1075.28,Amazon Pay,Android,0.837,0
+USR01559,18-24,Lucknow,Tier 2,Verified,2272,1,26,204.09,Paytm,Android,0.883,0
+USR01560,18-24,Chennai,Tier 1,Verified,2347,1,34,555.14,WhatsApp Pay,Android,0.404,0
+USR01561,25-34,Bengaluru,Tier 1,Verified,597,2,29,1577.3,PhonePe,iOS,0.515,0
+USR01562,35-44,Vadodara,Tier 2,Not Verified,640,3,31,966.1,PhonePe,Android,0.393,0
+USR01563,18-24,Warangal,Tier 3,Not Verified,1707,1,17,138.97,BHIM,Android,0.91,0
+USR01564,18-24,Jaipur,Tier 2,Verified,1844,2,25,269.06,PhonePe,Web,0.681,0
+USR01565,18-24,Tiruchirappalli,Tier 3,Verified,131,2,15,211.98,PhonePe,Android,0.817,0
+USR01566,35-44,Delhi,Tier 1,Verified,2321,1,48,1223.28,PhonePe,iOS,0.96,0
+USR01567,25-34,Madurai,Tier 3,Verified,246,4,17,219.74,BHIM,iOS,0.57,0
+USR01568,25-34,Aurangabad,Tier 3,Verified,106,1,25,404.86,GPay,Android,0.943,0
+USR01569,35-44,Mumbai,Tier 1,Not Verified,1156,2,37,1517.68,WhatsApp Pay,Android,0.321,0
+USR01570,45-54,Varanasi,Tier 3,Verified,2403,1,12,342.92,PhonePe,Android,0.826,0
+USR01571,35-44,Amritsar,Tier 3,Not Verified,2442,1,18,279.97,Paytm,Web,0.876,1
+USR01572,25-34,Patna,Tier 2,Verified,769,1,27,1158.84,Paytm,iOS,0.874,0
+USR01573,18-24,Visakhapatnam,Tier 2,Verified,402,1,27,398.07,GPay,Android,0.189,0
+USR01574,35-44,Kanpur,Tier 2,Verified,778,1,29,274.07,PhonePe,Android,0.181,0
+USR01575,45-54,Pune,Tier 1,Verified,723,1,67,561.8,Paytm,iOS,0.965,0
+USR01576,25-34,Rajkot,Tier 2,Verified,269,1,31,792.29,GPay,iOS,0.189,0
+USR01577,55+,Varanasi,Tier 3,Not Verified,1357,1,19,384.26,GPay,Android,0.947,0
+USR01578,25-34,Jodhpur,Tier 3,Not Verified,859,1,9,273.74,Paytm,Android,0.637,0
+USR01579,18-24,Pune,Tier 1,Verified,501,1,52,602.97,PhonePe,Android,0.387,0
+USR01580,18-24,Lucknow,Tier 2,Verified,2013,1,35,407.91,Amazon Pay,iOS,0.67,0
+USR01581,25-34,Mumbai,Tier 1,Verified,1132,2,56,1158.84,BHIM,iOS,0.628,0
+USR01582,25-34,Madurai,Tier 3,Not Verified,2302,2,12,214.67,PhonePe,Android,0.213,0
+USR01583,18-24,Nashik,Tier 3,Verified,373,3,16,355.79,PhonePe,Android,0.55,0
+USR01584,18-24,Kanpur,Tier 2,Verified,1559,2,37,488.54,PhonePe,Android,0.251,0
+USR01585,18-24,Pune,Tier 1,Verified,2303,1,41,503.69,PhonePe,Android,0.101,0
+USR01586,35-44,Chennai,Tier 1,Not Verified,715,1,39,1325.19,Amazon Pay,Android,0.94,0
+USR01587,18-24,Agra,Tier 2,Verified,1057,3,31,1307.81,Amazon Pay,Android,0.442,0
+USR01588,25-34,Warangal,Tier 3,Not Verified,901,2,17,362.1,Amazon Pay,iOS,0.559,1
+USR01589,35-44,Delhi,Tier 1,Verified,1261,1,40,1060.08,GPay,Android,0.729,0
+USR01590,45-54,Rajkot,Tier 2,Not Verified,2309,4,23,491.4,Paytm,Android,0.89,0
+USR01591,25-34,Coimbatore,Tier 2,Verified,1333,3,40,331.29,PhonePe,iOS,0.951,0
+USR01592,25-34,Kochi,Tier 2,Verified,1884,1,17,613.29,Paytm,Android,0.696,0
+USR01593,25-34,Mysuru,Tier 3,Verified,1913,4,16,189.32,WhatsApp Pay,iOS,0.396,0
+USR01594,25-34,Bengaluru,Tier 1,Verified,38,2,61,1314.93,Paytm,Android,0.104,1
+USR01595,25-34,Guwahati,Tier 3,Verified,1722,2,21,326.17,Paytm,Android,0.727,0
+USR01596,55+,Patna,Tier 2,Verified,2234,1,26,855.19,PhonePe,Android,0.889,0
+USR01597,55+,Mumbai,Tier 1,Verified,1853,2,42,986.4,PhonePe,Android,0.418,0
+USR01598,35-44,Meerut,Tier 3,Verified,2492,1,16,243.17,Paytm,Android,0.259,0
+USR01599,25-34,Rajkot,Tier 2,Verified,64,1,24,409.7,BHIM,Android,0.433,0
+USR01600,18-24,Mumbai,Tier 1,Not Verified,937,2,55,1780.47,PhonePe,Android,0.783,0
+USR01601,35-44,Tiruchirappalli,Tier 3,Verified,1495,1,20,446.02,GPay,Android,0.835,0
+USR01602,18-24,Hyderabad,Tier 1,Verified,989,4,55,604.2,WhatsApp Pay,Android,0.971,1
+USR01603,35-44,Vadodara,Tier 2,Verified,886,1,23,1089.92,PhonePe,Android,0.986,0
+USR01604,25-34,Ranchi,Tier 3,Not Verified,1166,2,15,1034.48,PhonePe,Android,0.545,0
+USR01605,18-24,Bengaluru,Tier 1,Verified,297,2,61,555.87,PhonePe,Android,0.771,0
+USR01606,35-44,Varanasi,Tier 3,Not Verified,2364,3,12,422.7,PhonePe,Android,0.893,0
+USR01607,18-24,Chennai,Tier 1,Verified,815,3,39,332.47,PhonePe,Android,0.121,0
+USR01608,35-44,Surat,Tier 2,Verified,2212,2,20,424.38,PhonePe,Android,0.713,0
+USR01609,25-34,Jaipur,Tier 2,Verified,1779,2,39,629.33,Paytm,Android,0.949,0
+USR01610,25-34,Bhopal,Tier 2,Not Verified,1801,3,41,1028.34,GPay,Android,0.466,0
+USR01611,18-24,Coimbatore,Tier 2,Verified,1941,1,31,931.09,PhonePe,Android,0.566,1
+USR01612,35-44,Rajkot,Tier 2,Verified,949,1,4,674.78,PhonePe,Android,0.927,0
+USR01613,35-44,Jalandhar,Tier 3,Verified,51,1,25,270.89,GPay,Android,0.401,0
+USR01614,25-34,Kochi,Tier 2,Verified,133,4,33,382.95,GPay,Android,0.303,0
+USR01615,35-44,Ranchi,Tier 3,Verified,1053,1,21,138.35,PhonePe,Web,0.396,0
+USR01616,35-44,Warangal,Tier 3,Verified,426,1,28,292.42,GPay,Android,0.489,1
+USR01617,18-24,Kolkata,Tier 1,Verified,1055,1,65,811.38,PhonePe,Android,0.526,0
+USR01618,25-34,Mumbai,Tier 1,Verified,1396,2,48,883.12,GPay,Android,0.313,0
+USR01619,55+,Agra,Tier 2,Verified,1826,2,27,795.29,WhatsApp Pay,Android,0.663,0
+USR01620,45-54,Delhi,Tier 1,Not Verified,278,3,60,1275.93,Paytm,Android,0.44,0
+USR01621,35-44,Tiruchirappalli,Tier 3,Verified,296,2,25,1357.76,BHIM,Web,0.156,0
+USR01622,35-44,Jaipur,Tier 2,Verified,1264,2,24,1116.99,GPay,Android,0.489,0
+USR01623,18-24,Jaipur,Tier 2,Not Verified,2320,1,20,1080.87,PhonePe,iOS,0.865,0
+USR01624,35-44,Agra,Tier 2,Verified,1713,1,32,517.8,GPay,Android,0.64,0
+USR01625,35-44,Mumbai,Tier 1,Verified,1887,1,38,739.87,GPay,Android,0.816,0
+USR01626,55+,Agra,Tier 2,Verified,444,1,34,433.87,PhonePe,Android,0.944,0
+USR01627,25-34,Ahmedabad,Tier 1,Not Verified,2148,1,21,1558.19,Paytm,iOS,0.273,0
+USR01628,25-34,Delhi,Tier 1,Not Verified,2458,2,52,523.14,PhonePe,iOS,0.274,0
+USR01629,25-34,Surat,Tier 2,Verified,2114,1,26,225.1,GPay,Android,0.479,0
+USR01630,25-34,Nashik,Tier 3,Not Verified,791,1,19,163.55,GPay,iOS,0.817,0
+USR01631,18-24,Hubli,Tier 3,Not Verified,2424,1,20,148.34,WhatsApp Pay,iOS,0.964,0
+USR01632,25-34,Hubli,Tier 3,Verified,2420,3,18,135.85,Paytm,Android,0.798,0
+USR01633,25-34,Visakhapatnam,Tier 2,Verified,1434,1,26,1791.95,BHIM,Android,0.973,0
+USR01634,18-24,Warangal,Tier 3,Verified,622,1,22,395.53,GPay,Android,0.556,0
+USR01635,18-24,Chandigarh,Tier 2,Verified,253,1,25,662.98,PhonePe,iOS,0.276,0
+USR01636,35-44,Hyderabad,Tier 1,Verified,310,1,30,1040.22,BHIM,Android,0.701,0
+USR01637,45-54,Ahmedabad,Tier 1,Verified,2486,2,22,388.04,GPay,iOS,0.867,0
+USR01638,18-24,Jalandhar,Tier 3,Verified,1257,1,23,322.05,GPay,Android,0.246,0
+USR01639,25-34,Kochi,Tier 2,Verified,202,1,35,330.99,PhonePe,Web,0.928,0
+USR01640,35-44,Hyderabad,Tier 1,Not Verified,1940,2,56,1060.33,BHIM,Android,0.315,0
+USR01641,18-24,Chandigarh,Tier 2,Verified,1387,3,36,314.53,PhonePe,Android,0.438,0
+USR01642,55+,Mumbai,Tier 1,Verified,1516,1,56,1039.43,GPay,Web,0.422,0
+USR01643,18-24,Bengaluru,Tier 1,Verified,1220,1,64,1062.18,PhonePe,Web,0.668,0
+USR01644,18-24,Bhopal,Tier 2,Verified,209,4,38,703.29,PhonePe,Android,0.279,0
+USR01645,35-44,Hyderabad,Tier 1,Not Verified,1103,2,23,1080.04,Amazon Pay,Android,0.406,0
+USR01646,18-24,Bengaluru,Tier 1,Verified,832,1,50,1665.11,Amazon Pay,Android,0.859,0
+USR01647,18-24,Mumbai,Tier 1,Verified,592,1,54,680.26,Paytm,Android,0.809,0
+USR01648,25-34,Varanasi,Tier 3,Verified,891,1,17,123.48,PhonePe,Android,0.316,0
+USR01649,35-44,Bengaluru,Tier 1,Not Verified,2188,4,35,1533.13,GPay,Android,0.998,0
+USR01650,25-34,Delhi,Tier 1,Verified,515,1,58,1713.66,GPay,Android,0.932,0
+USR01651,25-34,Nagpur,Tier 2,Verified,2211,1,17,325.6,GPay,iOS,0.437,0
+USR01652,18-24,Warangal,Tier 3,Verified,1031,3,13,467.77,PhonePe,Android,0.787,0
+USR01653,35-44,Chennai,Tier 1,Verified,638,1,36,439.02,GPay,Android,0.148,0
+USR01654,35-44,Meerut,Tier 3,Verified,547,3,21,411.64,BHIM,Android,0.972,0
+USR01655,35-44,Hyderabad,Tier 1,Verified,363,2,39,1391.95,WhatsApp Pay,Android,0.812,0
+USR01656,35-44,Kanpur,Tier 2,Verified,2113,1,32,513.51,PhonePe,Android,0.894,0
+USR01657,45-54,Kolkata,Tier 1,Verified,2072,2,41,827.19,PhonePe,Android,0.261,0
+USR01658,35-44,Ahmedabad,Tier 1,Verified,2056,1,52,440.78,GPay,Android,0.623,0
+USR01659,35-44,Mumbai,Tier 1,Verified,878,1,32,1428.01,GPay,Android,0.283,0
+USR01660,55+,Patna,Tier 2,Verified,925,1,26,442.16,PhonePe,iOS,0.9,0
+USR01661,45-54,Indore,Tier 2,Verified,1562,1,26,338.73,Paytm,Android,0.176,0
+USR01662,35-44,Visakhapatnam,Tier 2,Verified,1850,2,31,929.45,Paytm,Android,0.307,1
+USR01663,45-54,Coimbatore,Tier 2,Verified,1407,1,36,891.74,GPay,Android,0.521,0
+USR01664,55+,Ahmedabad,Tier 1,Verified,1328,1,21,1593.06,GPay,Android,0.122,0
+USR01665,18-24,Visakhapatnam,Tier 2,Verified,340,1,31,609.73,BHIM,Android,0.174,0
+USR01666,18-24,Delhi,Tier 1,Verified,1162,3,45,915.52,Amazon Pay,Android,0.189,0
+USR01667,25-34,Jaipur,Tier 2,Verified,2266,1,45,151.1,PhonePe,Android,0.277,0
+USR01668,25-34,Visakhapatnam,Tier 2,Verified,1154,1,28,1134.79,PhonePe,iOS,0.644,0
+USR01669,45-54,Meerut,Tier 3,Verified,2254,3,20,266.04,Paytm,Android,0.108,0
+USR01670,18-24,Kolkata,Tier 1,Verified,1684,3,53,1097.49,Amazon Pay,Android,0.84,0
+USR01671,25-34,Mumbai,Tier 1,Verified,1963,2,46,1385.07,Paytm,Android,0.99,0
+USR01672,18-24,Pune,Tier 1,Verified,962,1,32,1294.75,Paytm,iOS,0.774,0
+USR01673,35-44,Coimbatore,Tier 2,Verified,2434,2,40,816.32,WhatsApp Pay,Android,0.782,0
+USR01674,18-24,Vadodara,Tier 2,Verified,1425,2,34,601.94,PhonePe,Android,0.382,0
+USR01675,25-34,Pune,Tier 1,Verified,888,1,55,503.45,GPay,Android,0.868,1
+USR01676,25-34,Guwahati,Tier 3,Verified,2395,3,24,676.7,PhonePe,Android,0.375,0
+USR01677,35-44,Nashik,Tier 3,Verified,1482,1,18,186.07,GPay,Android,0.477,0
+USR01678,25-34,Amritsar,Tier 3,Verified,2232,1,13,506.6,Paytm,iOS,0.628,0
+USR01679,18-24,Jaipur,Tier 2,Verified,599,1,31,770.24,GPay,iOS,0.957,0
+USR01680,35-44,Surat,Tier 2,Verified,2499,3,42,540.61,Paytm,Android,0.616,0
+USR01681,45-54,Pune,Tier 1,Not Verified,866,3,44,431.48,GPay,iOS,0.157,0
+USR01682,18-24,Vadodara,Tier 2,Not Verified,474,1,34,375.8,PhonePe,Android,0.966,0
+USR01683,18-24,Chennai,Tier 1,Verified,411,1,31,923.23,GPay,Android,0.707,0
+USR01684,35-44,Chandigarh,Tier 2,Verified,2031,1,22,558.89,Amazon Pay,iOS,0.279,0
+USR01685,45-54,Patna,Tier 2,Verified,1192,1,32,1090.43,GPay,Android,0.362,0
+USR01686,35-44,Ahmedabad,Tier 1,Verified,265,1,41,309.84,GPay,Android,0.11,0
+USR01687,35-44,Varanasi,Tier 3,Verified,1712,1,15,1517.29,GPay,iOS,0.991,0
+USR01688,18-24,Pune,Tier 1,Verified,1988,2,39,435.01,GPay,Android,0.45,0
+USR01689,18-24,Hyderabad,Tier 1,Verified,562,3,39,1618.0,BHIM,Android,0.379,0
+USR01690,18-24,Ahmedabad,Tier 1,Verified,680,2,69,387.86,Paytm,Android,0.945,0
+USR01691,55+,Coimbatore,Tier 2,Verified,1909,1,42,306.63,PhonePe,Android,0.107,0
+USR01692,25-34,Lucknow,Tier 2,Verified,1665,2,28,1357.37,Paytm,iOS,0.322,0
+USR01693,25-34,Ahmedabad,Tier 1,Verified,1914,1,44,1038.73,PhonePe,Android,0.135,0
+USR01694,35-44,Ahmedabad,Tier 1,Not Verified,1450,2,52,796.93,BHIM,Android,0.74,0
+USR01695,25-34,Agra,Tier 2,Verified,747,1,31,425.55,GPay,iOS,0.262,0
+USR01696,25-34,Amritsar,Tier 3,Verified,1905,1,31,231.87,GPay,Android,0.693,0
+USR01697,18-24,Delhi,Tier 1,Verified,1641,2,46,767.44,WhatsApp Pay,Android,0.139,0
+USR01698,18-24,Kanpur,Tier 2,Verified,1151,3,32,279.23,Amazon Pay,Android,0.584,0
+USR01699,18-24,Ranchi,Tier 3,Verified,919,3,16,191.75,GPay,Android,0.47,0
+USR01700,25-34,Lucknow,Tier 2,Verified,1540,1,28,816.94,GPay,Android,0.195,0
+USR01701,35-44,Jalandhar,Tier 3,Verified,1709,1,17,154.23,GPay,Web,0.327,0
+USR01702,18-24,Nashik,Tier 3,Verified,139,1,15,133.17,BHIM,Android,0.725,0
+USR01703,18-24,Pune,Tier 1,Verified,1437,2,37,3294.3,GPay,Android,0.87,0
+USR01704,25-34,Jodhpur,Tier 3,Verified,1056,1,26,332.48,PhonePe,Android,0.925,0
+USR01705,35-44,Rajkot,Tier 2,Verified,1931,1,27,881.4,GPay,Web,0.161,0
+USR01706,35-44,Nagpur,Tier 2,Verified,1822,1,17,594.8,Paytm,iOS,0.838,0
+USR01707,25-34,Kanpur,Tier 2,Verified,103,2,27,356.02,GPay,Web,0.26,0
+USR01708,35-44,Tiruchirappalli,Tier 3,Verified,1630,1,13,264.3,PhonePe,iOS,0.704,1
+USR01709,18-24,Hubli,Tier 3,Not Verified,658,1,25,958.17,BHIM,iOS,0.26,0
+USR01710,25-34,Varanasi,Tier 3,Not Verified,2210,1,17,635.59,PhonePe,Android,0.727,0
+USR01711,25-34,Delhi,Tier 1,Not Verified,1629,2,40,366.23,Amazon Pay,Android,0.5,0
+USR01712,25-34,Jaipur,Tier 2,Verified,1575,2,40,710.92,PhonePe,iOS,0.936,0
+USR01713,25-34,Nagpur,Tier 2,Verified,849,1,34,1464.11,GPay,Android,0.48,0
+USR01714,25-34,Kolkata,Tier 1,Verified,817,2,32,438.26,PhonePe,Android,0.157,0
+USR01715,18-24,Ranchi,Tier 3,Verified,717,2,19,582.22,GPay,Android,0.14,0
+USR01716,55+,Chandigarh,Tier 2,Not Verified,1369,1,25,708.55,GPay,Android,0.664,0
+USR01717,35-44,Indore,Tier 2,Verified,2248,1,30,198.41,Amazon Pay,iOS,0.485,0
+USR01718,55+,Delhi,Tier 1,Verified,1490,1,52,536.02,GPay,Android,0.113,0
+USR01719,45-54,Mumbai,Tier 1,Verified,1624,1,44,755.47,GPay,iOS,0.298,0
+USR01720,18-24,Visakhapatnam,Tier 2,Verified,1541,1,35,473.42,Paytm,iOS,0.897,0
+USR01721,18-24,Kochi,Tier 2,Not Verified,2482,1,32,240.69,Paytm,iOS,0.991,0
+USR01722,55+,Bengaluru,Tier 1,Verified,1061,4,46,1735.45,PhonePe,Web,0.64,0
+USR01723,45-54,Rajkot,Tier 2,Not Verified,1621,2,34,1661.7,GPay,Android,0.975,0
+USR01724,18-24,Kolkata,Tier 1,Verified,748,2,31,368.72,PhonePe,Android,0.896,0
+USR01725,35-44,Ahmedabad,Tier 1,Verified,306,1,72,509.7,BHIM,Android,0.648,0
+USR01726,55+,Patna,Tier 2,Verified,2123,2,46,291.4,GPay,Android,0.309,0
+USR01727,25-34,Jodhpur,Tier 3,Not Verified,982,1,15,327.69,PhonePe,Android,0.783,0
+USR01728,45-54,Hyderabad,Tier 1,Verified,1785,2,36,1472.15,GPay,Web,0.658,0
+USR01729,35-44,Bhopal,Tier 2,Verified,2072,1,37,559.24,Paytm,Android,0.237,0
+USR01730,18-24,Jodhpur,Tier 3,Verified,1005,3,18,417.98,BHIM,iOS,0.638,0
+USR01731,55+,Tiruchirappalli,Tier 3,Verified,1376,1,17,143.45,Paytm,Android,0.386,0
+USR01732,25-34,Mumbai,Tier 1,Not Verified,2163,2,33,2251.5,GPay,Android,0.473,0
+USR01733,18-24,Mumbai,Tier 1,Not Verified,968,3,42,666.14,PhonePe,Android,0.398,0
+USR01734,18-24,Mumbai,Tier 1,Verified,1047,3,56,1967.12,PhonePe,iOS,0.727,0
+USR01735,18-24,Meerut,Tier 3,Verified,1592,2,13,320.58,PhonePe,Android,0.265,0
+USR01736,25-34,Lucknow,Tier 2,Verified,2043,1,26,559.66,GPay,Android,0.273,0
+USR01737,18-24,Bengaluru,Tier 1,Verified,866,1,68,1189.92,GPay,iOS,0.256,0
+USR01738,35-44,Hyderabad,Tier 1,Verified,997,2,34,743.25,GPay,iOS,0.484,0
+USR01739,35-44,Guwahati,Tier 3,Verified,839,1,13,523.54,GPay,Android,0.259,0
+USR01740,25-34,Visakhapatnam,Tier 2,Verified,2391,1,28,476.21,Amazon Pay,Android,0.672,0
+USR01741,35-44,Kochi,Tier 2,Verified,2000,1,27,351.71,GPay,Android,0.975,0
+USR01742,25-34,Bengaluru,Tier 1,Verified,1958,1,11,1763.88,PhonePe,iOS,0.555,0
+USR01743,35-44,Bengaluru,Tier 1,Verified,2004,1,22,567.15,PhonePe,Android,0.443,0
+USR01744,18-24,Chennai,Tier 1,Verified,2467,2,61,857.34,GPay,Web,0.598,0
+USR01745,55+,Amritsar,Tier 3,Verified,1929,1,14,274.91,PhonePe,Android,0.355,0
+USR01746,55+,Nashik,Tier 3,Verified,324,1,12,225.87,GPay,Android,0.743,0
+USR01747,45-54,Indore,Tier 2,Verified,806,1,31,795.77,BHIM,Android,0.875,0
+USR01748,35-44,Jalandhar,Tier 3,Verified,2042,1,17,229.38,GPay,iOS,0.474,0
+USR01749,25-34,Tiruchirappalli,Tier 3,Verified,1558,1,17,539.61,GPay,Android,0.377,0
+USR01750,18-24,Lucknow,Tier 2,Verified,1704,3,29,366.48,BHIM,Android,0.993,0
+USR01751,55+,Indore,Tier 2,Verified,2346,1,39,916.22,Paytm,Android,0.787,0
+USR01752,35-44,Kolkata,Tier 1,Verified,2117,2,39,2325.78,PhonePe,Android,0.671,0
+USR01753,25-34,Mumbai,Tier 1,Verified,1608,3,41,801.71,GPay,iOS,0.762,0
+USR01754,35-44,Mumbai,Tier 1,Verified,1510,2,52,898.64,GPay,iOS,0.709,0
+USR01755,45-54,Warangal,Tier 3,Verified,635,1,12,228.04,PhonePe,iOS,0.51,0
+USR01756,25-34,Chennai,Tier 1,Verified,1043,2,59,733.43,Paytm,Android,0.957,0
+USR01757,25-34,Jaipur,Tier 2,Verified,508,2,15,334.51,GPay,Android,0.68,0
+USR01758,25-34,Pune,Tier 1,Verified,2430,4,30,563.8,WhatsApp Pay,iOS,0.172,0
+USR01759,18-24,Pune,Tier 1,Verified,709,3,47,351.94,BHIM,Android,0.328,0
+USR01760,25-34,Coimbatore,Tier 2,Not Verified,1597,2,30,822.3,GPay,Android,0.761,0
+USR01761,35-44,Delhi,Tier 1,Verified,477,2,44,810.93,PhonePe,iOS,0.799,0
+USR01762,35-44,Kanpur,Tier 2,Verified,1131,2,15,1852.37,Paytm,Android,0.937,0
+USR01763,25-34,Visakhapatnam,Tier 2,Verified,56,4,30,159.48,BHIM,Android,0.835,1
+USR01764,45-54,Lucknow,Tier 2,Verified,1741,2,15,251.07,BHIM,Android,0.689,0
+USR01765,35-44,Bengaluru,Tier 1,Verified,752,1,64,209.75,GPay,Android,0.734,0
+USR01766,45-54,Kanpur,Tier 2,Verified,2088,3,33,894.21,GPay,iOS,0.506,0
+USR01767,55+,Bengaluru,Tier 1,Not Verified,853,1,30,504.85,PhonePe,Android,0.264,0
+USR01768,25-34,Visakhapatnam,Tier 2,Verified,1704,1,32,443.31,BHIM,Android,0.922,0
+USR01769,25-34,Warangal,Tier 3,Verified,710,1,13,1168.43,PhonePe,iOS,0.177,0
+USR01770,35-44,Ranchi,Tier 3,Verified,1431,1,15,823.99,PhonePe,Android,0.311,0
+USR01771,18-24,Kochi,Tier 2,Verified,442,1,19,337.95,Amazon Pay,Android,0.339,0
+USR01772,25-34,Mumbai,Tier 1,Verified,426,1,38,224.68,GPay,Android,0.813,0
+USR01773,45-54,Coimbatore,Tier 2,Verified,1118,3,22,496.38,Amazon Pay,iOS,0.526,0
+USR01774,55+,Amritsar,Tier 3,Verified,1408,1,20,527.02,BHIM,iOS,0.901,0
+USR01775,35-44,Hyderabad,Tier 1,Verified,1509,2,35,703.17,Amazon Pay,Android,0.441,0
+USR01776,25-34,Bhopal,Tier 2,Not Verified,1382,3,40,347.47,BHIM,Android,0.103,0
+USR01777,35-44,Patna,Tier 2,Not Verified,598,1,22,809.5,Amazon Pay,Android,0.211,0
+USR01778,45-54,Rajkot,Tier 2,Verified,1048,1,34,1170.85,Amazon Pay,Android,0.657,0
+USR01779,45-54,Vadodara,Tier 2,Verified,2139,1,25,267.24,Paytm,iOS,0.269,0
+USR01780,25-34,Chandigarh,Tier 2,Verified,1349,1,27,207.82,GPay,Android,0.424,1
+USR01781,25-34,Kolkata,Tier 1,Verified,1849,1,35,2492.66,BHIM,iOS,0.536,0
+USR01782,35-44,Delhi,Tier 1,Verified,1456,1,71,1039.33,GPay,Android,0.938,0
+USR01783,18-24,Warangal,Tier 3,Verified,441,2,27,236.33,PhonePe,Web,0.364,0
+USR01784,25-34,Bengaluru,Tier 1,Verified,2160,3,54,419.09,GPay,Android,0.806,0
+USR01785,45-54,Mumbai,Tier 1,Verified,553,1,36,1625.1,PhonePe,Android,0.178,0
+USR01786,35-44,Aurangabad,Tier 3,Verified,1942,1,18,216.17,PhonePe,Web,0.502,0
+USR01787,25-34,Hyderabad,Tier 1,Verified,1026,1,37,682.54,BHIM,Android,0.778,0
+USR01788,45-54,Ranchi,Tier 3,Verified,462,1,13,328.25,Amazon Pay,Android,0.744,0
+USR01789,25-34,Indore,Tier 2,Verified,1367,3,23,228.81,Paytm,iOS,0.79,0
+USR01790,25-34,Chennai,Tier 1,Not Verified,1980,4,54,445.44,PhonePe,Android,0.704,0
+USR01791,18-24,Varanasi,Tier 3,Verified,2219,2,25,342.59,GPay,iOS,0.543,0
+USR01792,18-24,Bhopal,Tier 2,Verified,946,3,30,304.15,GPay,Android,0.79,0
+USR01793,25-34,Surat,Tier 2,Verified,1435,1,16,413.97,PhonePe,Web,0.746,0
+USR01794,18-24,Amritsar,Tier 3,Verified,2331,4,18,485.87,PhonePe,iOS,0.493,0
+USR01795,25-34,Chennai,Tier 1,Not Verified,503,1,32,1114.38,GPay,Android,0.2,0
+USR01796,25-34,Solapur,Tier 3,Verified,800,2,15,127.71,Amazon Pay,iOS,0.204,0
+USR01797,25-34,Chandigarh,Tier 2,Verified,1313,4,28,223.11,PhonePe,Android,0.619,1
+USR01798,25-34,Mumbai,Tier 1,Verified,2446,2,39,355.07,PhonePe,iOS,0.862,0
+USR01799,18-24,Kolkata,Tier 1,Verified,1525,2,38,1018.95,PhonePe,Android,0.941,0
+USR01800,25-34,Hyderabad,Tier 1,Verified,466,1,49,1644.16,PhonePe,Android,0.584,0
+USR01801,18-24,Kanpur,Tier 2,Not Verified,1245,3,41,1101.85,BHIM,iOS,0.55,0
+USR01802,35-44,Agra,Tier 2,Verified,1190,1,2,1341.03,Paytm,Android,0.699,0
+USR01803,35-44,Rajkot,Tier 2,Verified,170,2,32,1957.57,Paytm,Android,0.378,0
+USR01804,18-24,Delhi,Tier 1,Verified,1150,4,50,889.06,PhonePe,Android,0.736,0
+USR01805,18-24,Hyderabad,Tier 1,Verified,2057,1,53,361.12,Paytm,Android,0.97,0
+USR01806,25-34,Madurai,Tier 3,Verified,1394,1,16,230.06,WhatsApp Pay,Android,0.745,0
+USR01807,45-54,Indore,Tier 2,Verified,951,2,33,471.68,BHIM,iOS,0.147,0
+USR01808,35-44,Kanpur,Tier 2,Verified,2026,2,32,533.88,GPay,iOS,0.369,0
+USR01809,18-24,Indore,Tier 2,Verified,682,4,33,271.84,GPay,Web,0.593,0
+USR01810,25-34,Ahmedabad,Tier 1,Verified,1456,2,46,959.57,Paytm,Android,0.452,0
+USR01811,18-24,Visakhapatnam,Tier 2,Verified,1186,2,26,1155.66,GPay,iOS,0.276,0
+USR01812,18-24,Pune,Tier 1,Verified,428,1,64,1008.26,GPay,Android,0.777,0
+USR01813,35-44,Kochi,Tier 2,Verified,251,3,25,706.53,GPay,Android,0.739,0
+USR01814,55+,Bengaluru,Tier 1,Verified,2394,1,33,1212.18,Amazon Pay,iOS,0.726,0
+USR01815,45-54,Bengaluru,Tier 1,Verified,889,1,48,584.6,Paytm,Android,0.774,0
+USR01816,55+,Mumbai,Tier 1,Verified,1513,2,33,1288.07,GPay,Android,0.618,0
+USR01817,25-34,Bengaluru,Tier 1,Verified,1572,4,20,1365.48,BHIM,Android,0.484,0
+USR01818,18-24,Indore,Tier 2,Verified,260,1,29,1257.47,GPay,Android,0.977,0
+USR01819,18-24,Jodhpur,Tier 3,Verified,510,4,21,461.85,BHIM,iOS,0.685,0
+USR01820,25-34,Guwahati,Tier 3,Verified,1684,1,21,559.37,WhatsApp Pay,Android,0.207,0
+USR01821,25-34,Visakhapatnam,Tier 2,Verified,2471,4,36,291.68,GPay,iOS,0.688,0
+USR01822,25-34,Rajkot,Tier 2,Verified,397,2,41,766.53,BHIM,iOS,0.878,0
+USR01823,35-44,Hubli,Tier 3,Not Verified,1853,1,25,287.31,GPay,Android,0.208,0
+USR01824,25-34,Ahmedabad,Tier 1,Verified,2117,1,32,617.15,PhonePe,Android,0.628,0
+USR01825,25-34,Ahmedabad,Tier 1,Verified,1151,2,44,811.4,GPay,Web,0.185,0
+USR01826,35-44,Patna,Tier 2,Verified,2013,4,22,514.44,GPay,Android,0.732,0
+USR01827,18-24,Kanpur,Tier 2,Verified,437,1,33,554.3,BHIM,Android,0.742,0
+USR01828,18-24,Coimbatore,Tier 2,Verified,787,1,23,384.55,PhonePe,Android,0.731,0
+USR01829,25-34,Chandigarh,Tier 2,Verified,2227,2,32,533.49,GPay,Android,0.577,0
+USR01830,18-24,Meerut,Tier 3,Not Verified,2425,2,4,460.58,GPay,Android,0.837,0
+USR01831,45-54,Hyderabad,Tier 1,Verified,510,1,59,1222.06,GPay,Android,0.639,0
+USR01832,35-44,Coimbatore,Tier 2,Verified,1861,3,37,628.59,PhonePe,Android,0.211,0
+USR01833,25-34,Nagpur,Tier 2,Verified,690,1,29,763.51,PhonePe,iOS,0.331,0
+USR01834,25-34,Delhi,Tier 1,Not Verified,540,2,53,459.2,Paytm,iOS,0.427,0
+USR01835,55+,Pune,Tier 1,Verified,30,1,55,2260.43,GPay,Web,0.142,0
+USR01836,25-34,Chennai,Tier 1,Verified,2217,1,59,1068.98,PhonePe,Android,0.619,0
+USR01837,18-24,Aurangabad,Tier 3,Verified,1472,2,21,238.81,GPay,Android,0.56,0
+USR01838,25-34,Warangal,Tier 3,Verified,213,1,21,502.47,Amazon Pay,Android,0.269,0
+USR01839,18-24,Hyderabad,Tier 1,Verified,579,2,47,432.94,GPay,Android,0.294,0
+USR01840,45-54,Bengaluru,Tier 1,Verified,1758,1,55,716.49,GPay,Web,0.329,0
+USR01841,18-24,Indore,Tier 2,Verified,698,1,26,1282.12,BHIM,Android,0.175,0
+USR01842,18-24,Pune,Tier 1,Verified,616,2,47,786.55,GPay,Android,0.164,0
+USR01843,45-54,Surat,Tier 2,Not Verified,819,2,25,595.31,PhonePe,Android,0.607,0
+USR01844,25-34,Coimbatore,Tier 2,Verified,701,1,36,904.44,WhatsApp Pay,Web,0.238,0
+USR01845,25-34,Amritsar,Tier 3,Verified,1582,1,26,363.31,Amazon Pay,iOS,0.643,0
+USR01846,35-44,Delhi,Tier 1,Verified,2206,1,33,470.72,Amazon Pay,Android,0.594,0
+USR01847,25-34,Delhi,Tier 1,Verified,1516,3,27,1066.59,PhonePe,iOS,0.8,0
+USR01848,45-54,Kochi,Tier 2,Verified,954,1,43,365.41,GPay,Android,0.188,0
+USR01849,25-34,Nagpur,Tier 2,Verified,1580,4,28,812.85,PhonePe,Android,0.804,0
+USR01850,45-54,Aurangabad,Tier 3,Not Verified,1285,2,22,198.26,GPay,Android,0.826,0
+USR01851,18-24,Jalandhar,Tier 3,Not Verified,2373,3,19,252.95,GPay,Android,0.596,0
+USR01852,35-44,Mumbai,Tier 1,Verified,729,1,62,698.54,Amazon Pay,Android,0.777,0
+USR01853,35-44,Kochi,Tier 2,Verified,2207,2,35,116.06,GPay,Android,0.894,0
+USR01854,35-44,Bengaluru,Tier 1,Verified,1091,1,37,450.5,GPay,Android,0.562,0
+USR01855,18-24,Guwahati,Tier 3,Verified,614,1,26,165.83,PhonePe,Android,0.762,0
+USR01856,25-34,Tiruchirappalli,Tier 3,Verified,1546,2,19,302.14,Paytm,Web,0.324,0
+USR01857,25-34,Rajkot,Tier 2,Verified,1905,1,39,359.84,GPay,Android,0.988,0
+USR01858,25-34,Chennai,Tier 1,Not Verified,1159,4,50,468.92,PhonePe,Android,0.569,0
+USR01859,25-34,Hyderabad,Tier 1,Verified,1280,2,36,611.56,PhonePe,iOS,0.178,0
+USR01860,18-24,Kolkata,Tier 1,Verified,399,2,43,1139.98,PhonePe,Web,0.169,0
+USR01861,35-44,Lucknow,Tier 2,Verified,706,2,32,756.18,Paytm,Android,0.176,0
+USR01862,35-44,Ahmedabad,Tier 1,Verified,73,4,23,1077.17,BHIM,Android,0.482,0
+USR01863,35-44,Tiruchirappalli,Tier 3,Verified,588,1,8,380.7,PhonePe,Android,0.564,0
+USR01864,55+,Delhi,Tier 1,Verified,1690,1,29,2054.18,Paytm,Android,0.271,0
+USR01865,35-44,Jaipur,Tier 2,Verified,1770,2,32,323.52,GPay,Android,0.775,0
+USR01866,25-34,Rajkot,Tier 2,Verified,2193,2,20,1013.85,GPay,Android,0.138,0
+USR01867,25-34,Kanpur,Tier 2,Verified,2174,3,33,1568.34,PhonePe,Android,0.257,0
+USR01868,35-44,Kanpur,Tier 2,Verified,2134,1,29,485.92,Paytm,iOS,0.146,0
+USR01869,18-24,Kanpur,Tier 2,Verified,1558,4,39,623.64,GPay,Android,0.404,0
+USR01870,35-44,Delhi,Tier 1,Verified,1218,1,1,649.01,GPay,iOS,0.364,0
+USR01871,25-34,Pune,Tier 1,Verified,920,3,40,1346.07,PhonePe,Android,0.936,0
+USR01872,18-24,Mumbai,Tier 1,Verified,1926,3,40,1415.2,PhonePe,Android,0.864,0
+USR01873,55+,Jaipur,Tier 2,Verified,1915,1,19,1584.36,GPay,Android,0.419,1
+USR01874,18-24,Varanasi,Tier 3,Verified,792,1,20,217.64,Paytm,Android,0.108,0
+USR01875,45-54,Nagpur,Tier 2,Verified,377,2,34,699.88,Paytm,Android,0.909,0
+USR01876,45-54,Varanasi,Tier 3,Verified,2026,1,21,246.34,PhonePe,Android,0.793,0
+USR01877,18-24,Ahmedabad,Tier 1,Verified,1649,1,70,796.49,WhatsApp Pay,Android,0.428,0
+USR01878,25-34,Coimbatore,Tier 2,Verified,1133,1,27,522.95,GPay,Android,0.495,0
+USR01879,35-44,Bengaluru,Tier 1,Verified,602,1,46,294.06,GPay,iOS,0.491,0
+USR01880,45-54,Meerut,Tier 3,Verified,842,1,16,355.3,GPay,iOS,0.356,0
+USR01881,55+,Patna,Tier 2,Verified,1386,3,29,1044.77,BHIM,iOS,0.244,0
+USR01882,25-34,Nashik,Tier 3,Not Verified,1118,1,24,265.59,PhonePe,iOS,0.54,0
+USR01883,18-24,Surat,Tier 2,Not Verified,551,1,30,162.58,PhonePe,Android,0.788,0
+USR01884,18-24,Coimbatore,Tier 2,Verified,1622,1,29,228.93,Paytm,Android,0.962,0
+USR01885,35-44,Guwahati,Tier 3,Verified,667,1,14,1005.81,Paytm,Android,0.112,0
+USR01886,35-44,Jodhpur,Tier 3,Verified,1431,1,21,493.72,BHIM,Android,0.637,1
+USR01887,35-44,Vadodara,Tier 2,Verified,1215,1,24,599.78,GPay,Android,0.174,0
+USR01888,18-24,Agra,Tier 2,Verified,654,2,24,335.68,GPay,Android,0.268,0
+USR01889,25-34,Lucknow,Tier 2,Verified,1109,4,24,654.66,GPay,iOS,0.323,0
+USR01890,18-24,Hyderabad,Tier 1,Verified,1971,2,60,2554.77,WhatsApp Pay,iOS,0.829,0
+USR01891,25-34,Coimbatore,Tier 2,Verified,772,1,22,275.63,WhatsApp Pay,Android,0.869,0
+USR01892,25-34,Guwahati,Tier 3,Verified,969,1,12,222.97,GPay,Web,0.461,0
+USR01893,18-24,Mysuru,Tier 3,Verified,628,1,11,256.87,PhonePe,Android,0.655,0
+USR01894,25-34,Jaipur,Tier 2,Verified,1587,1,28,309.19,WhatsApp Pay,Android,0.376,0
+USR01895,45-54,Mysuru,Tier 3,Not Verified,938,1,21,608.85,BHIM,Android,0.531,0
+USR01896,55+,Surat,Tier 2,Verified,241,1,33,787.02,Paytm,Android,0.342,0
+USR01897,45-54,Jalandhar,Tier 3,Verified,1742,1,11,588.7,GPay,Web,0.906,0
+USR01898,25-34,Jaipur,Tier 2,Verified,243,2,33,638.48,BHIM,Android,0.389,0
+USR01899,25-34,Visakhapatnam,Tier 2,Verified,442,1,30,2085.3,PhonePe,Web,0.327,0
+USR01900,35-44,Kolkata,Tier 1,Verified,1276,1,43,623.88,GPay,iOS,0.702,0
+USR01901,18-24,Kochi,Tier 2,Verified,563,1,41,681.79,PhonePe,Android,0.767,0
+USR01902,35-44,Madurai,Tier 3,Verified,2442,2,26,705.17,Paytm,Android,0.434,0
+USR01903,18-24,Mysuru,Tier 3,Not Verified,2423,1,28,404.76,GPay,Android,0.898,0
+USR01904,35-44,Tiruchirappalli,Tier 3,Verified,2495,1,13,328.67,WhatsApp Pay,iOS,0.628,0
+USR01905,45-54,Hyderabad,Tier 1,Not Verified,820,2,62,499.09,PhonePe,iOS,0.933,0
+USR01906,25-34,Kolkata,Tier 1,Verified,1264,2,48,729.58,PhonePe,Android,0.991,0
+USR01907,25-34,Tiruchirappalli,Tier 3,Verified,659,1,17,144.04,WhatsApp Pay,Android,0.273,0
+USR01908,18-24,Visakhapatnam,Tier 2,Verified,2325,4,37,819.1,WhatsApp Pay,iOS,0.905,0
+USR01909,18-24,Delhi,Tier 1,Not Verified,1816,1,27,442.52,Amazon Pay,Android,0.477,0
+USR01910,45-54,Mumbai,Tier 1,Not Verified,713,2,52,202.78,Amazon Pay,Web,0.727,0
+USR01911,18-24,Mumbai,Tier 1,Verified,2349,1,41,868.18,PhonePe,Android,0.975,0
+USR01912,18-24,Chandigarh,Tier 2,Verified,1658,1,24,271.96,BHIM,iOS,0.579,0
+USR01913,18-24,Delhi,Tier 1,Verified,707,1,63,605.6,PhonePe,Android,0.558,0
+USR01914,35-44,Patna,Tier 2,Not Verified,1671,2,30,353.71,GPay,Android,0.286,1
+USR01915,25-34,Solapur,Tier 3,Not Verified,922,2,21,345.41,Paytm,Android,0.108,0
+USR01916,25-34,Ahmedabad,Tier 1,Verified,2093,2,1,596.51,Amazon Pay,Android,0.573,0
+USR01917,55+,Mysuru,Tier 3,Not Verified,1243,2,17,128.35,PhonePe,Android,0.597,0
+USR01918,45-54,Jaipur,Tier 2,Verified,2215,1,33,525.72,GPay,Android,0.135,0
+USR01919,18-24,Varanasi,Tier 3,Verified,1167,3,20,247.7,PhonePe,Android,0.343,0
+USR01920,18-24,Surat,Tier 2,Verified,1049,4,13,279.87,PhonePe,Android,0.289,0
+USR01921,35-44,Surat,Tier 2,Verified,1453,2,33,385.22,BHIM,Android,0.975,0
+USR01922,25-34,Rajkot,Tier 2,Verified,2279,1,27,556.59,Paytm,Android,0.22,0
+USR01923,45-54,Visakhapatnam,Tier 2,Verified,1359,4,32,651.35,PhonePe,Android,0.663,1
+USR01924,25-34,Jalandhar,Tier 3,Verified,928,2,11,148.57,WhatsApp Pay,Android,0.352,0
+USR01925,18-24,Mumbai,Tier 1,Verified,2231,2,44,599.25,PhonePe,iOS,0.881,0
+USR01926,55+,Agra,Tier 2,Verified,465,2,22,579.47,Paytm,Web,0.719,0
+USR01927,25-34,Hubli,Tier 3,Verified,2286,1,16,272.98,GPay,iOS,0.498,0
+USR01928,35-44,Mysuru,Tier 3,Verified,2412,2,28,334.08,PhonePe,iOS,0.872,0
+USR01929,35-44,Vadodara,Tier 2,Verified,979,2,27,700.76,PhonePe,iOS,0.491,0
+USR01930,45-54,Vadodara,Tier 2,Verified,413,1,37,438.61,PhonePe,Android,0.513,0
+USR01931,25-34,Bengaluru,Tier 1,Verified,803,2,36,1198.3,Paytm,Android,0.949,0
+USR01932,25-34,Chennai,Tier 1,Verified,116,1,58,1963.13,PhonePe,iOS,0.897,0
+USR01933,35-44,Warangal,Tier 3,Verified,799,1,22,252.4,PhonePe,iOS,0.165,0
+USR01934,18-24,Indore,Tier 2,Verified,1678,1,43,294.51,PhonePe,iOS,0.574,0
+USR01935,35-44,Kochi,Tier 2,Verified,78,2,24,1000.38,PhonePe,Android,0.44,1
+USR01936,18-24,Chandigarh,Tier 2,Verified,85,2,19,1362.11,PhonePe,iOS,0.68,1
+USR01937,35-44,Hyderabad,Tier 1,Verified,372,1,38,2001.25,BHIM,Android,0.945,0
+USR01938,35-44,Mumbai,Tier 1,Verified,465,2,37,1125.91,PhonePe,iOS,0.836,0
+USR01939,25-34,Ranchi,Tier 3,Verified,858,1,20,226.13,Paytm,Android,0.784,0
+USR01940,18-24,Bengaluru,Tier 1,Verified,1289,1,52,423.34,WhatsApp Pay,Android,0.239,0
+USR01941,35-44,Rajkot,Tier 2,Not Verified,1125,2,57,670.74,PhonePe,Android,0.211,0
+USR01942,25-34,Delhi,Tier 1,Verified,2260,1,19,1137.98,PhonePe,Android,0.56,0
+USR01943,45-54,Guwahati,Tier 3,Verified,34,3,24,120.25,GPay,Android,0.122,0
+USR01944,45-54,Bengaluru,Tier 1,Verified,1477,2,53,4051.02,Amazon Pay,Web,0.303,0
+USR01945,18-24,Amritsar,Tier 3,Verified,490,1,20,1004.83,GPay,Android,0.992,0
+USR01946,45-54,Hubli,Tier 3,Verified,1493,1,19,534.47,BHIM,Android,0.4,0
+USR01947,25-34,Delhi,Tier 1,Verified,207,2,32,914.87,WhatsApp Pay,Android,0.26,0
+USR01948,25-34,Bengaluru,Tier 1,Verified,1771,1,65,697.04,PhonePe,Android,0.701,0
+USR01949,18-24,Chandigarh,Tier 2,Verified,1205,1,36,472.44,PhonePe,Android,0.194,0
+USR01950,18-24,Warangal,Tier 3,Verified,1541,3,26,52.28,BHIM,iOS,0.83,0
+USR01951,18-24,Delhi,Tier 1,Verified,38,3,25,3003.38,Paytm,iOS,0.98,0
+USR01952,18-24,Kanpur,Tier 2,Not Verified,1341,1,10,343.72,Paytm,iOS,0.502,0
+USR01953,45-54,Ahmedabad,Tier 1,Verified,305,1,39,401.81,Paytm,Web,0.485,0
+USR01954,55+,Guwahati,Tier 3,Verified,400,1,18,197.23,GPay,iOS,0.215,0
+USR01955,55+,Bhopal,Tier 2,Verified,1337,1,32,54.56,GPay,Android,0.533,0
+USR01956,25-34,Agra,Tier 2,Verified,1395,1,30,417.69,PhonePe,Android,0.95,0
+USR01957,25-34,Pune,Tier 1,Verified,1744,2,45,437.76,Paytm,Android,0.585,0
+USR01958,25-34,Aurangabad,Tier 3,Verified,972,1,16,679.16,Paytm,Android,0.623,0
+USR01959,35-44,Agra,Tier 2,Verified,928,2,19,346.66,PhonePe,Android,0.312,1
+USR01960,35-44,Chandigarh,Tier 2,Verified,100,1,15,1317.8,BHIM,iOS,0.527,0
+USR01961,18-24,Lucknow,Tier 2,Verified,274,3,30,1028.83,Paytm,Android,0.425,0
+USR01962,25-34,Madurai,Tier 3,Verified,600,1,20,199.45,Paytm,Android,0.23,0
+USR01963,25-34,Indore,Tier 2,Verified,1754,1,18,423.23,PhonePe,Android,0.845,0
+USR01964,35-44,Kanpur,Tier 2,Verified,510,4,25,715.54,PhonePe,Android,0.734,0
+USR01965,45-54,Jaipur,Tier 2,Verified,1769,1,32,716.55,PhonePe,Android,0.731,0
+USR01966,18-24,Ranchi,Tier 3,Verified,1983,3,11,336.11,GPay,Android,0.883,1
+USR01967,18-24,Kolkata,Tier 1,Verified,608,1,53,493.87,BHIM,Android,0.169,0
+USR01968,18-24,Chandigarh,Tier 2,Verified,1735,1,32,192.57,Paytm,Android,0.264,0
+USR01969,18-24,Rajkot,Tier 2,Verified,2190,2,42,325.91,PhonePe,iOS,0.37,0
+USR01970,45-54,Jalandhar,Tier 3,Verified,1848,2,8,326.29,Amazon Pay,Android,0.726,0
+USR01971,25-34,Bengaluru,Tier 1,Verified,275,3,84,913.24,PhonePe,Android,0.129,0
+USR01972,35-44,Aurangabad,Tier 3,Verified,686,1,25,208.0,PhonePe,Android,0.849,0
+USR01973,25-34,Ahmedabad,Tier 1,Verified,2299,2,21,236.83,GPay,Android,0.332,0
+USR01974,35-44,Chennai,Tier 1,Verified,961,1,66,1277.76,Amazon Pay,iOS,0.241,0
+USR01975,25-34,Coimbatore,Tier 2,Verified,1576,4,34,629.94,GPay,Android,0.213,0
+USR01976,25-34,Solapur,Tier 3,Verified,259,1,27,126.71,WhatsApp Pay,Android,0.265,0
+USR01977,18-24,Delhi,Tier 1,Verified,1948,1,67,3191.18,GPay,iOS,0.687,0
+USR01978,25-34,Patna,Tier 2,Verified,705,1,27,1332.09,Paytm,iOS,0.434,0
+USR01979,45-54,Visakhapatnam,Tier 2,Not Verified,474,1,16,681.77,PhonePe,iOS,0.426,0
+USR01980,18-24,Bhopal,Tier 2,Verified,144,1,19,851.48,PhonePe,iOS,0.246,0
+USR01981,18-24,Nagpur,Tier 2,Verified,2475,1,23,316.33,PhonePe,Android,0.919,0
+USR01982,18-24,Hyderabad,Tier 1,Verified,162,1,44,1044.58,BHIM,iOS,0.177,0
+USR01983,35-44,Jaipur,Tier 2,Verified,2339,4,19,905.76,BHIM,Android,0.535,1
+USR01984,18-24,Ranchi,Tier 3,Not Verified,1294,1,23,141.26,PhonePe,Android,0.421,0
+USR01985,55+,Patna,Tier 2,Verified,2078,1,31,808.29,BHIM,Android,0.777,0
+USR01986,45-54,Kanpur,Tier 2,Verified,428,1,26,528.91,GPay,Android,0.907,0
+USR01987,35-44,Coimbatore,Tier 2,Verified,645,1,11,328.91,PhonePe,iOS,0.816,0
+USR01988,18-24,Meerut,Tier 3,Not Verified,183,1,27,275.94,GPay,iOS,0.236,0
+USR01989,25-34,Delhi,Tier 1,Verified,978,3,40,737.93,Paytm,Android,0.827,0
+USR01990,18-24,Kochi,Tier 2,Not Verified,689,4,27,545.69,Amazon Pay,Android,0.551,0
+USR01991,25-34,Kolkata,Tier 1,Verified,1862,2,66,461.43,PhonePe,Android,0.405,0
+USR01992,25-34,Pune,Tier 1,Verified,193,3,40,1005.04,PhonePe,Android,0.797,0
+USR01993,35-44,Hyderabad,Tier 1,Verified,337,4,65,312.16,PhonePe,Android,0.61,0
+USR01994,35-44,Lucknow,Tier 2,Verified,91,1,23,503.66,GPay,Android,0.883,0
+USR01995,45-54,Madurai,Tier 3,Verified,387,1,27,112.61,GPay,iOS,0.509,0
+USR01996,45-54,Visakhapatnam,Tier 2,Verified,691,1,35,385.83,Paytm,iOS,0.619,0
+USR01997,35-44,Delhi,Tier 1,Verified,763,2,45,613.9,PhonePe,Android,0.515,0
+USR01998,35-44,Chennai,Tier 1,Verified,1840,2,39,1464.63,GPay,Web,0.226,0
+USR01999,18-24,Solapur,Tier 3,Verified,2029,1,12,177.91,BHIM,iOS,0.873,0
+USR02000,35-44,Meerut,Tier 3,Verified,558,1,23,498.19,Amazon Pay,Android,0.561,0

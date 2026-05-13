@@ -1,0 +1,64 @@
+file,column,description,dtype,example_values,notes
+transactions.csv,transaction_id,Unique identifier for each transaction,string,TXN0000001,Primary key
+transactions.csv,user_id,Unique sender/payer identifier,string,USR00042,Foreign key → users.csv
+transactions.csv,receiver_id,Recipient — either another user or a merchant,string,MRC0023 / USR00088,Foreign key → merchants.csv or users.csv
+transactions.csv,receiver_type,Whether the receiver is a User or Merchant,string,"User, Merchant",Categorical
+transactions.csv,amount,Transaction amount in Indian Rupees (₹),float,"152.50, 4999.00","Log-normal distribution, max ₹1,00,000"
+transactions.csv,timestamp,Full datetime of the transaction,datetime,2024-03-15 14:32:07,Format: YYYY-MM-DD HH:MM:SS
+transactions.csv,date,Date portion of timestamp,date,2024-03-15,Format: YYYY-MM-DD
+transactions.csv,hour_of_day,Hour when transaction occurred (0–23),int,0–23,Extracted from timestamp
+transactions.csv,day_of_week,Day name of transaction,string,"Monday, Saturday",Extracted from timestamp
+transactions.csv,is_weekend,Whether transaction occurred on a weekend,int (binary),"0, 1",1 = Saturday or Sunday
+transactions.csv,is_night_transaction,Whether transaction occurred between 10 PM and 6 AM,int (binary),"0, 1",1 = hour < 6 or hour >= 22
+transactions.csv,time_since_last_txn_min,Minutes elapsed since user's previous transaction,float,"12.5, 340.2",Null for first transaction; ~2% missing intentionally
+transactions.csv,transaction_type,Nature of the payment,string,"P2P, P2M, Bill Payment, Recharge, EMI, Subscription",Categorical
+transactions.csv,payment_app,UPI app used for the transaction,string,"GPay, PhonePe, Paytm, BHIM, Amazon Pay, WhatsApp Pay",Categorical
+transactions.csv,device_type,Device platform used,string,"Android, iOS, Web",Categorical
+transactions.csv,status,Outcome of the transaction,string,"Success, Failed, Pending","~88% Success, ~9% Failed, ~3% Pending"
+transactions.csv,user_city_tier,City tier of the sender,string,"Tier 1, Tier 2, Tier 3",Snapshot from users.csv
+transactions.csv,user_kyc_status,KYC verification status of sender at transaction time,string,"Verified, Not Verified",Snapshot from users.csv
+transactions.csv,user_avg_monthly_txn,User's historical average monthly transaction count,int,"12, 45",Snapshot from users.csv
+transactions.csv,user_avg_txn_value,User's historical average transaction value (₹),float,"520.0, 1840.5",Snapshot from users.csv
+transactions.csv,user_loyalty_score,Composite user loyalty/engagement score (0–1),float,0.0–1.0,"Higher = more engaged, longer-tenure user"
+transactions.csv,new_device_flag,Transaction initiated from an unrecognized device,int (binary),"0, 1",Key fraud signal
+transactions.csv,ip_location_mismatch,IP geolocation differs from registered city,int (binary),"0, 1",Key fraud signal
+transactions.csv,failed_attempts_last_24h,Number of failed UPI PIN attempts in last 24 hours,int,0–5,Key fraud signal; ~72% are 0
+transactions.csv,transaction_velocity,Count of rapid successive transactions by same user,int,0–4,Key fraud signal; ~2% missing intentionally
+transactions.csv,amount_deviation_score,Absolute deviation of amount from user's historical average (normalized),float,0.0–10.0,Higher = more unusual amount; ~2% missing intentionally
+transactions.csv,is_fraud,Binary fraud label for this transaction,int (binary),"0, 1",Target variable; ~3.8% positive rate
+transactions.csv,recurring_payment_flag,Whether transaction is a scheduled/recurring type,int (binary),"0, 1","1 for Bill Payment, Subscription, EMI"
+transactions.csv,balance_after_transaction,Synthetic estimated account balance after transaction (₹),float,500–80000,Synthetic; for modeling purposes only
+transactions.csv,transaction_frequency_score,Normalized score of how frequently the user transacts (0–1),float,0.0–1.0,"Derived: user_avg_monthly_txn / 50, capped at 1"
+users.csv,user_id,Unique anonymized user identifier,string,USR00001,Primary key
+users.csv,age_group,Age bracket of the user,string,"18-24, 25-34, 35-44, 45-54, 55+",Anonymized for privacy
+users.csv,city,City of user's registered UPI account,string,"Mumbai, Jaipur, Ranchi",38 cities across India
+users.csv,city_tier,Economic tier classification of the city,string,"Tier 1, Tier 2, Tier 3",Based on population and economic activity
+users.csv,kyc_status,Whether user has completed KYC verification,string,"Verified, Not Verified",~87% Verified
+users.csv,account_age_days,Number of days since account was created,int,30–2500,
+users.csv,linked_bank_count,Number of bank accounts linked to UPI,int,1–4,~50% have only 1 linked bank
+users.csv,avg_monthly_transactions,User's average number of monthly transactions,int,1–100+,Tier 1 users average ~45/month
+users.csv,avg_transaction_value,User's average transaction amount in ₹,float,50–10000,Log-normal distributed
+users.csv,preferred_app,User's most-used UPI application,string,"GPay, PhonePe, Paytm, BHIM, Amazon Pay, WhatsApp Pay",
+users.csv,preferred_device,User's primary device platform,string,"Android, iOS, Web",
+users.csv,user_loyalty_score,Composite engagement and loyalty score,float,0.1–1.0,
+users.csv,is_high_risk_user,Flag indicating user has elevated risk profile,int (binary),"0, 1",~5% of users; affects fraud probability
+merchants.csv,merchant_id,Unique anonymized merchant identifier,string,MRC0001,Primary key
+merchants.csv,merchant_name,Anonymized merchant display name,string,Merchant_1,No real business names used
+merchants.csv,merchant_category,Business category of the merchant,string,"Grocery, Food & Dining, Travel, Shopping, etc.",11 categories total
+merchants.csv,merchant_size,Size classification of the merchant business,string,"Small, Medium, Enterprise",~55% Small
+merchants.csv,city,City where merchant is located,string,"Bengaluru, Lucknow, Mysuru",
+merchants.csv,city_tier,Economic tier of merchant's city,string,"Tier 1, Tier 2, Tier 3",
+merchants.csv,avg_daily_transactions,Average number of transactions processed per day,int,1–400+,Enterprise merchants process most
+merchants.csv,is_registered,Whether merchant is formally registered,int (binary),"0, 1",~94% registered
+merchants.csv,rating,Merchant quality/satisfaction rating,float,2.5–5.0,
+fraud_labels.csv,transaction_id,Unique transaction identifier,string,TXN0000001,Foreign key → transactions.csv
+fraud_labels.csv,user_id,Sender user identifier,string,USR00042,Foreign key → users.csv
+fraud_labels.csv,receiver_id,Receiver identifier,string,MRC0023,
+fraud_labels.csv,amount,Transaction amount in ₹,float,152.50,
+fraud_labels.csv,timestamp,Full transaction datetime,datetime,2024-03-15 14:32:07,
+fraud_labels.csv,is_fraud,Binary fraud label — the target variable,int (binary),"0, 1",~3.8% positive class
+fraud_labels.csv,new_device_flag,Unrecognized device used,int (binary),"0, 1",
+fraud_labels.csv,ip_location_mismatch,IP geolocation mismatch detected,int (binary),"0, 1",
+fraud_labels.csv,failed_attempts_last_24h,Failed UPI PIN attempts in last 24h,int,0–5,
+fraud_labels.csv,transaction_velocity,Rapid successive transaction count,int,0–4,
+fraud_labels.csv,amount_deviation_score,Normalized deviation from user's typical amount,float,0.0–10.0,
