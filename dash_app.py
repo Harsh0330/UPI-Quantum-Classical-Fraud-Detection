@@ -1187,16 +1187,16 @@ def model_figures(
     best_metric: str | None = None,
 ) -> list[dbc.Card]:
     # Determine the 'best' model to display in summary cards.
-    if best_model_name and "Model" in metrics_df.columns:
-        best_match = metrics_df.loc[metrics_df["Model"] == best_model_name]
-        best = best_match.iloc[0] if not best_match.empty else metrics_df.iloc[0]
-    elif best_metric and best_metric in metrics_df.columns:
+    if best_metric and best_metric in metrics_df.columns:
         # pick row with max value for the chosen metric
         try:
             idx = metrics_df[best_metric].astype(float).idxmax()
             best = metrics_df.loc[idx]
         except Exception:
             best = metrics_df.iloc[0]
+    elif best_model_name and "Model" in metrics_df.columns:
+        best_match = metrics_df.loc[metrics_df["Model"] == best_model_name]
+        best = best_match.iloc[0] if not best_match.empty else metrics_df.iloc[0]
     else:
         best = metrics_df.iloc[0]
 
