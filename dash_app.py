@@ -1647,7 +1647,7 @@ app.layout = html.Div(
     Input("hour-filter", "value"),
     Input("screening-mode", "value"),
     Input("prob-cutoff", "value"),
-    State("best-by", "value"),
+    Input("best-by", "value"),
 )
 def render_page(
     page,
